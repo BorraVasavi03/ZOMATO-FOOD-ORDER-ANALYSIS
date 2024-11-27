@@ -1,0 +1,2001 @@
+Order_ID,Restaurant_Name,Cuisine,Order_Date,Order_Time,Delivery_Time_Minutes,Order_Value,Payment_Method,Customer_Rating,City
+ORD0001,Curry Delight,Indian,01-01-2022,10:45,53,758.05,Wallet,4.4,Hyderabad
+ORD0002,Spice Villa,Indian,01-01-2022,11:01,57,1350.44,Debit Card,3.3,Kolkata
+ORD0003,Pasta Paradise,Indian,02-01-2022,14:23,41,1004.29,Wallet,3.2,Chennai
+ORD0004,Pizza Plaza,Japanese,02-01-2022,21:55,22,1126.21,Debit Card,2.7,Chennai
+ORD0005,Curry Delight,Mexican,03-01-2022,22:36,36,158.98,UPI,4.8,Bangalore
+ORD0006,Curry Delight,Mexican,03-01-2022,23:46,34,1933.14,Debit Card,2.3,Hyderabad
+ORD0007,Curry Delight,American,04-01-2022,22:41,51,551.07,Credit Card,3.8,Delhi
+ORD0008,Spice Villa,American,04-01-2022,16:52,15,1954.5,Wallet,4.8,Chennai
+ORD0009,Burger Town,Indian,05-01-2022,12:21,48,819.31,Wallet,4.9,Mumbai
+ORD0010,Burger Town,American,05-01-2022,13:16,20,1522.4,Wallet,3.7,Chennai
+ORD0011,Pizza Plaza,American,06-01-2022,12:17,20,1909.3,UPI,3.4,Bangalore
+ORD0012,Sushi World,American,06-01-2022,11:07,39,1966.5,UPI,3.9,Mumbai
+ORD0013,Burger Town,American,07-01-2022,13:32,50,694.57,UPI,4.9,Delhi
+ORD0014,Spice Villa,American,07-01-2022,19:32,21,1485.66,Cash,3.9,Kolkata
+ORD0015,Spice Villa,Italian,08-01-2022,20:15,55,1232.56,Debit Card,4.5,Bangalore
+ORD0016,Sushi World,Italian,08-01-2022,14:46,38,1810.75,Wallet,1.4,Kolkata
+ORD0017,Spice Villa,Japanese,09-01-2022,17:47,35,627.11,Debit Card,1.3,Mumbai
+ORD0018,Curry Delight,Japanese,09-01-2022,22:27,51,1909.01,Debit Card,1.5,Mumbai
+ORD0019,Pizza Plaza,Mexican,10-01-2022,13:30,60,537.76,Cash,1.9,Delhi
+ORD0020,Curry Delight,Mexican,10-01-2022,21:49,35,778,Cash,4.8,Hyderabad
+ORD0021,Sushi World,Mexican,11-01-2022,13:57,20,178.67,Debit Card,3.6,Kolkata
+ORD0022,Spice Villa,Chinese,11-01-2022,22:23,58,242.12,Debit Card,3.3,Hyderabad
+ORD0023,Pizza Plaza,Italian,12-01-2022,23:56,47,222.39,Cash,1.7,Hyderabad
+ORD0024,Pizza Plaza,Italian,12-01-2022,13:17,27,804.98,Wallet,2.7,Mumbai
+ORD0025,Pasta Paradise,Indian,13-01-2022,14:43,20,1683.85,Debit Card,5,Kolkata
+ORD0026,Pasta Paradise,Mexican,13-01-2022,14:02,50,991.03,Cash,3.4,Chennai
+ORD0027,Sushi World,Indian,14-01-2022,17:01,23,765.88,Wallet,4.4,Hyderabad
+ORD0028,Spice Villa,Mexican,14-01-2022,15:15,50,522.89,UPI,4.3,Hyderabad
+ORD0029,Spice Villa,Indian,15-01-2022,15:04,33,102.83,Cash,2.6,Delhi
+ORD0030,Spice Villa,Indian,15-01-2022,16:44,24,760.97,UPI,3.8,Delhi
+ORD0031,Spice Villa,Japanese,16-01-2022,18:19,30,580.13,Debit Card,1.7,Bangalore
+ORD0032,Burger Town,Japanese,16-01-2022,22:45,47,1291.36,Credit Card,3.6,Bangalore
+ORD0033,Sushi World,Mexican,17-01-2022,23:23,29,577.08,Cash,4.8,Delhi
+ORD0034,Spice Villa,American,17-01-2022,13:08,41,1389.15,Debit Card,3.9,Hyderabad
+ORD0035,Curry Delight,Japanese,18-01-2022,18:55,32,1230.54,Debit Card,2.5,Chennai
+ORD0036,Curry Delight,Italian,18-01-2022,21:28,60,418.98,Credit Card,3.6,Hyderabad
+ORD0037,Curry Delight,Japanese,19-01-2022,19:52,19,1969.49,Cash,2.2,Mumbai
+ORD0038,Sushi World,Japanese,19-01-2022,19:04,32,1577.33,Wallet,3,Kolkata
+ORD0039,Pasta Paradise,Mexican,20-01-2022,11:23,53,1231.63,UPI,1.8,Delhi
+ORD0040,Sushi World,Chinese,20-01-2022,13:13,28,773.66,Credit Card,1.3,Hyderabad
+ORD0041,Pizza Plaza,American,21-01-2022,12:22,51,1284.57,Credit Card,4.6,Chennai
+ORD0042,Sushi World,Chinese,21-01-2022,10:09,25,313.57,Cash,2.7,Bangalore
+ORD0043,Sushi World,Chinese,22-01-2022,18:18,40,1565,Debit Card,2,Bangalore
+ORD0044,Sushi World,Italian,22-01-2022,14:44,38,1087.21,UPI,1.1,Kolkata
+ORD0045,Curry Delight,Italian,23-01-2022,12:01,46,1928.64,UPI,4.3,Chennai
+ORD0046,Burger Town,American,23-01-2022,16:25,59,610.49,Credit Card,4.3,Chennai
+ORD0047,Pasta Paradise,Mexican,24-01-2022,18:11,37,870.51,Credit Card,4.4,Delhi
+ORD0048,Burger Town,Italian,24-01-2022,15:37,23,1191.42,Cash,1.1,Mumbai
+ORD0049,Pizza Plaza,Japanese,25-01-2022,10:06,47,1025.07,Debit Card,3.2,Mumbai
+ORD0050,Curry Delight,Indian,25-01-2022,22:24,28,1117.24,Debit Card,1.4,Delhi
+ORD0051,Pasta Paradise,Italian,26-01-2022,17:35,28,1332.5,Wallet,4.5,Hyderabad
+ORD0052,Pizza Plaza,Japanese,26-01-2022,15:18,27,861.5,Debit Card,4,Hyderabad
+ORD0053,Pasta Paradise,Chinese,27-01-2022,11:06,23,1643.73,Debit Card,2.7,Delhi
+ORD0054,Pasta Paradise,Italian,27-01-2022,11:03,42,929.46,Credit Card,1.2,Bangalore
+ORD0055,Burger Town,Chinese,28-01-2022,19:40,26,114.67,Cash,2.6,Chennai
+ORD0056,Pizza Plaza,Chinese,28-01-2022,15:09,44,593.02,Cash,2.2,Chennai
+ORD0057,Pasta Paradise,Japanese,29-01-2022,19:05,24,774.74,UPI,4.9,Chennai
+ORD0058,Spice Villa,American,29-01-2022,18:02,17,1028.49,UPI,4.4,Mumbai
+ORD0059,Sushi World,Chinese,30-01-2022,21:29,16,962.64,UPI,3.1,Mumbai
+ORD0060,Pizza Plaza,Mexican,30-01-2022,17:42,24,1130.79,Wallet,2.6,Kolkata
+ORD0061,Pizza Plaza,American,31-01-2022,14:25,44,1590.29,Debit Card,2.3,Mumbai
+ORD0062,Curry Delight,Japanese,31-01-2022,17:28,17,194.78,UPI,1.2,Kolkata
+ORD0063,Spice Villa,Mexican,01-02-2022,15:31,36,673.52,Credit Card,2.2,Mumbai
+ORD0064,Burger Town,American,01-02-2022,20:50,48,793.21,UPI,4.1,Hyderabad
+ORD0065,Sushi World,Italian,02-02-2022,23:18,21,478.7,Credit Card,1.6,Delhi
+ORD0066,Pasta Paradise,Indian,02-02-2022,10:58,37,1210.78,Credit Card,3.5,Mumbai
+ORD0067,Spice Villa,Chinese,03-02-2022,22:14,55,1311.15,Debit Card,4.2,Delhi
+ORD0068,Spice Villa,Chinese,03-02-2022,15:08,45,1285.18,UPI,4.1,Bangalore
+ORD0069,Sushi World,Italian,04-02-2022,17:21,18,637.11,Debit Card,3.3,Kolkata
+ORD0070,Pasta Paradise,Japanese,04-02-2022,10:51,49,916.79,Credit Card,3.2,Kolkata
+ORD0071,Sushi World,Indian,05-02-2022,11:51,37,1016.51,Credit Card,1.1,Bangalore
+ORD0072,Sushi World,Indian,05-02-2022,21:13,45,460.15,Debit Card,3.8,Hyderabad
+ORD0073,Burger Town,Mexican,06-02-2022,18:50,18,1100.91,Credit Card,4.4,Kolkata
+ORD0074,Curry Delight,Indian,06-02-2022,11:29,58,1421.45,Credit Card,2.6,Mumbai
+ORD0075,Spice Villa,Mexican,07-02-2022,21:12,19,665.67,Cash,3.1,Bangalore
+ORD0076,Spice Villa,Chinese,08-02-2022,15:36,31,1480.01,Cash,4.5,Kolkata
+ORD0077,Curry Delight,Indian,08-02-2022,15:48,60,788.06,Cash,1.6,Chennai
+ORD0078,Sushi World,Italian,09-02-2022,17:41,58,715.68,Wallet,3.1,Delhi
+ORD0079,Curry Delight,Mexican,09-02-2022,14:49,31,1773.03,Wallet,2.9,Chennai
+ORD0080,Spice Villa,Mexican,10-02-2022,22:28,18,1411.9,Debit Card,1.3,Mumbai
+ORD0081,Pizza Plaza,Indian,10-02-2022,22:26,27,1575.34,Debit Card,4.5,Mumbai
+ORD0082,Pizza Plaza,Chinese,11-02-2022,15:08,24,1481.04,Wallet,1.2,Delhi
+ORD0083,Spice Villa,American,11-02-2022,17:37,50,433.32,UPI,3.2,Delhi
+ORD0084,Pizza Plaza,Japanese,12-02-2022,18:40,53,1681.79,UPI,1.6,Mumbai
+ORD0085,Curry Delight,Mexican,12-02-2022,12:16,39,106.05,Cash,1.3,Mumbai
+ORD0086,Curry Delight,Chinese,13-02-2022,22:59,27,126.88,Debit Card,4.7,Mumbai
+ORD0087,Pasta Paradise,Indian,13-02-2022,12:19,45,771.82,Cash,4.3,Delhi
+ORD0088,Burger Town,Indian,14-02-2022,17:38,22,1365.06,Cash,2.5,Bangalore
+ORD0089,Pasta Paradise,Mexican,14-02-2022,19:42,42,156.96,Wallet,4.2,Bangalore
+ORD0090,Pasta Paradise,Indian,15-02-2022,21:28,16,1636.86,Cash,3,Mumbai
+ORD0091,Pizza Plaza,American,15-02-2022,12:40,51,1451.42,Credit Card,1.8,Kolkata
+ORD0092,Pizza Plaza,Indian,16-02-2022,16:55,50,903.89,Wallet,1.8,Bangalore
+ORD0093,Burger Town,American,16-02-2022,17:09,53,1924.16,UPI,3.4,Chennai
+ORD0094,Spice Villa,Mexican,17-02-2022,21:01,22,721.22,Debit Card,1.4,Delhi
+ORD0095,Sushi World,Japanese,17-02-2022,23:41,45,610.03,UPI,2.3,Delhi
+ORD0096,Sushi World,American,18-02-2022,18:58,51,1278.65,Credit Card,1.9,Chennai
+ORD0097,Pasta Paradise,Indian,18-02-2022,11:47,52,1273.33,Cash,4.6,Bangalore
+ORD0098,Spice Villa,Japanese,19-02-2022,18:16,60,633.73,Wallet,1.3,Hyderabad
+ORD0099,Pasta Paradise,American,19-02-2022,21:02,22,1961.38,Cash,1.3,Kolkata
+ORD0100,Burger Town,Indian,20-02-2022,23:41,38,449.66,UPI,2.9,Mumbai
+ORD0101,Pizza Plaza,Italian,20-02-2022,15:55,46,1777.16,Cash,1.5,Bangalore
+ORD0102,Sushi World,Italian,21-02-2022,20:20,37,1007.56,Debit Card,1.6,Mumbai
+ORD0103,Pizza Plaza,Japanese,21-02-2022,13:49,46,149.34,Cash,3.9,Delhi
+ORD0104,Curry Delight,Chinese,22-02-2022,17:07,36,1512.33,Wallet,1.2,Chennai
+ORD0105,Sushi World,Japanese,22-02-2022,13:32,40,1059.27,Credit Card,5,Bangalore
+ORD0106,Spice Villa,Chinese,23-02-2022,13:54,15,407.63,UPI,3.4,Mumbai
+ORD0107,Curry Delight,American,23-02-2022,11:49,47,1960.32,Debit Card,2.9,Mumbai
+ORD0108,Pasta Paradise,Chinese,24-02-2022,11:36,22,632.57,UPI,2.6,Chennai
+ORD0109,Curry Delight,Mexican,24-02-2022,16:42,21,991.09,Debit Card,2.3,Delhi
+ORD0110,Spice Villa,Chinese,25-02-2022,23:21,59,937.36,Debit Card,1.7,Delhi
+ORD0111,Burger Town,Chinese,25-02-2022,21:42,49,1280.86,Credit Card,1.8,Kolkata
+ORD0112,Spice Villa,Italian,26-02-2022,17:46,37,880.28,Wallet,4.4,Bangalore
+ORD0113,Pasta Paradise,Italian,26-02-2022,19:43,59,1889.79,Debit Card,2.5,Chennai
+ORD0114,Curry Delight,Mexican,27-02-2022,10:42,37,1705.54,Cash,1.8,Kolkata
+ORD0115,Pizza Plaza,Chinese,27-02-2022,12:30,42,1954.19,Credit Card,1.6,Delhi
+ORD0116,Spice Villa,Japanese,28-02-2022,18:02,31,293.96,Wallet,5,Hyderabad
+ORD0117,Burger Town,Indian,28-02-2022,21:34,33,738.43,Debit Card,4,Mumbai
+ORD0118,Pasta Paradise,Japanese,01-03-2022,21:09,35,450.06,Debit Card,3.2,Chennai
+ORD0119,Sushi World,Indian,01-03-2022,21:02,35,775.09,Debit Card,2.4,Delhi
+ORD0120,Burger Town,Mexican,02-03-2022,22:41,17,1189.24,Credit Card,3.5,Bangalore
+ORD0121,Curry Delight,American,02-03-2022,21:47,33,798.12,Cash,3,Delhi
+ORD0122,Pasta Paradise,Indian,03-03-2022,12:58,27,782.96,Wallet,1.3,Hyderabad
+ORD0123,Pasta Paradise,Mexican,03-03-2022,17:54,53,1218.3,Debit Card,4.4,Kolkata
+ORD0124,Pasta Paradise,Indian,04-03-2022,12:41,59,899.95,Debit Card,2.8,Kolkata
+ORD0125,Curry Delight,Japanese,04-03-2022,19:50,18,1163.19,Wallet,1,Chennai
+ORD0126,Burger Town,American,05-03-2022,16:15,35,1726.33,Cash,1.7,Chennai
+ORD0127,Sushi World,Indian,05-03-2022,19:28,33,915.79,Credit Card,4.3,Chennai
+ORD0128,Pizza Plaza,Mexican,06-03-2022,22:14,24,1483,UPI,3.1,Kolkata
+ORD0129,Curry Delight,Chinese,06-03-2022,20:51,20,1010.28,Cash,1.3,Mumbai
+ORD0130,Spice Villa,Mexican,07-03-2022,21:48,18,1855.65,Debit Card,4.3,Hyderabad
+ORD0131,Pasta Paradise,Indian,07-03-2022,10:20,37,1532.56,Debit Card,3.5,Mumbai
+ORD0132,Pizza Plaza,Italian,08-03-2022,22:21,15,409.39,Credit Card,2.1,Kolkata
+ORD0133,Spice Villa,Italian,08-03-2022,13:45,48,935.11,Wallet,1.4,Kolkata
+ORD0134,Spice Villa,Mexican,09-03-2022,10:55,29,1603.87,Cash,2.5,Hyderabad
+ORD0135,Curry Delight,Japanese,09-03-2022,20:17,15,1105.96,Cash,3.6,Chennai
+ORD0136,Pizza Plaza,Mexican,10-03-2022,12:51,40,507.14,Credit Card,4.3,Chennai
+ORD0137,Pizza Plaza,Indian,10-03-2022,17:51,33,129.38,Credit Card,4.6,Mumbai
+ORD0138,Pasta Paradise,American,11-03-2022,11:34,23,356.85,Credit Card,2.2,Delhi
+ORD0139,Curry Delight,Chinese,11-03-2022,19:17,34,1709.89,Debit Card,1.4,Mumbai
+ORD0140,Curry Delight,Mexican,12-03-2022,16:22,15,1082.47,Credit Card,2.2,Delhi
+ORD0141,Spice Villa,Japanese,12-03-2022,18:04,19,457.68,Credit Card,1.7,Chennai
+ORD0142,Burger Town,Mexican,13-03-2022,17:10,41,1986.28,Credit Card,2.5,Chennai
+ORD0143,Spice Villa,Indian,13-03-2022,10:21,28,392.64,Credit Card,3.9,Kolkata
+ORD0144,Curry Delight,Japanese,14-03-2022,21:49,33,1532.3,Wallet,3.4,Kolkata
+ORD0145,Pizza Plaza,Italian,14-03-2022,10:02,16,1196.22,Wallet,4.5,Delhi
+ORD0146,Pasta Paradise,Italian,15-03-2022,12:33,43,1553.49,Credit Card,3.8,Delhi
+ORD0147,Spice Villa,Mexican,15-03-2022,11:54,44,943.1,Wallet,4.1,Kolkata
+ORD0148,Sushi World,Indian,16-03-2022,22:34,53,779.05,Credit Card,4.9,Chennai
+ORD0149,Curry Delight,American,16-03-2022,23:27,19,454.81,Credit Card,1.4,Bangalore
+ORD0150,Sushi World,Indian,17-03-2022,21:58,27,532.37,Debit Card,1.6,Delhi
+ORD0151,Burger Town,Chinese,18-03-2022,22:39,25,606.06,UPI,3.1,Kolkata
+ORD0152,Pizza Plaza,Italian,18-03-2022,10:22,34,1917.25,Credit Card,4.8,Chennai
+ORD0153,Spice Villa,Mexican,19-03-2022,22:03,31,927.93,Credit Card,3.3,Hyderabad
+ORD0154,Burger Town,Indian,19-03-2022,16:20,42,820.45,Debit Card,4.1,Chennai
+ORD0155,Pasta Paradise,Japanese,20-03-2022,23:32,40,770.23,Cash,4.7,Kolkata
+ORD0156,Curry Delight,Mexican,20-03-2022,10:14,50,1728.11,UPI,3.5,Bangalore
+ORD0157,Spice Villa,Mexican,21-03-2022,16:04,32,1280.03,Wallet,4.5,Kolkata
+ORD0158,Pizza Plaza,Italian,21-03-2022,18:02,19,959.96,Cash,4.1,Delhi
+ORD0159,Pasta Paradise,Indian,22-03-2022,17:28,19,965.87,Debit Card,3.2,Delhi
+ORD0160,Pasta Paradise,Italian,22-03-2022,11:49,23,1239.79,Cash,3,Kolkata
+ORD0161,Curry Delight,Indian,23-03-2022,18:34,30,545.62,Wallet,2.6,Mumbai
+ORD0162,Pizza Plaza,American,23-03-2022,17:57,46,284.02,UPI,3.7,Bangalore
+ORD0163,Pasta Paradise,Italian,24-03-2022,11:00,52,1914.78,Cash,4.1,Hyderabad
+ORD0164,Spice Villa,American,24-03-2022,12:59,24,1975.1,Cash,3.9,Chennai
+ORD0165,Curry Delight,American,25-03-2022,10:29,15,835.89,Debit Card,1.2,Hyderabad
+ORD0166,Sushi World,American,25-03-2022,20:51,38,1742.18,Debit Card,3.1,Delhi
+ORD0167,Spice Villa,Indian,26-03-2022,10:17,40,1509.32,Wallet,3.3,Hyderabad
+ORD0168,Pasta Paradise,Mexican,26-03-2022,11:50,38,1357.41,Cash,4.8,Bangalore
+ORD0169,Pasta Paradise,American,27-03-2022,13:22,36,686.78,Credit Card,3.7,Bangalore
+ORD0170,Burger Town,Italian,27-03-2022,10:20,33,219.49,UPI,3.7,Bangalore
+ORD0171,Pasta Paradise,Chinese,28-03-2022,23:00,29,1871.97,Wallet,1.3,Mumbai
+ORD0172,Spice Villa,Italian,28-03-2022,14:34,34,211.75,UPI,2.8,Hyderabad
+ORD0173,Burger Town,Japanese,29-03-2022,13:09,32,540.11,Debit Card,4.4,Bangalore
+ORD0174,Pasta Paradise,American,29-03-2022,20:02,40,1635.24,Debit Card,3.8,Hyderabad
+ORD0175,Pasta Paradise,American,30-03-2022,16:18,42,1592.44,Cash,2.2,Kolkata
+ORD0176,Pizza Plaza,Japanese,30-03-2022,23:30,32,1691.53,UPI,1.8,Kolkata
+ORD0177,Curry Delight,Mexican,31-03-2022,23:09,30,531.55,Cash,1.9,Chennai
+ORD0178,Spice Villa,Chinese,31-03-2022,17:46,52,1187.01,Cash,4.6,Delhi
+ORD0179,Spice Villa,Mexican,01-04-2022,19:14,51,1853.26,Credit Card,4.9,Hyderabad
+ORD0180,Sushi World,Mexican,01-04-2022,16:38,41,137.84,Debit Card,1.3,Chennai
+ORD0181,Curry Delight,Chinese,02-04-2022,23:33,39,528.78,Debit Card,1.9,Bangalore
+ORD0182,Sushi World,Italian,02-04-2022,23:59,31,885.13,Wallet,3.7,Delhi
+ORD0183,Sushi World,American,03-04-2022,19:23,29,1251.92,Cash,4.7,Hyderabad
+ORD0184,Spice Villa,Chinese,03-04-2022,20:15,37,1558.73,UPI,2.1,Chennai
+ORD0185,Spice Villa,Japanese,04-04-2022,17:19,25,1281.73,UPI,3.4,Mumbai
+ORD0186,Curry Delight,Indian,04-04-2022,19:39,47,196.06,Credit Card,2.8,Chennai
+ORD0187,Curry Delight,Japanese,05-04-2022,12:45,57,1209.86,Debit Card,3.1,Delhi
+ORD0188,Pizza Plaza,Mexican,05-04-2022,20:55,34,1444.92,Wallet,4.5,Hyderabad
+ORD0189,Curry Delight,Mexican,06-04-2022,22:50,25,330.33,Debit Card,1.9,Hyderabad
+ORD0190,Burger Town,American,06-04-2022,22:53,47,1532.71,UPI,4,Delhi
+ORD0191,Pasta Paradise,Italian,07-04-2022,13:29,43,1774.61,Debit Card,4.6,Bangalore
+ORD0192,Pasta Paradise,Chinese,07-04-2022,10:53,24,170.89,Debit Card,3.6,Bangalore
+ORD0193,Curry Delight,American,08-04-2022,13:08,34,1044.85,Credit Card,3.8,Delhi
+ORD0194,Curry Delight,Chinese,08-04-2022,10:45,28,1442.41,Wallet,1,Chennai
+ORD0195,Burger Town,Mexican,09-04-2022,21:27,59,294.5,UPI,5,Kolkata
+ORD0196,Spice Villa,Mexican,09-04-2022,14:13,54,1799.6,Cash,1.7,Hyderabad
+ORD0197,Spice Villa,American,10-04-2022,20:53,23,1749.01,Wallet,4.2,Chennai
+ORD0198,Pizza Plaza,Japanese,10-04-2022,18:46,52,1271.17,Debit Card,2,Bangalore
+ORD0199,Spice Villa,Japanese,11-04-2022,15:27,19,1057.9,Debit Card,4.4,Chennai
+ORD0200,Spice Villa,Italian,11-04-2022,19:01,29,1794.49,Wallet,3.1,Mumbai
+ORD0201,Spice Villa,Japanese,12-04-2022,17:29,28,716.64,UPI,4.3,Chennai
+ORD0202,Spice Villa,Indian,12-04-2022,17:26,45,1104.47,Cash,2.4,Chennai
+ORD0203,Pizza Plaza,Japanese,13-04-2022,10:45,28,1223.42,Cash,3.8,Hyderabad
+ORD0204,Pasta Paradise,Italian,13-04-2022,12:10,41,339.34,Debit Card,4.3,Hyderabad
+ORD0205,Sushi World,Indian,14-04-2022,20:41,30,1585.3,UPI,2.5,Bangalore
+ORD0206,Burger Town,Italian,14-04-2022,18:17,25,571.66,Wallet,1.9,Mumbai
+ORD0207,Curry Delight,Chinese,15-04-2022,23:19,39,386.73,Cash,2.1,Delhi
+ORD0208,Pasta Paradise,Japanese,15-04-2022,15:08,42,1029.49,Credit Card,1.6,Mumbai
+ORD0209,Burger Town,Japanese,16-04-2022,23:38,56,1983.81,UPI,3.5,Chennai
+ORD0210,Burger Town,Mexican,16-04-2022,12:44,26,451.68,Cash,1.5,Mumbai
+ORD0211,Curry Delight,Italian,17-04-2022,18:22,20,329.34,Cash,3.9,Kolkata
+ORD0212,Burger Town,Mexican,17-04-2022,18:43,25,1749.1,Debit Card,4.8,Chennai
+ORD0213,Spice Villa,Japanese,18-04-2022,11:50,31,688.68,UPI,4.4,Kolkata
+ORD0214,Sushi World,Mexican,18-04-2022,23:07,24,1719.34,Wallet,4,Delhi
+ORD0215,Pasta Paradise,Italian,19-04-2022,14:28,26,1761.45,Cash,3.8,Chennai
+ORD0216,Burger Town,Mexican,19-04-2022,11:52,60,1299.48,Cash,2.6,Delhi
+ORD0217,Sushi World,Italian,20-04-2022,14:14,37,102.94,Debit Card,3.2,Hyderabad
+ORD0218,Burger Town,Indian,20-04-2022,16:42,38,302.56,Debit Card,3.4,Delhi
+ORD0219,Spice Villa,Italian,21-04-2022,21:15,19,589.84,UPI,3.9,Chennai
+ORD0220,Burger Town,American,21-04-2022,10:53,31,157.93,Credit Card,4.6,Hyderabad
+ORD0221,Pasta Paradise,American,22-04-2022,11:18,32,888.07,Credit Card,2.4,Kolkata
+ORD0222,Curry Delight,Japanese,22-04-2022,15:28,15,1844.42,Debit Card,3.9,Chennai
+ORD0223,Burger Town,Japanese,23-04-2022,10:46,22,1992.3,Cash,2.4,Kolkata
+ORD0224,Curry Delight,Chinese,24-04-2022,16:46,23,1750.83,Cash,3.2,Mumbai
+ORD0225,Sushi World,Indian,24-04-2022,10:46,44,836.19,Debit Card,1.5,Kolkata
+ORD0226,Burger Town,Chinese,25-04-2022,22:27,45,1544.17,Credit Card,4.8,Bangalore
+ORD0227,Curry Delight,American,25-04-2022,21:25,51,1475.58,Credit Card,3.1,Mumbai
+ORD0228,Sushi World,Mexican,26-04-2022,13:01,51,265.47,Cash,4.8,Chennai
+ORD0229,Burger Town,American,26-04-2022,18:17,57,157.24,Debit Card,1.4,Kolkata
+ORD0230,Curry Delight,Mexican,27-04-2022,17:55,18,1042.78,Credit Card,2.6,Kolkata
+ORD0231,Spice Villa,Chinese,27-04-2022,20:13,48,344.94,UPI,1.5,Delhi
+ORD0232,Curry Delight,Mexican,28-04-2022,19:25,47,274.33,UPI,1.3,Mumbai
+ORD0233,Curry Delight,Chinese,28-04-2022,17:39,55,1281.26,Cash,4,Hyderabad
+ORD0234,Pizza Plaza,American,29-04-2022,21:24,25,372.73,UPI,4.3,Chennai
+ORD0235,Sushi World,Italian,29-04-2022,11:59,36,1254.13,UPI,4,Chennai
+ORD0236,Pasta Paradise,Chinese,30-04-2022,13:46,60,1780.35,Credit Card,3.1,Delhi
+ORD0237,Spice Villa,Chinese,30-04-2022,23:28,35,338.51,UPI,1.1,Hyderabad
+ORD0238,Pasta Paradise,Mexican,01-05-2022,11:55,34,1054.51,Cash,2.1,Delhi
+ORD0239,Spice Villa,American,01-05-2022,20:41,36,1789.16,Wallet,3.5,Mumbai
+ORD0240,Pizza Plaza,Indian,02-05-2022,10:22,32,1940.74,Wallet,2.1,Chennai
+ORD0241,Burger Town,Indian,02-05-2022,16:29,46,1301.27,Wallet,4.2,Hyderabad
+ORD0242,Spice Villa,Italian,03-05-2022,15:43,58,1992.68,Credit Card,1.8,Chennai
+ORD0243,Sushi World,American,03-05-2022,21:01,29,935.62,UPI,1.3,Mumbai
+ORD0244,Pizza Plaza,Japanese,04-05-2022,17:05,17,730.72,Wallet,1.3,Chennai
+ORD0245,Sushi World,Mexican,04-05-2022,15:39,47,1400.57,Credit Card,1.6,Delhi
+ORD0246,Pasta Paradise,Chinese,05-05-2022,19:54,54,1344.13,Wallet,1,Bangalore
+ORD0247,Pizza Plaza,Chinese,05-05-2022,20:57,52,214.87,Debit Card,4.6,Hyderabad
+ORD0248,Curry Delight,Chinese,06-05-2022,19:32,41,267.25,Cash,1.3,Kolkata
+ORD0249,Pizza Plaza,Japanese,06-05-2022,16:47,46,1913.37,Credit Card,5,Hyderabad
+ORD0250,Curry Delight,Chinese,07-05-2022,20:51,34,1003.19,Wallet,3.3,Bangalore
+ORD0251,Sushi World,Japanese,07-05-2022,13:19,31,677.45,Debit Card,1.7,Hyderabad
+ORD0252,Burger Town,American,08-05-2022,15:54,31,1756.68,Debit Card,3.8,Delhi
+ORD0253,Curry Delight,Indian,08-05-2022,21:06,48,1347.94,Credit Card,2.9,Mumbai
+ORD0254,Pasta Paradise,Indian,09-05-2022,17:22,56,1514.12,Cash,4.3,Delhi
+ORD0255,Curry Delight,Japanese,09-05-2022,13:18,36,218.92,Credit Card,1.3,Mumbai
+ORD0256,Sushi World,Mexican,10-05-2022,13:20,43,1758.97,Wallet,2.4,Kolkata
+ORD0257,Sushi World,Chinese,10-05-2022,16:57,22,1090.93,Wallet,3.5,Delhi
+ORD0258,Pizza Plaza,Chinese,11-05-2022,19:26,36,1283.93,UPI,4.1,Mumbai
+ORD0259,Spice Villa,American,11-05-2022,10:05,15,1107.94,Debit Card,3,Chennai
+ORD0260,Pizza Plaza,Japanese,12-05-2022,21:25,33,1190.67,UPI,4.7,Chennai
+ORD0261,Pizza Plaza,American,12-05-2022,18:51,29,855.67,Cash,2.9,Hyderabad
+ORD0262,Burger Town,Italian,13-05-2022,22:32,18,1077.13,UPI,4,Kolkata
+ORD0263,Burger Town,Chinese,13-05-2022,16:55,21,1323.85,Wallet,3.6,Chennai
+ORD0264,Burger Town,Mexican,14-05-2022,23:41,38,1457.65,Wallet,1.3,Mumbai
+ORD0265,Sushi World,Mexican,14-05-2022,15:37,50,951.86,UPI,1.4,Delhi
+ORD0266,Curry Delight,Indian,15-05-2022,19:01,54,137.75,Debit Card,2,Bangalore
+ORD0267,Pizza Plaza,Japanese,15-05-2022,22:54,39,1626.58,Credit Card,1.2,Mumbai
+ORD0268,Sushi World,Indian,16-05-2022,13:04,56,852.82,Debit Card,3.4,Kolkata
+ORD0269,Burger Town,Chinese,16-05-2022,22:39,55,131.78,UPI,4.9,Mumbai
+ORD0270,Pasta Paradise,Mexican,17-05-2022,13:18,22,1807.55,Wallet,2.6,Mumbai
+ORD0271,Curry Delight,Chinese,17-05-2022,18:06,51,395.83,Cash,4.9,Mumbai
+ORD0272,Burger Town,American,18-05-2022,13:59,21,629.89,Cash,3.1,Kolkata
+ORD0273,Sushi World,Chinese,18-05-2022,16:55,38,277.1,Credit Card,1.9,Delhi
+ORD0274,Sushi World,Indian,19-05-2022,23:10,43,575.01,UPI,3.5,Bangalore
+ORD0275,Pizza Plaza,Mexican,19-05-2022,22:27,52,1980.66,Cash,4.6,Delhi
+ORD0276,Spice Villa,Indian,20-05-2022,22:33,51,1697.67,UPI,3.1,Hyderabad
+ORD0277,Pizza Plaza,Mexican,20-05-2022,15:53,24,1187.16,Credit Card,3.4,Hyderabad
+ORD0278,Spice Villa,Italian,21-05-2022,15:28,49,1444.83,UPI,4.2,Mumbai
+ORD0279,Pasta Paradise,Chinese,21-05-2022,12:06,41,723.42,Debit Card,1.4,Mumbai
+ORD0280,Spice Villa,Italian,22-05-2022,16:57,49,1506.52,Credit Card,4.3,Bangalore
+ORD0281,Pasta Paradise,American,22-05-2022,19:21,19,1728.05,Credit Card,3.4,Kolkata
+ORD0282,Spice Villa,Indian,23-05-2022,11:08,60,477.84,Cash,5,Bangalore
+ORD0283,Curry Delight,Indian,23-05-2022,10:02,48,845.85,UPI,4.1,Hyderabad
+ORD0284,Burger Town,American,24-05-2022,17:19,52,800.75,Cash,1.7,Kolkata
+ORD0285,Burger Town,Mexican,24-05-2022,21:40,40,221.95,Debit Card,2.8,Chennai
+ORD0286,Sushi World,Japanese,25-05-2022,13:33,60,730.75,Wallet,1.7,Bangalore
+ORD0287,Curry Delight,Indian,25-05-2022,18:04,21,1825.77,Debit Card,3.6,Bangalore
+ORD0288,Pizza Plaza,Indian,26-05-2022,20:32,56,984.52,Credit Card,4.5,Kolkata
+ORD0289,Pizza Plaza,Italian,26-05-2022,19:37,23,1326.48,Debit Card,1.6,Hyderabad
+ORD0290,Sushi World,Indian,27-05-2022,14:40,32,1360.95,UPI,1.1,Hyderabad
+ORD0291,Spice Villa,American,27-05-2022,23:25,23,1732.27,Debit Card,4.1,Chennai
+ORD0292,Curry Delight,Chinese,28-05-2022,11:20,42,1708.76,Debit Card,2.1,Hyderabad
+ORD0293,Curry Delight,Japanese,28-05-2022,23:38,28,248.88,UPI,3.4,Mumbai
+ORD0294,Curry Delight,Mexican,29-05-2022,23:42,38,1612.32,Debit Card,2.4,Chennai
+ORD0295,Spice Villa,Japanese,29-05-2022,18:56,36,1288.74,Cash,2.5,Chennai
+ORD0296,Pasta Paradise,Japanese,30-05-2022,17:23,34,1080.74,Debit Card,1.2,Mumbai
+ORD0297,Burger Town,Chinese,30-05-2022,15:53,22,113.88,Cash,4.2,Kolkata
+ORD0298,Spice Villa,Italian,31-05-2022,22:12,45,351.39,Wallet,4.5,Mumbai
+ORD0299,Sushi World,Italian,01-06-2022,16:56,34,1005.12,Cash,3.6,Bangalore
+ORD0300,Curry Delight,Japanese,01-06-2022,12:11,46,1212.55,Credit Card,3.8,Mumbai
+ORD0301,Spice Villa,Italian,02-06-2022,12:13,46,1031.76,Credit Card,2.7,Bangalore
+ORD0302,Burger Town,American,02-06-2022,12:54,42,1446.33,Debit Card,3.8,Chennai
+ORD0303,Curry Delight,Chinese,03-06-2022,11:01,15,705.91,UPI,3.6,Chennai
+ORD0304,Burger Town,American,03-06-2022,10:56,26,1219.27,UPI,4.6,Bangalore
+ORD0305,Sushi World,Mexican,04-06-2022,23:56,48,1524.73,Wallet,3.2,Bangalore
+ORD0306,Burger Town,Mexican,04-06-2022,21:30,24,708.88,Wallet,1.1,Chennai
+ORD0307,Sushi World,Mexican,05-06-2022,23:39,15,488.99,Debit Card,4.3,Delhi
+ORD0308,Burger Town,Indian,05-06-2022,11:26,22,501.72,UPI,1,Delhi
+ORD0309,Pizza Plaza,Chinese,06-06-2022,16:37,17,355.63,Wallet,4.7,Kolkata
+ORD0310,Curry Delight,Chinese,06-06-2022,12:39,27,693.21,UPI,4.9,Delhi
+ORD0311,Pasta Paradise,Japanese,07-06-2022,12:08,56,147.56,Wallet,3.3,Kolkata
+ORD0312,Spice Villa,Italian,07-06-2022,17:00,35,1443.76,Credit Card,3.4,Bangalore
+ORD0313,Spice Villa,Chinese,08-06-2022,22:30,54,1270.12,Credit Card,3.9,Kolkata
+ORD0314,Sushi World,Italian,08-06-2022,19:31,47,1270.64,UPI,3.9,Kolkata
+ORD0315,Sushi World,Mexican,09-06-2022,20:59,37,1769.15,Wallet,1.5,Bangalore
+ORD0316,Sushi World,American,09-06-2022,16:21,27,1186.52,Wallet,4.9,Kolkata
+ORD0317,Curry Delight,American,10-06-2022,12:24,31,620.7,Debit Card,2.5,Bangalore
+ORD0318,Curry Delight,Mexican,10-06-2022,18:09,57,456.83,Credit Card,4.3,Delhi
+ORD0319,Pizza Plaza,Japanese,11-06-2022,16:19,42,1662.44,Cash,1.2,Mumbai
+ORD0320,Burger Town,Japanese,11-06-2022,23:34,24,1437.44,Cash,3.7,Mumbai
+ORD0321,Curry Delight,Mexican,12-06-2022,18:41,42,528.23,Credit Card,1.6,Hyderabad
+ORD0322,Pizza Plaza,Mexican,12-06-2022,10:17,48,1600.19,Debit Card,4.9,Bangalore
+ORD0323,Curry Delight,American,13-06-2022,19:06,30,618.46,Wallet,2.4,Bangalore
+ORD0324,Burger Town,Chinese,13-06-2022,20:24,51,1609.46,Wallet,1,Mumbai
+ORD0325,Burger Town,American,14-06-2022,10:06,55,155.69,Debit Card,3.3,Hyderabad
+ORD0326,Curry Delight,American,14-06-2022,13:44,19,737.47,Wallet,1.8,Delhi
+ORD0327,Burger Town,Japanese,15-06-2022,12:21,42,1478.44,Wallet,2.7,Delhi
+ORD0328,Pizza Plaza,Japanese,15-06-2022,18:46,47,442.02,Debit Card,1.6,Mumbai
+ORD0329,Burger Town,Chinese,16-06-2022,16:12,40,1642.33,UPI,1.8,Kolkata
+ORD0330,Sushi World,Chinese,16-06-2022,16:28,58,1293.73,Cash,3.1,Chennai
+ORD0331,Curry Delight,Italian,17-06-2022,22:30,29,705.29,Credit Card,4.1,Bangalore
+ORD0332,Burger Town,Italian,17-06-2022,15:42,31,280.87,Cash,4,Kolkata
+ORD0333,Curry Delight,Italian,18-06-2022,20:06,42,1404.48,UPI,3.5,Kolkata
+ORD0334,Pasta Paradise,Japanese,18-06-2022,14:52,48,1200.81,UPI,2.2,Bangalore
+ORD0335,Curry Delight,Chinese,19-06-2022,18:12,28,619.26,Debit Card,1.3,Bangalore
+ORD0336,Burger Town,Italian,19-06-2022,13:23,56,1311.35,Credit Card,2.6,Hyderabad
+ORD0337,Sushi World,Chinese,20-06-2022,15:36,23,1935.86,Credit Card,2.3,Bangalore
+ORD0338,Pasta Paradise,Chinese,20-06-2022,13:49,48,1126.21,Cash,2.9,Hyderabad
+ORD0339,Pizza Plaza,Indian,21-06-2022,19:23,15,699.46,Wallet,4.1,Bangalore
+ORD0340,Pasta Paradise,Indian,21-06-2022,11:29,55,1597.05,Wallet,4.9,Bangalore
+ORD0341,Pasta Paradise,Japanese,22-06-2022,16:42,47,467.08,Cash,4.4,Bangalore
+ORD0342,Spice Villa,American,22-06-2022,22:30,38,1394.87,Credit Card,4.7,Hyderabad
+ORD0343,Sushi World,Indian,23-06-2022,10:48,23,1846.09,Debit Card,2.2,Hyderabad
+ORD0344,Spice Villa,American,23-06-2022,18:36,57,1677.77,Wallet,2.4,Kolkata
+ORD0345,Sushi World,Chinese,24-06-2022,18:39,36,967.11,UPI,1,Hyderabad
+ORD0346,Pasta Paradise,Mexican,24-06-2022,16:30,28,948.11,Cash,2.2,Bangalore
+ORD0347,Pasta Paradise,Indian,25-06-2022,17:13,35,191.48,Credit Card,3,Bangalore
+ORD0348,Pasta Paradise,American,25-06-2022,14:40,35,1852.95,Cash,4.9,Chennai
+ORD0349,Pasta Paradise,Mexican,26-06-2022,19:57,54,801.81,Cash,2.5,Hyderabad
+ORD0350,Pasta Paradise,American,26-06-2022,19:07,59,658.35,Debit Card,3.7,Mumbai
+ORD0351,Pizza Plaza,Italian,27-06-2022,15:26,33,1467.65,Wallet,3.6,Delhi
+ORD0352,Spice Villa,Japanese,27-06-2022,14:41,53,1780.18,Wallet,1,Kolkata
+ORD0353,Burger Town,American,28-06-2022,20:27,47,1438.8,Credit Card,3,Kolkata
+ORD0354,Sushi World,Indian,28-06-2022,12:35,35,1506.93,Cash,2.4,Bangalore
+ORD0355,Pasta Paradise,Italian,29-06-2022,18:11,57,1854.44,UPI,4.2,Kolkata
+ORD0356,Spice Villa,American,29-06-2022,12:46,22,979.49,Debit Card,2.9,Delhi
+ORD0357,Curry Delight,Italian,30-06-2022,16:58,32,489.41,Credit Card,1.5,Bangalore
+ORD0358,Pasta Paradise,Japanese,30-06-2022,20:24,18,904.82,Cash,1.1,Mumbai
+ORD0359,Spice Villa,American,01-07-2022,19:28,26,506.07,Credit Card,3.8,Hyderabad
+ORD0360,Pizza Plaza,Chinese,01-07-2022,18:31,15,887.92,Cash,3.1,Hyderabad
+ORD0361,Curry Delight,Italian,02-07-2022,16:51,60,1052.17,Wallet,4.6,Delhi
+ORD0362,Pizza Plaza,Italian,02-07-2022,20:14,17,369.25,Credit Card,3.1,Chennai
+ORD0363,Pasta Paradise,Indian,03-07-2022,10:56,22,1288.3,Cash,3.6,Delhi
+ORD0364,Pizza Plaza,Indian,03-07-2022,16:29,17,1202.02,UPI,2.1,Chennai
+ORD0365,Spice Villa,Japanese,04-07-2022,17:55,38,1985.35,Wallet,4.2,Bangalore
+ORD0366,Burger Town,Japanese,04-07-2022,20:30,30,836.91,UPI,2.5,Hyderabad
+ORD0367,Pasta Paradise,Mexican,05-07-2022,10:31,50,883.59,Wallet,1.8,Hyderabad
+ORD0368,Sushi World,Japanese,05-07-2022,19:44,51,1745.58,Credit Card,4.3,Delhi
+ORD0369,Pizza Plaza,Chinese,06-07-2022,13:45,54,561.02,Wallet,1.9,Hyderabad
+ORD0370,Pasta Paradise,Mexican,06-07-2022,10:24,38,180.31,Cash,4.8,Mumbai
+ORD0371,Curry Delight,Mexican,07-07-2022,18:59,31,787.95,Wallet,2.4,Delhi
+ORD0372,Pizza Plaza,Italian,08-07-2022,12:52,23,512.58,Debit Card,3.3,Kolkata
+ORD0373,Spice Villa,Mexican,08-07-2022,12:13,50,1904.55,UPI,2.5,Kolkata
+ORD0374,Pasta Paradise,Mexican,09-07-2022,21:14,51,351.65,Credit Card,3.4,Delhi
+ORD0375,Curry Delight,Mexican,09-07-2022,23:14,36,881.13,Debit Card,1.2,Hyderabad
+ORD0376,Burger Town,Mexican,10-07-2022,19:01,60,1122.26,Wallet,4.8,Hyderabad
+ORD0377,Pizza Plaza,Italian,10-07-2022,19:53,56,1187.15,Wallet,4.5,Mumbai
+ORD0378,Burger Town,Indian,11-07-2022,17:40,41,210.06,Cash,3.4,Delhi
+ORD0379,Pizza Plaza,Italian,11-07-2022,22:47,45,1068.8,Cash,1.5,Bangalore
+ORD0380,Sushi World,Italian,12-07-2022,16:24,46,1044.83,Cash,3.1,Delhi
+ORD0381,Pasta Paradise,Mexican,12-07-2022,13:19,19,109.78,Credit Card,3.9,Delhi
+ORD0382,Burger Town,Indian,13-07-2022,11:10,47,1358.31,UPI,1.4,Mumbai
+ORD0383,Sushi World,Italian,13-07-2022,22:09,60,406.17,Cash,1.8,Chennai
+ORD0384,Pizza Plaza,Indian,14-07-2022,11:28,52,1897.78,Wallet,3.5,Hyderabad
+ORD0385,Burger Town,Italian,14-07-2022,20:34,33,961.23,Credit Card,1.4,Mumbai
+ORD0386,Pizza Plaza,Japanese,15-07-2022,13:27,27,1941.34,Credit Card,3.1,Hyderabad
+ORD0387,Spice Villa,American,15-07-2022,14:07,35,1335.13,Credit Card,4.1,Bangalore
+ORD0388,Spice Villa,Japanese,16-07-2022,17:52,37,1394.7,Debit Card,1.1,Kolkata
+ORD0389,Spice Villa,Mexican,16-07-2022,12:44,46,785.04,UPI,3.1,Mumbai
+ORD0390,Spice Villa,Japanese,17-07-2022,11:35,35,887.62,Credit Card,1.3,Chennai
+ORD0391,Curry Delight,Italian,17-07-2022,19:09,45,1681.77,Debit Card,2.5,Mumbai
+ORD0392,Burger Town,Mexican,18-07-2022,15:12,47,886.51,Cash,4.4,Hyderabad
+ORD0393,Spice Villa,Chinese,18-07-2022,10:21,37,1871.94,Wallet,1.1,Bangalore
+ORD0394,Curry Delight,Chinese,19-07-2022,20:43,29,1371.96,Wallet,1.1,Kolkata
+ORD0395,Curry Delight,American,19-07-2022,20:34,22,1777.81,Wallet,3.1,Mumbai
+ORD0396,Curry Delight,Chinese,20-07-2022,18:40,48,1261.02,Credit Card,1.5,Bangalore
+ORD0397,Pizza Plaza,Indian,20-07-2022,17:15,50,1885.06,Debit Card,3.5,Chennai
+ORD0398,Pasta Paradise,Italian,21-07-2022,14:14,46,528.02,Credit Card,3.9,Kolkata
+ORD0399,Spice Villa,Mexican,21-07-2022,22:43,31,1127.85,Credit Card,2.6,Bangalore
+ORD0400,Burger Town,American,22-07-2022,14:37,44,1402.29,Cash,4.2,Kolkata
+ORD0401,Spice Villa,Indian,22-07-2022,12:22,42,845.06,Cash,3,Hyderabad
+ORD0402,Spice Villa,Italian,23-07-2022,22:28,20,1877.33,Credit Card,3.5,Delhi
+ORD0403,Sushi World,Japanese,23-07-2022,14:42,39,1523.03,Debit Card,3,Bangalore
+ORD0404,Pasta Paradise,Italian,24-07-2022,13:06,56,1179.85,Wallet,2.5,Bangalore
+ORD0405,Pizza Plaza,Italian,24-07-2022,18:13,19,1168.41,Credit Card,1.1,Kolkata
+ORD0406,Pasta Paradise,Chinese,25-07-2022,16:51,17,1272.72,Debit Card,2,Bangalore
+ORD0407,Pizza Plaza,Italian,25-07-2022,19:55,23,1270.02,Cash,3.4,Chennai
+ORD0408,Burger Town,Mexican,26-07-2022,23:36,17,1453,Credit Card,2,Bangalore
+ORD0409,Spice Villa,American,26-07-2022,15:44,55,1848.04,Credit Card,2.2,Chennai
+ORD0410,Curry Delight,Japanese,27-07-2022,12:41,39,1853.6,Credit Card,2.4,Kolkata
+ORD0411,Spice Villa,Mexican,27-07-2022,16:34,20,1050.85,Wallet,3,Hyderabad
+ORD0412,Sushi World,Japanese,28-07-2022,21:49,60,586.77,Cash,4.2,Mumbai
+ORD0413,Pizza Plaza,American,28-07-2022,19:17,54,608.37,Credit Card,3.3,Chennai
+ORD0414,Pizza Plaza,Mexican,29-07-2022,11:52,52,583.76,Cash,4.7,Mumbai
+ORD0415,Curry Delight,Mexican,29-07-2022,12:28,28,214.76,Wallet,1.5,Hyderabad
+ORD0416,Pizza Plaza,American,30-07-2022,13:23,19,209.68,Credit Card,1.4,Mumbai
+ORD0417,Sushi World,Japanese,30-07-2022,18:54,34,695.31,Wallet,2.2,Mumbai
+ORD0418,Pizza Plaza,Japanese,31-07-2022,12:49,20,525.45,Cash,3.5,Mumbai
+ORD0419,Pasta Paradise,Mexican,31-07-2022,12:34,27,1386.24,Wallet,2.8,Chennai
+ORD0420,Sushi World,American,01-08-2022,16:29,20,742.49,Debit Card,2.6,Delhi
+ORD0421,Sushi World,Chinese,01-08-2022,14:00,38,576.26,Credit Card,4.1,Delhi
+ORD0422,Curry Delight,Japanese,02-08-2022,23:10,28,633.84,Debit Card,1.7,Hyderabad
+ORD0423,Pizza Plaza,Mexican,02-08-2022,15:32,20,851.76,Cash,3.6,Hyderabad
+ORD0424,Pizza Plaza,Indian,03-08-2022,20:51,38,1162.1,Credit Card,2.4,Hyderabad
+ORD0425,Burger Town,Italian,03-08-2022,17:38,37,1706.65,Debit Card,2.7,Chennai
+ORD0426,Sushi World,Japanese,04-08-2022,12:15,25,1255.75,Wallet,3.8,Mumbai
+ORD0427,Sushi World,American,04-08-2022,22:58,20,345.2,Wallet,2.5,Kolkata
+ORD0428,Curry Delight,Japanese,05-08-2022,12:03,18,858.17,UPI,1.6,Delhi
+ORD0429,Pasta Paradise,Japanese,05-08-2022,22:42,31,887.46,Debit Card,4.5,Mumbai
+ORD0430,Curry Delight,Italian,06-08-2022,13:34,59,616.31,Wallet,2.3,Mumbai
+ORD0431,Pasta Paradise,Italian,06-08-2022,12:23,25,777.36,Wallet,4.9,Mumbai
+ORD0432,Burger Town,Chinese,07-08-2022,23:19,16,1842.89,Cash,4,Mumbai
+ORD0433,Pizza Plaza,American,07-08-2022,14:06,22,192.32,Wallet,2,Kolkata
+ORD0434,Pasta Paradise,Chinese,08-08-2022,15:46,21,1000.2,Credit Card,1.6,Hyderabad
+ORD0435,Curry Delight,Mexican,08-08-2022,10:54,41,1311.6,Debit Card,3.3,Bangalore
+ORD0436,Spice Villa,Indian,09-08-2022,17:55,27,1106.6,Wallet,2.6,Kolkata
+ORD0437,Pizza Plaza,American,09-08-2022,10:02,50,918.53,Debit Card,2.4,Kolkata
+ORD0438,Pizza Plaza,American,10-08-2022,12:19,49,1137.11,Credit Card,3.9,Bangalore
+ORD0439,Burger Town,Indian,10-08-2022,13:29,33,1179.08,Cash,4.4,Delhi
+ORD0440,Spice Villa,Japanese,11-08-2022,20:25,21,1836.73,UPI,1.1,Delhi
+ORD0441,Burger Town,Chinese,11-08-2022,15:06,24,225.16,UPI,2.6,Delhi
+ORD0442,Pizza Plaza,Chinese,12-08-2022,13:49,59,1095.82,Debit Card,2.6,Mumbai
+ORD0443,Sushi World,Indian,12-08-2022,17:16,46,1566.37,Cash,3.8,Bangalore
+ORD0444,Sushi World,Indian,13-08-2022,19:27,37,771.86,Debit Card,4.4,Hyderabad
+ORD0445,Curry Delight,Japanese,13-08-2022,13:35,22,1994.54,UPI,4.7,Hyderabad
+ORD0446,Pasta Paradise,American,14-08-2022,14:00,34,1349.9,Wallet,3.5,Hyderabad
+ORD0447,Pasta Paradise,Italian,15-08-2022,12:52,34,1330.88,Wallet,2.5,Delhi
+ORD0448,Sushi World,Japanese,15-08-2022,21:04,46,433.24,Cash,2.8,Bangalore
+ORD0449,Pizza Plaza,American,16-08-2022,18:04,55,478.11,UPI,4.7,Hyderabad
+ORD0450,Spice Villa,Chinese,16-08-2022,13:08,20,1436.22,Wallet,4.2,Delhi
+ORD0451,Pizza Plaza,Indian,17-08-2022,19:26,36,1614.38,Wallet,3.7,Mumbai
+ORD0452,Curry Delight,Mexican,17-08-2022,12:46,16,287.18,Cash,4,Hyderabad
+ORD0453,Spice Villa,Japanese,18-08-2022,12:38,58,1522.68,Cash,4.7,Bangalore
+ORD0454,Pizza Plaza,Mexican,18-08-2022,10:48,25,1913.72,Cash,1.7,Mumbai
+ORD0455,Pizza Plaza,Italian,19-08-2022,17:40,29,472.77,Credit Card,2.4,Mumbai
+ORD0456,Sushi World,Japanese,19-08-2022,10:20,51,1925.33,Cash,3.3,Delhi
+ORD0457,Curry Delight,Indian,20-08-2022,15:35,58,1018.55,UPI,3.2,Delhi
+ORD0458,Pizza Plaza,Chinese,20-08-2022,18:39,60,1317.49,UPI,3.8,Kolkata
+ORD0459,Sushi World,Japanese,21-08-2022,12:24,58,126.47,UPI,2.2,Bangalore
+ORD0460,Pasta Paradise,Japanese,21-08-2022,20:35,30,592.44,Debit Card,3.4,Bangalore
+ORD0461,Pizza Plaza,Mexican,22-08-2022,17:45,58,419.38,UPI,1.7,Delhi
+ORD0462,Sushi World,Chinese,22-08-2022,23:23,32,951.89,Wallet,1,Mumbai
+ORD0463,Pasta Paradise,Mexican,23-08-2022,14:54,29,1131.75,UPI,3.2,Kolkata
+ORD0464,Pasta Paradise,Mexican,23-08-2022,14:37,34,334.19,Wallet,1.6,Mumbai
+ORD0465,Pizza Plaza,Indian,24-08-2022,15:16,52,486.62,Credit Card,3.3,Bangalore
+ORD0466,Spice Villa,Chinese,24-08-2022,22:52,43,1394.82,Wallet,4.1,Mumbai
+ORD0467,Pizza Plaza,Italian,25-08-2022,21:06,49,1658.69,Debit Card,3.1,Mumbai
+ORD0468,Curry Delight,Japanese,25-08-2022,14:31,42,1316.18,Cash,4.2,Delhi
+ORD0469,Pizza Plaza,Chinese,26-08-2022,16:47,35,1588.54,Cash,2.4,Chennai
+ORD0470,Sushi World,Indian,26-08-2022,12:26,40,1124.54,Credit Card,3.5,Kolkata
+ORD0471,Sushi World,American,27-08-2022,17:16,31,1414.54,Wallet,2.3,Kolkata
+ORD0472,Spice Villa,Japanese,27-08-2022,12:17,52,263.87,UPI,3.6,Bangalore
+ORD0473,Curry Delight,Japanese,28-08-2022,12:21,55,315.65,Credit Card,2.9,Kolkata
+ORD0474,Sushi World,Italian,28-08-2022,18:24,44,475.98,Cash,1.2,Mumbai
+ORD0475,Spice Villa,Italian,29-08-2022,11:31,36,830.6,Credit Card,4.9,Kolkata
+ORD0476,Curry Delight,Japanese,29-08-2022,13:07,45,858.93,Debit Card,2.9,Delhi
+ORD0477,Spice Villa,Italian,30-08-2022,11:18,23,856.14,UPI,3.4,Mumbai
+ORD0478,Pizza Plaza,Indian,30-08-2022,19:32,30,492.56,Cash,1.8,Chennai
+ORD0479,Spice Villa,Mexican,31-08-2022,22:06,38,584.24,Cash,2.5,Mumbai
+ORD0480,Pizza Plaza,American,31-08-2022,15:02,45,540.31,Credit Card,1.6,Hyderabad
+ORD0481,Pasta Paradise,Japanese,01-09-2022,16:26,18,1150.06,Credit Card,2.8,Hyderabad
+ORD0482,Pizza Plaza,Indian,01-09-2022,13:49,20,575.42,Debit Card,2.6,Mumbai
+ORD0483,Curry Delight,Italian,02-09-2022,21:56,23,142.21,Wallet,2.2,Delhi
+ORD0484,Pizza Plaza,Japanese,02-09-2022,21:12,31,1725.36,Credit Card,2.1,Bangalore
+ORD0485,Curry Delight,Indian,03-09-2022,23:21,39,855.33,Wallet,2.3,Chennai
+ORD0486,Curry Delight,American,03-09-2022,18:28,29,1808.2,Cash,3.6,Kolkata
+ORD0487,Curry Delight,Italian,04-09-2022,10:58,53,693.64,Wallet,1.4,Delhi
+ORD0488,Burger Town,American,04-09-2022,23:46,60,483.05,Cash,3.8,Delhi
+ORD0489,Pizza Plaza,Japanese,05-09-2022,16:03,30,490.51,Debit Card,2.1,Delhi
+ORD0490,Pasta Paradise,Chinese,05-09-2022,10:58,32,1231.54,Wallet,1.6,Bangalore
+ORD0491,Burger Town,American,06-09-2022,13:06,39,1556.88,Debit Card,4.6,Delhi
+ORD0492,Curry Delight,Japanese,06-09-2022,22:19,23,1867.15,Cash,1.8,Delhi
+ORD0493,Pasta Paradise,American,07-09-2022,16:09,33,493.61,Credit Card,2.4,Hyderabad
+ORD0494,Curry Delight,Japanese,07-09-2022,21:12,57,346.51,Cash,2.9,Kolkata
+ORD0495,Curry Delight,Chinese,08-09-2022,14:03,40,1823.54,Wallet,1.4,Chennai
+ORD0496,Curry Delight,Chinese,08-09-2022,19:35,44,1893.04,Cash,1.4,Delhi
+ORD0497,Sushi World,Mexican,09-09-2022,15:34,51,838.72,Credit Card,3.4,Hyderabad
+ORD0498,Sushi World,Mexican,09-09-2022,19:42,33,1771.31,Cash,2.8,Bangalore
+ORD0499,Sushi World,Chinese,10-09-2022,12:13,16,1588.97,UPI,4.1,Bangalore
+ORD0500,Pasta Paradise,Italian,10-09-2022,13:24,35,1896.15,Debit Card,4.2,Hyderabad
+ORD0501,Burger Town,Chinese,11-09-2022,13:12,24,827.03,Debit Card,1.4,Chennai
+ORD0502,Pizza Plaza,Mexican,11-09-2022,11:44,15,507.46,Debit Card,2.9,Hyderabad
+ORD0503,Pizza Plaza,American,12-09-2022,19:28,30,621.91,Wallet,1.4,Kolkata
+ORD0504,Spice Villa,Italian,12-09-2022,14:40,46,1166.39,Debit Card,2.7,Mumbai
+ORD0505,Pizza Plaza,American,13-09-2022,18:23,26,494.75,Credit Card,2.9,Hyderabad
+ORD0506,Pasta Paradise,Japanese,13-09-2022,21:59,31,793.64,Debit Card,1.6,Bangalore
+ORD0507,Curry Delight,American,14-09-2022,18:54,21,1618.85,Credit Card,2.9,Hyderabad
+ORD0508,Pasta Paradise,Japanese,14-09-2022,15:04,20,1928.8,Debit Card,1.2,Hyderabad
+ORD0509,Pasta Paradise,Italian,15-09-2022,23:28,38,762.38,Debit Card,2.8,Mumbai
+ORD0510,Curry Delight,Mexican,15-09-2022,12:51,38,211.67,Cash,2,Mumbai
+ORD0511,Spice Villa,Chinese,16-09-2022,17:46,43,621.87,Cash,4,Mumbai
+ORD0512,Burger Town,Italian,16-09-2022,14:11,25,1336.99,UPI,2.1,Kolkata
+ORD0513,Pizza Plaza,Indian,17-09-2022,17:30,55,1889.8,Credit Card,1.5,Kolkata
+ORD0514,Spice Villa,Japanese,17-09-2022,13:06,17,990.23,Debit Card,3.5,Hyderabad
+ORD0515,Pasta Paradise,Indian,18-09-2022,17:19,52,496.13,Credit Card,3.5,Hyderabad
+ORD0516,Sushi World,Japanese,18-09-2022,12:26,17,1449.76,Credit Card,2,Chennai
+ORD0517,Burger Town,Italian,19-09-2022,20:18,38,348.96,Credit Card,3,Kolkata
+ORD0518,Spice Villa,Indian,19-09-2022,20:15,58,1307.1,Wallet,3.9,Chennai
+ORD0519,Burger Town,Italian,20-09-2022,22:38,49,501.73,UPI,2.9,Mumbai
+ORD0520,Pasta Paradise,Mexican,21-09-2022,20:18,35,147.41,UPI,1.3,Mumbai
+ORD0521,Burger Town,Mexican,21-09-2022,12:19,19,1116.86,Cash,2.8,Bangalore
+ORD0522,Pizza Plaza,Chinese,22-09-2022,11:38,15,1926.37,Wallet,1.3,Chennai
+ORD0523,Pasta Paradise,Indian,22-09-2022,10:54,30,1995.95,Debit Card,4.5,Kolkata
+ORD0524,Pizza Plaza,Indian,23-09-2022,10:55,53,1332.68,Wallet,1.5,Chennai
+ORD0525,Curry Delight,Japanese,23-09-2022,12:00,43,1327.63,Cash,1,Delhi
+ORD0526,Pasta Paradise,Italian,24-09-2022,23:23,25,828.72,Credit Card,1.2,Chennai
+ORD0527,Pasta Paradise,Italian,24-09-2022,15:08,36,754.68,Wallet,2,Chennai
+ORD0528,Burger Town,Mexican,25-09-2022,22:34,53,356.16,Wallet,3.3,Bangalore
+ORD0529,Pizza Plaza,Japanese,25-09-2022,21:40,57,1459.57,Debit Card,1.1,Hyderabad
+ORD0530,Burger Town,Japanese,26-09-2022,15:04,46,201.37,Credit Card,2.2,Hyderabad
+ORD0531,Burger Town,American,26-09-2022,10:57,51,389.83,Debit Card,1.2,Mumbai
+ORD0532,Burger Town,Indian,27-09-2022,19:18,43,1441.19,Cash,3.8,Hyderabad
+ORD0533,Sushi World,Chinese,27-09-2022,13:46,40,1424.51,Wallet,2.2,Hyderabad
+ORD0534,Pizza Plaza,Indian,28-09-2022,16:38,42,844.72,Cash,2.8,Delhi
+ORD0535,Burger Town,Indian,28-09-2022,22:36,59,1666.5,Cash,3.9,Kolkata
+ORD0536,Sushi World,Indian,29-09-2022,16:34,41,647.92,Debit Card,1.4,Kolkata
+ORD0537,Spice Villa,American,29-09-2022,20:59,59,1587.08,Credit Card,3.7,Kolkata
+ORD0538,Spice Villa,Mexican,30-09-2022,17:24,20,486.62,Credit Card,3.1,Delhi
+ORD0539,Burger Town,American,30-09-2022,11:29,34,705.28,UPI,1,Chennai
+ORD0540,Sushi World,Indian,01-10-2022,10:30,29,490.4,Wallet,4,Chennai
+ORD0541,Pizza Plaza,Japanese,01-10-2022,18:57,35,1915.38,Wallet,1.7,Bangalore
+ORD0542,Burger Town,Chinese,02-10-2022,22:56,41,1744.58,UPI,1.9,Kolkata
+ORD0543,Sushi World,American,02-10-2022,15:46,29,372.6,UPI,3.1,Bangalore
+ORD0544,Pizza Plaza,Indian,03-10-2022,11:44,48,166.98,Debit Card,2.2,Delhi
+ORD0545,Curry Delight,Indian,03-10-2022,10:18,38,177.41,Debit Card,1.9,Delhi
+ORD0546,Burger Town,Mexican,04-10-2022,23:02,54,138.27,Cash,4.4,Kolkata
+ORD0547,Sushi World,Japanese,04-10-2022,11:19,22,168.09,Cash,3.5,Kolkata
+ORD0548,Burger Town,Italian,05-10-2022,18:16,31,1536.06,Wallet,2.5,Delhi
+ORD0549,Curry Delight,American,05-10-2022,12:47,60,551.22,UPI,4.8,Mumbai
+ORD0550,Sushi World,Italian,06-10-2022,12:17,32,902.42,Cash,2.7,Bangalore
+ORD0551,Burger Town,Italian,06-10-2022,14:58,55,1007.04,Debit Card,4.8,Kolkata
+ORD0552,Pizza Plaza,Chinese,07-10-2022,13:43,45,1683.8,Wallet,4.2,Delhi
+ORD0553,Curry Delight,Japanese,07-10-2022,15:07,30,1730.15,Credit Card,1.9,Bangalore
+ORD0554,Pizza Plaza,Mexican,08-10-2022,19:31,30,379.93,Cash,2,Delhi
+ORD0555,Sushi World,American,08-10-2022,14:01,24,378.29,Cash,3,Chennai
+ORD0556,Pasta Paradise,Indian,09-10-2022,21:42,32,859.94,Credit Card,2.1,Kolkata
+ORD0557,Curry Delight,Chinese,09-10-2022,12:28,15,937.29,Debit Card,3.1,Chennai
+ORD0558,Pasta Paradise,Chinese,10-10-2022,19:48,53,1764.57,Cash,2,Chennai
+ORD0559,Pasta Paradise,Indian,10-10-2022,11:19,19,1207.93,UPI,3.3,Kolkata
+ORD0560,Spice Villa,Japanese,11-10-2022,23:26,31,1990.58,UPI,3.2,Chennai
+ORD0561,Pizza Plaza,Chinese,11-10-2022,20:04,18,1589.22,Cash,3.6,Mumbai
+ORD0562,Spice Villa,Italian,12-10-2022,15:36,24,1326.2,Wallet,1.5,Kolkata
+ORD0563,Curry Delight,American,12-10-2022,23:18,35,1569.54,Cash,2.6,Chennai
+ORD0564,Pasta Paradise,Italian,13-10-2022,16:36,60,1441.25,Cash,2.4,Bangalore
+ORD0565,Spice Villa,American,13-10-2022,16:02,38,1527.59,Debit Card,4.4,Chennai
+ORD0566,Curry Delight,Italian,14-10-2022,22:32,57,1721.83,Credit Card,2.2,Chennai
+ORD0567,Spice Villa,Japanese,14-10-2022,16:54,31,1973.54,Cash,3.8,Kolkata
+ORD0568,Pizza Plaza,Italian,15-10-2022,12:04,36,890.46,Debit Card,2.2,Chennai
+ORD0569,Sushi World,Mexican,15-10-2022,13:49,54,941.89,Credit Card,3.9,Delhi
+ORD0570,Spice Villa,Chinese,16-10-2022,20:21,20,1556.05,Credit Card,1.5,Hyderabad
+ORD0571,Spice Villa,Japanese,16-10-2022,19:12,31,1622.08,Cash,3.6,Delhi
+ORD0572,Curry Delight,Japanese,17-10-2022,19:31,57,618.12,Debit Card,4.3,Kolkata
+ORD0573,Spice Villa,Japanese,17-10-2022,21:56,44,902.66,Wallet,1.3,Bangalore
+ORD0574,Sushi World,Indian,18-10-2022,20:32,26,1287.7,UPI,2.1,Delhi
+ORD0575,Burger Town,Mexican,18-10-2022,21:56,25,1197.98,UPI,4.9,Mumbai
+ORD0576,Spice Villa,American,19-10-2022,15:07,51,1494.51,Credit Card,3,Bangalore
+ORD0577,Curry Delight,Japanese,19-10-2022,16:20,23,920.34,Debit Card,2.5,Hyderabad
+ORD0578,Burger Town,Japanese,20-10-2022,14:11,57,1416.37,Credit Card,1.5,Kolkata
+ORD0579,Pizza Plaza,American,20-10-2022,21:39,48,1542.98,Wallet,3.4,Delhi
+ORD0580,Pizza Plaza,Italian,21-10-2022,20:40,53,1449.16,Wallet,3.4,Kolkata
+ORD0581,Sushi World,American,21-10-2022,11:55,27,1655.2,Credit Card,2.7,Chennai
+ORD0582,Sushi World,Chinese,22-10-2022,12:34,49,213.5,Wallet,3.9,Chennai
+ORD0583,Spice Villa,Mexican,22-10-2022,20:37,31,523.57,Wallet,1.4,Chennai
+ORD0584,Burger Town,Indian,23-10-2022,23:09,41,1633.44,Wallet,1.1,Delhi
+ORD0585,Sushi World,Japanese,23-10-2022,11:53,37,241.2,Cash,2,Kolkata
+ORD0586,Curry Delight,Chinese,24-10-2022,10:59,46,458.56,Cash,2.9,Bangalore
+ORD0587,Pasta Paradise,Japanese,24-10-2022,10:20,44,1976.26,Cash,3.9,Mumbai
+ORD0588,Spice Villa,Italian,25-10-2022,14:23,38,356.31,Wallet,1.5,Chennai
+ORD0589,Sushi World,Italian,25-10-2022,23:43,47,812.31,Credit Card,1.2,Chennai
+ORD0590,Burger Town,Japanese,26-10-2022,20:46,25,1293.84,Wallet,3.9,Kolkata
+ORD0591,Sushi World,Mexican,26-10-2022,12:27,34,313.98,Cash,2.8,Bangalore
+ORD0592,Sushi World,Mexican,27-10-2022,21:04,30,1507.22,Wallet,1.2,Hyderabad
+ORD0593,Sushi World,Italian,27-10-2022,23:27,15,1371.29,Debit Card,4.3,Bangalore
+ORD0594,Burger Town,American,28-10-2022,16:14,34,746.83,UPI,4.7,Bangalore
+ORD0595,Sushi World,Indian,29-10-2022,14:56,55,1148.42,Wallet,1.6,Delhi
+ORD0596,Sushi World,American,29-10-2022,18:20,45,1168.49,Wallet,2.3,Kolkata
+ORD0597,Burger Town,Japanese,30-10-2022,17:24,50,1695.59,Cash,2.3,Mumbai
+ORD0598,Pizza Plaza,Japanese,30-10-2022,14:26,50,1041.02,Wallet,1.9,Hyderabad
+ORD0599,Pasta Paradise,Italian,31-10-2022,15:12,22,1370.06,UPI,3.7,Hyderabad
+ORD0600,Pasta Paradise,American,31-10-2022,23:41,43,182.66,Wallet,3.1,Bangalore
+ORD0601,Curry Delight,Mexican,01-11-2022,21:11,53,196.18,UPI,2.2,Mumbai
+ORD0602,Spice Villa,Mexican,01-11-2022,14:29,60,1642.59,Credit Card,1.5,Chennai
+ORD0603,Burger Town,Japanese,02-11-2022,11:48,58,1675.56,Credit Card,2.3,Chennai
+ORD0604,Pasta Paradise,Italian,02-11-2022,15:25,27,1421.37,Cash,2.1,Bangalore
+ORD0605,Sushi World,Chinese,03-11-2022,11:26,58,1043.16,Credit Card,4,Chennai
+ORD0606,Pizza Plaza,Chinese,03-11-2022,16:08,24,373.33,Debit Card,2.5,Bangalore
+ORD0607,Burger Town,Mexican,04-11-2022,22:39,58,1926.04,Debit Card,4.5,Hyderabad
+ORD0608,Curry Delight,Indian,04-11-2022,16:45,23,469.42,Credit Card,1.1,Hyderabad
+ORD0609,Spice Villa,Italian,05-11-2022,22:17,48,1304.97,Debit Card,4.4,Kolkata
+ORD0610,Sushi World,Indian,05-11-2022,19:40,35,1965.69,Credit Card,1.8,Chennai
+ORD0611,Burger Town,Italian,06-11-2022,23:37,58,1066.18,UPI,4,Chennai
+ORD0612,Curry Delight,Italian,06-11-2022,20:03,37,1308.68,Credit Card,4.1,Bangalore
+ORD0613,Sushi World,Italian,07-11-2022,16:44,48,1426.32,Wallet,3.3,Chennai
+ORD0614,Burger Town,Italian,07-11-2022,21:33,19,1654.15,Credit Card,1.6,Delhi
+ORD0615,Curry Delight,Italian,08-11-2022,10:42,34,1370.46,Debit Card,3.8,Hyderabad
+ORD0616,Curry Delight,American,08-11-2022,15:30,18,1293.14,Debit Card,1,Kolkata
+ORD0617,Spice Villa,Chinese,09-11-2022,18:12,32,1410.29,Credit Card,4.4,Bangalore
+ORD0618,Pizza Plaza,Chinese,09-11-2022,19:46,24,900.29,UPI,3.5,Bangalore
+ORD0619,Pasta Paradise,Mexican,10-11-2022,14:12,26,1005.48,UPI,1.1,Bangalore
+ORD0620,Burger Town,Chinese,10-11-2022,14:59,45,739.35,Cash,3.3,Chennai
+ORD0621,Spice Villa,Italian,11-11-2022,10:38,58,1191.94,Credit Card,4.1,Chennai
+ORD0622,Sushi World,Japanese,11-11-2022,21:17,37,1324.01,Cash,2.7,Mumbai
+ORD0623,Sushi World,Japanese,12-11-2022,14:27,24,159.93,Cash,1.4,Bangalore
+ORD0624,Burger Town,Chinese,12-11-2022,23:06,49,1898.93,Debit Card,1.4,Hyderabad
+ORD0625,Spice Villa,Mexican,13-11-2022,23:11,27,102.15,Wallet,2.5,Kolkata
+ORD0626,Burger Town,Mexican,13-11-2022,13:25,44,1010.29,Debit Card,1.3,Delhi
+ORD0627,Curry Delight,Japanese,14-11-2022,16:26,40,118.65,Cash,4.5,Mumbai
+ORD0628,Burger Town,Mexican,14-11-2022,21:25,27,1312.02,Cash,3.2,Bangalore
+ORD0629,Sushi World,Japanese,15-11-2022,22:40,39,234.49,Cash,2.9,Chennai
+ORD0630,Burger Town,Indian,15-11-2022,13:57,52,1615.2,Cash,4.1,Bangalore
+ORD0631,Spice Villa,Chinese,16-11-2022,20:40,55,764.21,Wallet,2.1,Kolkata
+ORD0632,Pizza Plaza,Japanese,16-11-2022,21:23,36,661.71,Credit Card,4.4,Mumbai
+ORD0633,Burger Town,Japanese,17-11-2022,16:56,41,659.32,UPI,1.5,Hyderabad
+ORD0634,Curry Delight,Italian,17-11-2022,20:26,59,246.83,UPI,1.6,Chennai
+ORD0635,Burger Town,American,18-11-2022,12:49,28,373.3,UPI,4,Kolkata
+ORD0636,Pasta Paradise,Japanese,18-11-2022,16:21,47,754.24,UPI,4.4,Mumbai
+ORD0637,Sushi World,Indian,19-11-2022,23:15,52,1267.09,Debit Card,4.9,Kolkata
+ORD0638,Spice Villa,Chinese,19-11-2022,15:53,38,978.14,Wallet,3.6,Kolkata
+ORD0639,Curry Delight,Chinese,20-11-2022,20:34,53,523.88,Cash,4.2,Hyderabad
+ORD0640,Spice Villa,Chinese,20-11-2022,20:44,50,1781.02,Credit Card,3.7,Delhi
+ORD0641,Burger Town,Italian,21-11-2022,13:24,21,827.31,Cash,1.3,Hyderabad
+ORD0642,Curry Delight,Indian,21-11-2022,10:06,41,1989.2,Cash,1.8,Bangalore
+ORD0643,Sushi World,Chinese,22-11-2022,14:51,15,1140.3,Credit Card,4,Delhi
+ORD0644,Curry Delight,Mexican,22-11-2022,10:26,18,492.12,Credit Card,1.5,Chennai
+ORD0645,Spice Villa,Chinese,23-11-2022,19:45,36,1524.9,Credit Card,2.3,Hyderabad
+ORD0646,Pasta Paradise,American,23-11-2022,22:48,55,443.34,Cash,3,Chennai
+ORD0647,Sushi World,Indian,24-11-2022,12:12,38,1429.98,Cash,4.1,Bangalore
+ORD0648,Sushi World,Indian,24-11-2022,10:17,18,1566.13,Wallet,1.1,Hyderabad
+ORD0649,Curry Delight,Italian,25-11-2022,13:35,57,1862.2,Debit Card,2.2,Mumbai
+ORD0650,Burger Town,Chinese,25-11-2022,20:50,53,1791.47,UPI,2.4,Chennai
+ORD0651,Spice Villa,American,26-11-2022,19:21,38,1239.59,UPI,2.6,Bangalore
+ORD0652,Spice Villa,Japanese,26-11-2022,14:55,44,907.76,Credit Card,2.9,Hyderabad
+ORD0653,Curry Delight,American,27-11-2022,20:29,55,260.65,Debit Card,2.8,Delhi
+ORD0654,Sushi World,Indian,27-11-2022,15:10,20,1640.91,Wallet,3.2,Bangalore
+ORD0655,Burger Town,Mexican,28-11-2022,15:44,39,588.66,UPI,3.6,Delhi
+ORD0656,Burger Town,Italian,28-11-2022,13:42,17,1888.72,UPI,1.4,Hyderabad
+ORD0657,Pasta Paradise,Mexican,29-11-2022,20:07,45,683.48,Credit Card,3.9,Hyderabad
+ORD0658,Spice Villa,Japanese,29-11-2022,14:02,54,875.72,Credit Card,5,Mumbai
+ORD0659,Burger Town,Indian,30-11-2022,16:42,30,841.25,UPI,2.2,Delhi
+ORD0660,Curry Delight,Italian,30-11-2022,13:00,26,961.77,UPI,1.9,Bangalore
+ORD0661,Pasta Paradise,American,01-12-2022,21:36,49,1396.47,UPI,4.5,Chennai
+ORD0662,Pizza Plaza,Italian,01-12-2022,10:30,49,1309.76,Cash,1.9,Chennai
+ORD0663,Pasta Paradise,Chinese,02-12-2022,15:35,49,1786.88,Credit Card,3.5,Mumbai
+ORD0664,Burger Town,Indian,02-12-2022,16:41,33,1496.58,UPI,2.4,Mumbai
+ORD0665,Pasta Paradise,Mexican,03-12-2022,18:29,29,1876.25,Cash,3.2,Bangalore
+ORD0666,Pizza Plaza,Indian,03-12-2022,13:25,18,337.85,UPI,1.2,Chennai
+ORD0667,Curry Delight,Indian,04-12-2022,11:08,45,713.14,Credit Card,1.5,Kolkata
+ORD0668,Burger Town,Indian,05-12-2022,12:06,27,115.84,Credit Card,3.6,Mumbai
+ORD0669,Curry Delight,Japanese,05-12-2022,13:26,21,1384.58,Cash,3.3,Kolkata
+ORD0670,Burger Town,Chinese,06-12-2022,16:26,26,228.23,Credit Card,3.6,Delhi
+ORD0671,Curry Delight,Mexican,06-12-2022,17:15,57,1875.12,Cash,1.3,Kolkata
+ORD0672,Curry Delight,Italian,07-12-2022,18:43,41,567.47,Credit Card,5,Bangalore
+ORD0673,Curry Delight,Mexican,07-12-2022,18:02,54,1400.03,Debit Card,2.6,Mumbai
+ORD0674,Burger Town,Italian,08-12-2022,20:54,46,244.1,UPI,3.5,Chennai
+ORD0675,Spice Villa,Japanese,08-12-2022,15:35,42,1685.01,Credit Card,2.2,Bangalore
+ORD0676,Pizza Plaza,Japanese,09-12-2022,20:28,39,550.09,Credit Card,1.7,Hyderabad
+ORD0677,Spice Villa,Mexican,09-12-2022,10:18,32,947.85,Debit Card,1.3,Chennai
+ORD0678,Burger Town,Chinese,10-12-2022,22:31,45,775.8,UPI,1.9,Bangalore
+ORD0679,Spice Villa,Italian,10-12-2022,10:32,49,1551.18,UPI,3.4,Hyderabad
+ORD0680,Pasta Paradise,Italian,11-12-2022,10:09,31,1492.85,Credit Card,3.4,Hyderabad
+ORD0681,Curry Delight,Chinese,11-12-2022,17:37,45,686.76,Wallet,2.1,Bangalore
+ORD0682,Burger Town,Indian,12-12-2022,14:51,53,1355.71,Wallet,3,Hyderabad
+ORD0683,Spice Villa,American,12-12-2022,20:38,57,564.29,Debit Card,3.4,Kolkata
+ORD0684,Burger Town,Mexican,13-12-2022,12:27,45,219.3,Cash,3.3,Mumbai
+ORD0685,Pasta Paradise,American,13-12-2022,18:49,48,1146.28,UPI,3.2,Kolkata
+ORD0686,Pizza Plaza,Indian,14-12-2022,19:10,35,320.29,Debit Card,4.9,Delhi
+ORD0687,Curry Delight,Italian,14-12-2022,23:57,54,953.23,Wallet,2.6,Mumbai
+ORD0688,Curry Delight,Chinese,15-12-2022,18:16,57,1365.23,Wallet,1.8,Mumbai
+ORD0689,Spice Villa,Japanese,15-12-2022,11:26,19,1129.34,Cash,1.4,Hyderabad
+ORD0690,Pasta Paradise,Chinese,16-12-2022,19:21,49,556.19,Debit Card,1.4,Delhi
+ORD0691,Spice Villa,American,16-12-2022,19:33,33,1974.39,UPI,3.7,Chennai
+ORD0692,Pasta Paradise,Japanese,17-12-2022,21:52,22,1085.96,Wallet,3.3,Bangalore
+ORD0693,Pasta Paradise,Japanese,17-12-2022,22:23,42,380.87,Cash,2.6,Chennai
+ORD0694,Pasta Paradise,Mexican,18-12-2022,21:36,27,1821.82,Credit Card,1.6,Bangalore
+ORD0695,Curry Delight,American,18-12-2022,15:52,19,241.1,UPI,1.8,Hyderabad
+ORD0696,Sushi World,Mexican,19-12-2022,23:21,35,497.95,Debit Card,1.9,Delhi
+ORD0697,Burger Town,Japanese,19-12-2022,12:44,50,347.94,Wallet,2.8,Chennai
+ORD0698,Curry Delight,Indian,20-12-2022,23:52,38,1752.51,Credit Card,2.4,Bangalore
+ORD0699,Pizza Plaza,American,20-12-2022,22:52,21,1843.8,Wallet,1.8,Kolkata
+ORD0700,Curry Delight,American,21-12-2022,14:49,30,868.14,UPI,2.2,Hyderabad
+ORD0701,Pizza Plaza,Italian,21-12-2022,11:15,21,570.08,UPI,1.2,Delhi
+ORD0702,Pasta Paradise,Chinese,22-12-2022,16:15,60,721.75,Wallet,2.8,Mumbai
+ORD0703,Burger Town,American,22-12-2022,21:59,21,163.44,UPI,3.6,Mumbai
+ORD0704,Sushi World,Mexican,23-12-2022,18:22,29,1027.28,Cash,4.1,Delhi
+ORD0705,Pizza Plaza,Indian,23-12-2022,17:47,41,1306.62,Cash,2.6,Delhi
+ORD0706,Burger Town,American,24-12-2022,20:36,48,1852.3,Credit Card,1.2,Chennai
+ORD0707,Sushi World,Italian,24-12-2022,14:09,25,1922.47,Debit Card,2.9,Delhi
+ORD0708,Spice Villa,Indian,25-12-2022,16:15,44,636.97,Debit Card,2.8,Hyderabad
+ORD0709,Pizza Plaza,American,25-12-2022,17:52,18,612.57,Credit Card,3.6,Mumbai
+ORD0710,Curry Delight,Japanese,26-12-2022,21:56,36,577.03,UPI,3.1,Mumbai
+ORD0711,Sushi World,Chinese,26-12-2022,14:10,49,350.48,Cash,1.5,Delhi
+ORD0712,Pasta Paradise,Chinese,27-12-2022,21:13,57,732.91,UPI,4.7,Hyderabad
+ORD0713,Burger Town,Indian,27-12-2022,22:12,32,1597.14,Wallet,4.9,Mumbai
+ORD0714,Burger Town,Japanese,28-12-2022,17:07,18,408.29,Debit Card,1.1,Chennai
+ORD0715,Sushi World,Chinese,28-12-2022,19:50,55,1956.93,Cash,3.8,Chennai
+ORD0716,Curry Delight,Japanese,29-12-2022,22:03,27,1762.77,Wallet,3.7,Mumbai
+ORD0717,Sushi World,Indian,29-12-2022,10:24,45,926.59,UPI,2.6,Hyderabad
+ORD0718,Curry Delight,Italian,30-12-2022,19:42,55,1958.8,Cash,2.5,Bangalore
+ORD0719,Spice Villa,Indian,30-12-2022,10:27,15,221.87,UPI,4.2,Bangalore
+ORD0720,Curry Delight,Indian,31-12-2022,19:32,49,185.97,Wallet,3.9,Bangalore
+ORD0721,Pasta Paradise,Italian,31-12-2022,17:54,42,1972.33,Debit Card,3.2,Delhi
+ORD0722,Sushi World,American,01-01-2023,23:17,45,199.38,Cash,2.7,Delhi
+ORD0723,Curry Delight,Mexican,01-01-2023,16:35,36,228.34,Debit Card,3.5,Delhi
+ORD0724,Pizza Plaza,Indian,02-01-2023,23:20,43,1823.12,Debit Card,1.3,Delhi
+ORD0725,Spice Villa,Japanese,02-01-2023,10:54,25,700.18,Debit Card,2.4,Kolkata
+ORD0726,Spice Villa,Japanese,03-01-2023,23:29,28,1162.88,Wallet,4.3,Bangalore
+ORD0727,Sushi World,Indian,03-01-2023,13:21,26,1838.6,Cash,3.2,Hyderabad
+ORD0728,Curry Delight,Chinese,04-01-2023,19:11,16,633.21,Cash,2.7,Delhi
+ORD0729,Burger Town,Mexican,04-01-2023,22:23,34,1531.09,Wallet,2.5,Chennai
+ORD0730,Sushi World,Japanese,05-01-2023,21:48,51,1700.66,Cash,3.3,Hyderabad
+ORD0731,Spice Villa,Mexican,05-01-2023,22:38,48,1402.55,Debit Card,1.3,Hyderabad
+ORD0732,Spice Villa,Chinese,06-01-2023,10:53,41,1568.63,Credit Card,2.6,Mumbai
+ORD0733,Burger Town,Mexican,06-01-2023,12:26,28,515.99,Debit Card,3.9,Kolkata
+ORD0734,Pizza Plaza,Chinese,07-01-2023,17:12,34,1999.51,Cash,4.1,Mumbai
+ORD0735,Sushi World,Chinese,07-01-2023,16:54,51,769.86,Credit Card,4.2,Bangalore
+ORD0736,Pizza Plaza,Mexican,08-01-2023,23:06,28,1245.94,Wallet,4.2,Delhi
+ORD0737,Curry Delight,Mexican,08-01-2023,17:11,33,1465.75,Wallet,3.7,Hyderabad
+ORD0738,Sushi World,Chinese,09-01-2023,16:55,40,229.22,Debit Card,4.1,Mumbai
+ORD0739,Burger Town,Mexican,09-01-2023,10:49,43,192.7,Cash,3.3,Delhi
+ORD0740,Curry Delight,Mexican,10-01-2023,21:10,41,1088.37,Wallet,4.7,Kolkata
+ORD0741,Pasta Paradise,Mexican,10-01-2023,20:25,19,1366.2,Wallet,2.3,Hyderabad
+ORD0742,Burger Town,American,11-01-2023,11:00,26,557.66,Credit Card,1.2,Hyderabad
+ORD0743,Spice Villa,American,12-01-2023,22:17,40,458.97,Cash,1.1,Chennai
+ORD0744,Sushi World,Japanese,12-01-2023,19:16,54,1415.91,Debit Card,4.2,Mumbai
+ORD0745,Curry Delight,Mexican,13-01-2023,13:25,27,1793.47,UPI,4.6,Mumbai
+ORD0746,Pasta Paradise,American,13-01-2023,10:54,36,200.1,UPI,2.8,Bangalore
+ORD0747,Burger Town,Italian,14-01-2023,19:30,29,1804.11,Cash,1.6,Delhi
+ORD0748,Pizza Plaza,Italian,14-01-2023,17:13,35,1629.1,Credit Card,4,Hyderabad
+ORD0749,Curry Delight,Chinese,15-01-2023,18:41,32,129.53,Cash,2,Kolkata
+ORD0750,Burger Town,Chinese,15-01-2023,10:42,52,478.2,Credit Card,1.1,Delhi
+ORD0751,Pasta Paradise,Indian,16-01-2023,11:27,50,1659.93,Credit Card,2.5,Delhi
+ORD0752,Curry Delight,Indian,16-01-2023,11:29,22,1608.85,Cash,4.5,Bangalore
+ORD0753,Sushi World,Chinese,17-01-2023,17:41,44,886.83,Credit Card,1.4,Bangalore
+ORD0754,Curry Delight,Chinese,17-01-2023,20:27,24,1961.76,Wallet,2.2,Hyderabad
+ORD0755,Spice Villa,Indian,18-01-2023,15:04,22,944.1,Cash,2.6,Bangalore
+ORD0756,Sushi World,Italian,18-01-2023,13:34,34,1295.62,Credit Card,1.8,Hyderabad
+ORD0757,Spice Villa,Italian,19-01-2023,17:44,15,777.25,Cash,4,Bangalore
+ORD0758,Curry Delight,Indian,19-01-2023,18:53,16,1194.83,Credit Card,2.8,Mumbai
+ORD0759,Sushi World,Chinese,20-01-2023,19:06,41,1450.93,Cash,3.5,Bangalore
+ORD0760,Curry Delight,Chinese,20-01-2023,20:58,25,1688.05,Credit Card,1.4,Chennai
+ORD0761,Pasta Paradise,Chinese,21-01-2023,21:54,25,1371.72,UPI,1.9,Bangalore
+ORD0762,Burger Town,Chinese,21-01-2023,19:06,45,129.31,UPI,4.4,Hyderabad
+ORD0763,Spice Villa,Chinese,22-01-2023,11:46,43,767.84,Debit Card,1.7,Hyderabad
+ORD0764,Spice Villa,Italian,22-01-2023,10:46,22,1698.2,UPI,1.3,Mumbai
+ORD0765,Pizza Plaza,Indian,23-01-2023,11:33,35,1605.7,Debit Card,3.2,Bangalore
+ORD0766,Pizza Plaza,Japanese,23-01-2023,19:37,32,1218.69,UPI,4.8,Chennai
+ORD0767,Burger Town,Mexican,24-01-2023,22:45,57,711,Credit Card,4,Mumbai
+ORD0768,Pasta Paradise,American,24-01-2023,11:19,36,869.05,Wallet,3.5,Kolkata
+ORD0769,Spice Villa,Chinese,25-01-2023,16:55,40,879.28,Cash,3.2,Chennai
+ORD0770,Spice Villa,Chinese,25-01-2023,15:35,20,512.96,UPI,2.8,Kolkata
+ORD0771,Burger Town,American,26-01-2023,17:25,26,1166.2,Debit Card,4,Hyderabad
+ORD0772,Burger Town,Chinese,26-01-2023,21:49,51,805.88,Debit Card,2.3,Bangalore
+ORD0773,Sushi World,Chinese,27-01-2023,16:09,58,1963.02,Wallet,4.5,Delhi
+ORD0774,Burger Town,Indian,27-01-2023,16:49,30,1078.35,Debit Card,4.1,Delhi
+ORD0775,Spice Villa,Italian,28-01-2023,20:33,18,1856.05,Wallet,4.5,Chennai
+ORD0776,Burger Town,Mexican,28-01-2023,22:55,25,576.37,Credit Card,4.5,Delhi
+ORD0777,Burger Town,American,29-01-2023,12:26,21,1257.84,Credit Card,1.9,Kolkata
+ORD0778,Pizza Plaza,Chinese,29-01-2023,22:59,59,722.51,Debit Card,4.9,Chennai
+ORD0779,Burger Town,Chinese,30-01-2023,15:37,33,1267.03,Credit Card,3.4,Hyderabad
+ORD0780,Pizza Plaza,Japanese,30-01-2023,22:50,60,1377.8,Credit Card,3.3,Delhi
+ORD0781,Pasta Paradise,Mexican,31-01-2023,18:39,21,259.61,Cash,4.4,Hyderabad
+ORD0782,Burger Town,Italian,31-01-2023,21:42,16,1022.98,Debit Card,1.4,Chennai
+ORD0783,Pizza Plaza,Chinese,01-02-2023,16:55,34,1956.11,UPI,3.3,Chennai
+ORD0784,Sushi World,Mexican,01-02-2023,13:21,15,658.99,Debit Card,2.3,Delhi
+ORD0785,Pizza Plaza,Indian,02-02-2023,15:04,41,1749.47,Credit Card,1.1,Chennai
+ORD0786,Pizza Plaza,Italian,02-02-2023,10:41,43,1603.23,Debit Card,1.3,Chennai
+ORD0787,Spice Villa,American,03-02-2023,22:42,25,126.51,Debit Card,3,Chennai
+ORD0788,Pizza Plaza,Japanese,03-02-2023,15:58,19,1102.1,Wallet,3.9,Delhi
+ORD0789,Sushi World,American,04-02-2023,17:13,47,329.29,Wallet,3.3,Mumbai
+ORD0790,Pasta Paradise,Indian,04-02-2023,23:30,32,1049.09,Credit Card,3.5,Delhi
+ORD0791,Sushi World,Italian,05-02-2023,22:32,60,1490.51,UPI,4.6,Mumbai
+ORD0792,Pizza Plaza,American,05-02-2023,14:10,18,1204.47,UPI,2.4,Chennai
+ORD0793,Pizza Plaza,American,06-02-2023,21:17,23,1041.78,Debit Card,3.3,Bangalore
+ORD0794,Pizza Plaza,Japanese,06-02-2023,17:50,50,1333.89,Cash,1.2,Mumbai
+ORD0795,Curry Delight,Chinese,07-02-2023,17:20,15,1134.48,UPI,4.9,Kolkata
+ORD0796,Curry Delight,Italian,07-02-2023,12:10,37,1559.04,Cash,3.4,Mumbai
+ORD0797,Pasta Paradise,Mexican,08-02-2023,23:16,28,561.92,UPI,4,Chennai
+ORD0798,Pasta Paradise,Japanese,08-02-2023,23:44,40,1224.83,Credit Card,1.8,Hyderabad
+ORD0799,Pasta Paradise,Japanese,09-02-2023,22:27,29,310.54,Credit Card,4,Delhi
+ORD0800,Pasta Paradise,Japanese,09-02-2023,12:11,36,1343.25,Cash,4.9,Mumbai
+ORD0801,Burger Town,Italian,10-02-2023,22:15,44,196.99,Wallet,4.4,Bangalore
+ORD0802,Sushi World,Chinese,10-02-2023,10:05,50,586.28,UPI,2.4,Hyderabad
+ORD0803,Pizza Plaza,Mexican,11-02-2023,20:36,18,1229.09,Cash,1.4,Hyderabad
+ORD0804,Spice Villa,Indian,11-02-2023,14:26,38,620.51,Debit Card,4.6,Delhi
+ORD0805,Spice Villa,Indian,12-02-2023,16:37,20,1478.29,UPI,4.7,Hyderabad
+ORD0806,Sushi World,Indian,12-02-2023,19:27,56,1113.68,Credit Card,4.9,Hyderabad
+ORD0807,Pizza Plaza,Chinese,13-02-2023,20:15,54,1759.35,Cash,3.7,Hyderabad
+ORD0808,Sushi World,American,13-02-2023,11:36,59,217.49,Cash,1.9,Chennai
+ORD0809,Sushi World,American,14-02-2023,21:05,45,788.54,Debit Card,2.2,Bangalore
+ORD0810,Sushi World,American,14-02-2023,22:40,31,1508.19,Credit Card,2.3,Kolkata
+ORD0811,Spice Villa,American,15-02-2023,13:13,41,246.5,Cash,4.7,Kolkata
+ORD0812,Curry Delight,Indian,15-02-2023,12:53,37,1761.22,Debit Card,1.9,Bangalore
+ORD0813,Pizza Plaza,Italian,16-02-2023,21:07,43,1889.71,Wallet,4.2,Kolkata
+ORD0814,Sushi World,Chinese,16-02-2023,13:40,29,1901.73,Cash,4,Hyderabad
+ORD0815,Curry Delight,American,17-02-2023,12:37,43,563.59,Credit Card,1.1,Delhi
+ORD0816,Pasta Paradise,Chinese,18-02-2023,13:36,25,1925.39,Cash,3.8,Hyderabad
+ORD0817,Burger Town,American,18-02-2023,18:59,16,945.61,Wallet,5,Mumbai
+ORD0818,Burger Town,American,19-02-2023,15:55,42,1025.66,UPI,4.2,Hyderabad
+ORD0819,Spice Villa,Italian,19-02-2023,15:01,49,470.77,Cash,3.5,Bangalore
+ORD0820,Burger Town,American,20-02-2023,16:43,33,153.53,UPI,2.2,Bangalore
+ORD0821,Pizza Plaza,Japanese,20-02-2023,10:46,53,1462.37,Debit Card,4.3,Kolkata
+ORD0822,Burger Town,Italian,21-02-2023,11:23,45,709.52,Cash,2,Mumbai
+ORD0823,Pasta Paradise,Japanese,21-02-2023,21:08,25,552.85,Debit Card,3.9,Delhi
+ORD0824,Spice Villa,Japanese,22-02-2023,22:02,45,669.14,UPI,1.1,Mumbai
+ORD0825,Sushi World,American,22-02-2023,16:47,20,1570.13,Cash,1.2,Kolkata
+ORD0826,Sushi World,Italian,23-02-2023,23:53,47,1479.35,UPI,1,Mumbai
+ORD0827,Curry Delight,Indian,23-02-2023,17:09,54,330.73,Wallet,2.2,Delhi
+ORD0828,Burger Town,Italian,24-02-2023,15:51,60,851.88,Credit Card,1.6,Hyderabad
+ORD0829,Burger Town,Italian,24-02-2023,22:05,23,1221.54,Wallet,2.7,Mumbai
+ORD0830,Sushi World,Indian,25-02-2023,13:10,39,977.39,Wallet,1.2,Kolkata
+ORD0831,Burger Town,American,25-02-2023,18:53,55,1308.53,Credit Card,2,Hyderabad
+ORD0832,Sushi World,Mexican,26-02-2023,13:09,50,1071.2,Credit Card,2.5,Chennai
+ORD0833,Burger Town,Chinese,26-02-2023,21:38,25,1449.38,UPI,1.8,Bangalore
+ORD0834,Burger Town,Chinese,27-02-2023,22:25,23,1043.51,UPI,3.5,Chennai
+ORD0835,Curry Delight,Mexican,27-02-2023,12:54,15,489.88,Wallet,3.6,Bangalore
+ORD0836,Spice Villa,Indian,28-02-2023,16:04,17,420.44,Debit Card,4,Mumbai
+ORD0837,Sushi World,Japanese,28-02-2023,15:19,23,1350.96,Debit Card,4.7,Bangalore
+ORD0838,Burger Town,Indian,01-03-2023,10:53,50,688.65,UPI,4.2,Bangalore
+ORD0839,Sushi World,American,01-03-2023,22:53,17,1923.07,UPI,3.1,Kolkata
+ORD0840,Curry Delight,Mexican,02-03-2023,19:33,42,1925.5,UPI,3.5,Hyderabad
+ORD0841,Pizza Plaza,Japanese,02-03-2023,15:09,59,200.75,Cash,1.1,Mumbai
+ORD0842,Spice Villa,Japanese,03-03-2023,13:10,40,1484.22,Credit Card,1.5,Chennai
+ORD0843,Burger Town,Indian,03-03-2023,22:03,33,1215.24,Cash,3.4,Kolkata
+ORD0844,Sushi World,American,04-03-2023,21:36,24,590.64,UPI,2.5,Hyderabad
+ORD0845,Spice Villa,American,04-03-2023,15:38,24,223.2,Wallet,1.1,Mumbai
+ORD0846,Pasta Paradise,Italian,05-03-2023,20:18,29,1903.88,Cash,4.3,Chennai
+ORD0847,Spice Villa,Indian,05-03-2023,17:27,22,1347.53,Cash,3.1,Mumbai
+ORD0848,Burger Town,Japanese,06-03-2023,13:13,45,780.93,Credit Card,2.2,Bangalore
+ORD0849,Curry Delight,American,06-03-2023,13:16,42,1168.53,Credit Card,1.6,Chennai
+ORD0850,Spice Villa,American,07-03-2023,21:21,22,846.46,UPI,1.1,Bangalore
+ORD0851,Pasta Paradise,Japanese,07-03-2023,10:01,41,320.76,Cash,1.5,Mumbai
+ORD0852,Sushi World,Indian,08-03-2023,19:04,24,1043.43,Credit Card,3.3,Mumbai
+ORD0853,Spice Villa,Italian,08-03-2023,11:07,39,1466.28,Cash,3.2,Bangalore
+ORD0854,Burger Town,American,09-03-2023,16:34,43,1763.21,Credit Card,4.9,Bangalore
+ORD0855,Pizza Plaza,Japanese,09-03-2023,19:43,15,433.01,Credit Card,1.2,Chennai
+ORD0856,Pasta Paradise,Japanese,10-03-2023,18:07,42,284.84,Wallet,3.2,Hyderabad
+ORD0857,Burger Town,American,10-03-2023,22:40,45,710.67,Wallet,1,Delhi
+ORD0858,Burger Town,Mexican,11-03-2023,17:22,38,1667.35,UPI,2.3,Hyderabad
+ORD0859,Sushi World,Chinese,11-03-2023,22:30,58,313.12,Cash,3.9,Kolkata
+ORD0860,Burger Town,Chinese,12-03-2023,18:39,44,1754.26,Wallet,1.5,Chennai
+ORD0861,Burger Town,Chinese,12-03-2023,14:14,54,1582.91,Credit Card,3.2,Kolkata
+ORD0862,Spice Villa,Chinese,13-03-2023,20:06,26,1003.25,Wallet,2.9,Bangalore
+ORD0863,Sushi World,Indian,13-03-2023,22:18,44,1969.21,Debit Card,1.8,Hyderabad
+ORD0864,Pasta Paradise,Japanese,14-03-2023,23:27,58,1358.34,Credit Card,3.4,Mumbai
+ORD0865,Pasta Paradise,Japanese,14-03-2023,22:56,60,948.91,Wallet,2,Kolkata
+ORD0866,Spice Villa,Italian,15-03-2023,16:45,56,412.94,Wallet,2.8,Bangalore
+ORD0867,Sushi World,Japanese,15-03-2023,15:52,24,705.7,UPI,3,Hyderabad
+ORD0868,Pizza Plaza,Italian,16-03-2023,17:49,23,239.42,Credit Card,4.7,Bangalore
+ORD0869,Curry Delight,American,16-03-2023,23:49,41,598.63,UPI,1.7,Chennai
+ORD0870,Pasta Paradise,Japanese,17-03-2023,22:15,41,1309.57,Cash,2.2,Hyderabad
+ORD0871,Burger Town,American,17-03-2023,23:00,39,1066.36,Wallet,1.7,Hyderabad
+ORD0872,Burger Town,Japanese,18-03-2023,12:51,17,1241.48,Cash,3.3,Mumbai
+ORD0873,Curry Delight,Chinese,18-03-2023,10:07,51,1393.87,Cash,3.2,Delhi
+ORD0874,Curry Delight,Japanese,19-03-2023,16:08,55,1850.77,Wallet,2.7,Chennai
+ORD0875,Sushi World,Chinese,19-03-2023,18:39,29,1622.19,Cash,3,Hyderabad
+ORD0876,Curry Delight,Mexican,20-03-2023,14:43,54,1167.67,Cash,3.1,Hyderabad
+ORD0877,Pizza Plaza,Italian,20-03-2023,12:49,16,484,Credit Card,4.9,Chennai
+ORD0878,Burger Town,Italian,21-03-2023,11:34,23,313.44,UPI,1.8,Delhi
+ORD0879,Pasta Paradise,Indian,21-03-2023,10:02,46,734.81,UPI,3.8,Mumbai
+ORD0880,Sushi World,Italian,22-03-2023,20:41,34,1485.75,Wallet,3.5,Hyderabad
+ORD0881,Pizza Plaza,Japanese,22-03-2023,16:02,55,1217.13,Cash,3.4,Mumbai
+ORD0882,Pasta Paradise,American,23-03-2023,17:30,29,1858.48,Wallet,3,Hyderabad
+ORD0883,Spice Villa,Japanese,23-03-2023,10:02,32,308.57,Cash,2.3,Bangalore
+ORD0884,Burger Town,Japanese,24-03-2023,20:29,38,754.24,Cash,2,Delhi
+ORD0885,Burger Town,Indian,24-03-2023,16:23,54,1697.46,UPI,1.9,Chennai
+ORD0886,Curry Delight,Chinese,25-03-2023,18:11,47,623.57,UPI,1.7,Delhi
+ORD0887,Burger Town,American,25-03-2023,13:07,31,924.53,Credit Card,3.7,Mumbai
+ORD0888,Curry Delight,Japanese,26-03-2023,22:33,37,739.32,Credit Card,1.6,Kolkata
+ORD0889,Sushi World,Mexican,26-03-2023,13:37,51,660.64,UPI,4.4,Chennai
+ORD0890,Pizza Plaza,Mexican,27-03-2023,13:05,58,1110.08,Debit Card,2.2,Kolkata
+ORD0891,Spice Villa,Mexican,28-03-2023,14:17,27,335.35,Debit Card,4.8,Mumbai
+ORD0892,Spice Villa,Japanese,28-03-2023,19:28,56,937.23,Cash,3,Mumbai
+ORD0893,Spice Villa,Japanese,29-03-2023,11:07,52,1397.08,Debit Card,4.1,Kolkata
+ORD0894,Pasta Paradise,Japanese,29-03-2023,14:45,26,457.44,Wallet,1.3,Hyderabad
+ORD0895,Curry Delight,Chinese,30-03-2023,17:12,23,1330.4,Credit Card,3.4,Bangalore
+ORD0896,Pasta Paradise,American,30-03-2023,13:07,22,214.66,Cash,2.3,Hyderabad
+ORD0897,Curry Delight,Japanese,31-03-2023,22:43,20,1226.55,Cash,5,Chennai
+ORD0898,Pasta Paradise,Italian,31-03-2023,22:26,18,953.74,Cash,4.1,Hyderabad
+ORD0899,Sushi World,Chinese,01-04-2023,15:37,38,903.27,Cash,4.4,Chennai
+ORD0900,Burger Town,American,01-04-2023,15:40,38,1143.79,Cash,2.7,Bangalore
+ORD0901,Pizza Plaza,Italian,02-04-2023,23:05,53,1852.91,Wallet,1.8,Chennai
+ORD0902,Spice Villa,Chinese,02-04-2023,22:53,28,1437.11,UPI,2.2,Hyderabad
+ORD0903,Spice Villa,Chinese,03-04-2023,18:42,35,1432.62,Debit Card,1.8,Chennai
+ORD0904,Sushi World,Mexican,03-04-2023,14:40,57,1988.32,Wallet,1,Kolkata
+ORD0905,Pizza Plaza,Indian,04-04-2023,20:16,21,581.68,UPI,1.8,Kolkata
+ORD0906,Pizza Plaza,Italian,04-04-2023,22:35,60,594.23,Cash,4.4,Delhi
+ORD0907,Spice Villa,Mexican,05-04-2023,19:50,19,642.04,Credit Card,3.2,Kolkata
+ORD0908,Curry Delight,Chinese,05-04-2023,10:25,20,1264.56,Cash,3.8,Hyderabad
+ORD0909,Burger Town,Japanese,06-04-2023,23:41,50,632.96,Credit Card,2.5,Delhi
+ORD0910,Burger Town,American,06-04-2023,10:46,36,268.1,Wallet,1.5,Chennai
+ORD0911,Pasta Paradise,American,07-04-2023,17:58,46,1232.48,UPI,3.8,Delhi
+ORD0912,Sushi World,Chinese,07-04-2023,17:41,55,806.37,Credit Card,3.4,Mumbai
+ORD0913,Curry Delight,Indian,08-04-2023,19:16,22,1532.88,UPI,2.7,Kolkata
+ORD0914,Spice Villa,Italian,08-04-2023,14:05,31,735.28,UPI,2.7,Mumbai
+ORD0915,Sushi World,Mexican,09-04-2023,11:05,60,1328.45,Credit Card,3.2,Chennai
+ORD0916,Burger Town,Italian,09-04-2023,14:22,15,341.51,Wallet,1.3,Delhi
+ORD0917,Pizza Plaza,Italian,10-04-2023,13:41,52,1819.47,Cash,4.4,Delhi
+ORD0918,Pasta Paradise,Italian,10-04-2023,22:13,23,910.6,Debit Card,1.8,Hyderabad
+ORD0919,Sushi World,Mexican,11-04-2023,20:01,38,329.57,Wallet,2.8,Delhi
+ORD0920,Spice Villa,Indian,11-04-2023,16:45,34,1193.6,Wallet,2.5,Hyderabad
+ORD0921,Pizza Plaza,Indian,12-04-2023,15:32,26,935.31,Credit Card,1.4,Delhi
+ORD0922,Spice Villa,Italian,12-04-2023,19:19,43,1582.33,Wallet,1,Kolkata
+ORD0923,Burger Town,Italian,13-04-2023,19:42,16,1130.12,Wallet,4.5,Mumbai
+ORD0924,Spice Villa,Chinese,13-04-2023,12:38,52,1737.7,Debit Card,2.9,Hyderabad
+ORD0925,Pizza Plaza,American,14-04-2023,11:12,35,538.68,Wallet,2.4,Kolkata
+ORD0926,Pasta Paradise,American,14-04-2023,23:20,29,1101.3,Wallet,4.7,Hyderabad
+ORD0927,Pizza Plaza,Italian,15-04-2023,20:05,31,820.63,Wallet,2.6,Delhi
+ORD0928,Curry Delight,American,15-04-2023,16:16,53,109.97,UPI,1.7,Hyderabad
+ORD0929,Spice Villa,Japanese,16-04-2023,16:14,50,1855.25,Cash,1.9,Chennai
+ORD0930,Pasta Paradise,Mexican,16-04-2023,23:55,30,1653.25,Debit Card,3.8,Kolkata
+ORD0931,Pizza Plaza,Japanese,17-04-2023,23:21,59,1977.79,Wallet,3.7,Kolkata
+ORD0932,Curry Delight,Chinese,17-04-2023,20:16,25,394.29,Debit Card,2.2,Chennai
+ORD0933,Spice Villa,Indian,18-04-2023,20:19,24,1612.79,Cash,3.1,Kolkata
+ORD0934,Spice Villa,Indian,18-04-2023,11:29,45,1051.95,UPI,2.5,Delhi
+ORD0935,Pasta Paradise,Mexican,19-04-2023,13:22,51,530.71,Credit Card,2.9,Kolkata
+ORD0936,Pasta Paradise,Chinese,19-04-2023,18:34,50,1117.57,Debit Card,4.6,Kolkata
+ORD0937,Sushi World,American,20-04-2023,12:22,56,1712.19,Cash,1.4,Hyderabad
+ORD0938,Pizza Plaza,Italian,20-04-2023,20:16,20,1774.06,Cash,3.6,Kolkata
+ORD0939,Pasta Paradise,Mexican,21-04-2023,11:56,30,1269.71,Debit Card,1,Delhi
+ORD0940,Sushi World,Indian,21-04-2023,11:00,51,1650.62,Credit Card,4.8,Chennai
+ORD0941,Curry Delight,Japanese,22-04-2023,14:37,42,1729.61,Wallet,2.3,Delhi
+ORD0942,Burger Town,Indian,22-04-2023,20:46,42,1071.4,Wallet,2.5,Bangalore
+ORD0943,Pasta Paradise,Indian,23-04-2023,13:24,40,953.33,Debit Card,3.1,Delhi
+ORD0944,Burger Town,Italian,23-04-2023,23:12,33,1465.27,Debit Card,4.4,Kolkata
+ORD0945,Sushi World,American,24-04-2023,15:09,37,652.59,Credit Card,1,Delhi
+ORD0946,Burger Town,Mexican,24-04-2023,12:22,20,1551.1,Debit Card,1.1,Mumbai
+ORD0947,Pasta Paradise,Japanese,25-04-2023,16:07,60,1097.4,UPI,1.3,Chennai
+ORD0948,Pasta Paradise,Chinese,25-04-2023,18:00,22,1933.99,UPI,3.9,Bangalore
+ORD0949,Sushi World,Italian,26-04-2023,15:20,22,1048.3,Wallet,4.5,Chennai
+ORD0950,Pizza Plaza,American,26-04-2023,16:01,38,1582.09,Wallet,4.7,Mumbai
+ORD0951,Pasta Paradise,Italian,27-04-2023,16:13,58,969.6,Wallet,1.5,Delhi
+ORD0952,Pasta Paradise,American,27-04-2023,22:12,51,1804.89,Wallet,3.9,Hyderabad
+ORD0953,Curry Delight,Chinese,28-04-2023,10:12,31,806.1,UPI,2.8,Delhi
+ORD0954,Curry Delight,Indian,28-04-2023,12:07,23,654.06,UPI,2.5,Bangalore
+ORD0955,Sushi World,Mexican,29-04-2023,12:36,57,507.12,Cash,1.7,Kolkata
+ORD0956,Burger Town,Indian,29-04-2023,18:24,32,809.37,Debit Card,4.1,Hyderabad
+ORD0957,Pizza Plaza,Mexican,30-04-2023,23:24,56,619.76,UPI,4.5,Hyderabad
+ORD0958,Pizza Plaza,Italian,30-04-2023,13:16,33,857.6,UPI,4.9,Chennai
+ORD0959,Spice Villa,Italian,01-05-2023,21:45,19,1769.74,UPI,3.4,Mumbai
+ORD0960,Pizza Plaza,American,01-05-2023,14:24,21,363.69,Debit Card,2.3,Hyderabad
+ORD0961,Pasta Paradise,Italian,02-05-2023,22:41,25,1883.87,Credit Card,3.9,Chennai
+ORD0962,Curry Delight,Chinese,02-05-2023,10:59,23,981.26,Credit Card,1.1,Delhi
+ORD0963,Burger Town,Japanese,03-05-2023,19:01,52,141.32,Credit Card,3.3,Bangalore
+ORD0964,Spice Villa,Italian,04-05-2023,11:02,23,162.69,Debit Card,4.2,Kolkata
+ORD0965,Spice Villa,Indian,04-05-2023,22:25,30,1709.16,UPI,2.7,Chennai
+ORD0966,Burger Town,Mexican,05-05-2023,16:06,16,1026.87,Cash,4.2,Hyderabad
+ORD0967,Pizza Plaza,Indian,05-05-2023,23:17,22,357.3,Credit Card,1.7,Mumbai
+ORD0968,Sushi World,Mexican,06-05-2023,13:24,36,1336.39,Cash,2.5,Bangalore
+ORD0969,Spice Villa,Chinese,06-05-2023,22:44,25,1368.21,Cash,4.6,Mumbai
+ORD0970,Curry Delight,Japanese,07-05-2023,17:00,17,614.53,Debit Card,4.8,Kolkata
+ORD0971,Pasta Paradise,Mexican,07-05-2023,15:50,46,1122.68,Credit Card,4,Delhi
+ORD0972,Pasta Paradise,Chinese,08-05-2023,15:00,49,894.87,Cash,1.3,Bangalore
+ORD0973,Spice Villa,Mexican,08-05-2023,22:52,16,895.57,Debit Card,4.1,Bangalore
+ORD0974,Pizza Plaza,American,09-05-2023,12:52,22,1737.16,Cash,3.8,Bangalore
+ORD0975,Spice Villa,Italian,09-05-2023,18:54,44,263.48,UPI,1,Delhi
+ORD0976,Curry Delight,Chinese,10-05-2023,11:50,36,1755.07,Wallet,1.1,Chennai
+ORD0977,Curry Delight,Italian,10-05-2023,14:36,53,1894.66,Wallet,3.5,Hyderabad
+ORD0978,Sushi World,Japanese,11-05-2023,14:45,45,1019.48,Debit Card,1.4,Delhi
+ORD0979,Sushi World,American,11-05-2023,21:44,17,862.85,Credit Card,1.8,Bangalore
+ORD0980,Pizza Plaza,Chinese,12-05-2023,17:45,55,1368.88,Wallet,1.2,Chennai
+ORD0981,Curry Delight,Italian,12-05-2023,13:21,59,1190.93,Debit Card,3.3,Bangalore
+ORD0982,Pasta Paradise,Mexican,13-05-2023,14:02,28,1538.19,Debit Card,3.8,Chennai
+ORD0983,Burger Town,Chinese,13-05-2023,12:45,22,1321.9,Cash,1.6,Hyderabad
+ORD0984,Curry Delight,Chinese,14-05-2023,19:12,53,668.9,Credit Card,4.4,Kolkata
+ORD0985,Pasta Paradise,American,14-05-2023,22:24,56,824.14,Debit Card,4.4,Hyderabad
+ORD0986,Sushi World,American,15-05-2023,17:25,15,1006.44,Credit Card,2.3,Delhi
+ORD0987,Pizza Plaza,Indian,15-05-2023,19:36,32,636.49,Cash,3,Mumbai
+ORD0988,Sushi World,Chinese,16-05-2023,19:43,59,1217.87,Wallet,3.2,Mumbai
+ORD0989,Pizza Plaza,Japanese,16-05-2023,19:43,17,542.2,UPI,4.8,Delhi
+ORD0990,Pasta Paradise,Chinese,17-05-2023,17:50,29,932.88,Credit Card,3.4,Kolkata
+ORD0991,Pasta Paradise,Chinese,17-05-2023,17:01,20,988.64,UPI,2.5,Kolkata
+ORD0992,Sushi World,Mexican,18-05-2023,15:48,60,1658.3,Debit Card,2.2,Kolkata
+ORD0993,Pasta Paradise,Indian,18-05-2023,22:16,46,1553.72,Cash,4.5,Delhi
+ORD0994,Burger Town,Chinese,19-05-2023,20:56,37,1109.55,Credit Card,3.4,Delhi
+ORD0995,Pasta Paradise,Chinese,19-05-2023,17:02,56,723.5,Debit Card,4.9,Kolkata
+ORD0996,Curry Delight,American,20-05-2023,13:32,26,1983.7,UPI,4.9,Kolkata
+ORD0997,Spice Villa,Indian,20-05-2023,16:53,20,839.2,Wallet,1.7,Chennai
+ORD0998,Curry Delight,Indian,21-05-2023,18:19,43,1414.66,Debit Card,1.2,Bangalore
+ORD0999,Curry Delight,Japanese,21-05-2023,15:15,19,1851.24,Credit Card,1.1,Mumbai
+ORD1000,Pasta Paradise,Indian,22-05-2023,22:31,15,529.04,Cash,4.9,Kolkata
+ORD1001,Pasta Paradise,Japanese,22-05-2023,19:58,55,1521.64,Credit Card,1.1,Delhi
+ORD1002,Burger Town,American,23-05-2023,13:50,41,454.23,Debit Card,3.9,Chennai
+ORD1003,Curry Delight,American,23-05-2023,10:10,50,944.73,Credit Card,2.8,Bangalore
+ORD1004,Pizza Plaza,Chinese,24-05-2023,20:56,21,1885.68,Cash,1.2,Kolkata
+ORD1005,Burger Town,Indian,24-05-2023,10:38,55,1864.86,Wallet,2,Hyderabad
+ORD1006,Pizza Plaza,Indian,25-05-2023,14:52,16,1080.55,Cash,3.8,Mumbai
+ORD1007,Sushi World,Mexican,25-05-2023,16:21,24,137.56,UPI,2.1,Mumbai
+ORD1008,Curry Delight,Japanese,26-05-2023,16:22,22,1857.14,UPI,4.5,Chennai
+ORD1009,Spice Villa,Japanese,26-05-2023,10:06,20,639.1,UPI,3.8,Kolkata
+ORD1010,Burger Town,Indian,27-05-2023,14:14,33,1724.55,Credit Card,2.2,Delhi
+ORD1011,Spice Villa,Japanese,27-05-2023,21:06,55,145.37,UPI,1,Bangalore
+ORD1012,Spice Villa,American,28-05-2023,23:23,42,1469.11,Credit Card,2.8,Mumbai
+ORD1013,Spice Villa,Mexican,28-05-2023,16:43,33,506.64,Cash,2.7,Chennai
+ORD1014,Pasta Paradise,Japanese,29-05-2023,15:28,30,862.49,UPI,3.5,Hyderabad
+ORD1015,Pizza Plaza,Chinese,29-05-2023,19:48,51,1575.6,Debit Card,4.5,Chennai
+ORD1016,Curry Delight,Mexican,30-05-2023,23:01,44,885.56,Debit Card,1.2,Hyderabad
+ORD1017,Curry Delight,Indian,30-05-2023,11:34,50,769.37,Credit Card,1.8,Kolkata
+ORD1018,Curry Delight,Indian,31-05-2023,22:06,44,473.74,Debit Card,2.6,Bangalore
+ORD1019,Curry Delight,Japanese,31-05-2023,10:48,58,969.85,Wallet,2.9,Kolkata
+ORD1020,Burger Town,American,01-06-2023,18:22,41,766.87,Credit Card,2.3,Mumbai
+ORD1021,Curry Delight,Japanese,01-06-2023,20:59,19,449.98,Wallet,4.6,Bangalore
+ORD1022,Sushi World,Japanese,02-06-2023,11:10,35,150.87,Cash,1.1,Mumbai
+ORD1023,Curry Delight,Chinese,02-06-2023,15:47,25,1274.26,Debit Card,2.3,Delhi
+ORD1024,Pasta Paradise,Japanese,03-06-2023,18:24,56,1108.31,Wallet,3.7,Hyderabad
+ORD1025,Pasta Paradise,Japanese,03-06-2023,17:45,24,589.41,Cash,4.5,Hyderabad
+ORD1026,Spice Villa,Chinese,04-06-2023,20:31,18,1559.19,Debit Card,4.9,Chennai
+ORD1027,Burger Town,Mexican,04-06-2023,11:28,45,576.96,Cash,1.9,Kolkata
+ORD1028,Curry Delight,Indian,05-06-2023,14:52,57,1168.8,Wallet,3.1,Bangalore
+ORD1029,Spice Villa,Indian,05-06-2023,21:45,57,1172.63,Wallet,3.2,Chennai
+ORD1030,Pasta Paradise,Italian,06-06-2023,21:01,40,1201.74,Wallet,2.3,Hyderabad
+ORD1031,Spice Villa,Chinese,06-06-2023,21:46,50,1751.53,Wallet,4.8,Chennai
+ORD1032,Pizza Plaza,Mexican,07-06-2023,18:26,30,131.22,Wallet,3.5,Mumbai
+ORD1033,Spice Villa,Indian,07-06-2023,19:04,35,1943.86,Debit Card,3.1,Delhi
+ORD1034,Pasta Paradise,Mexican,08-06-2023,17:25,31,768.68,Cash,2.9,Bangalore
+ORD1035,Burger Town,Italian,08-06-2023,16:17,47,519.18,Cash,1.2,Hyderabad
+ORD1036,Sushi World,Chinese,09-06-2023,14:48,32,877.56,Debit Card,3.6,Mumbai
+ORD1037,Spice Villa,Italian,09-06-2023,20:09,15,1860.42,Debit Card,1,Mumbai
+ORD1038,Burger Town,Japanese,10-06-2023,17:41,60,1721.05,Cash,2.3,Hyderabad
+ORD1039,Pasta Paradise,Italian,11-06-2023,21:58,19,299.94,Wallet,1.4,Hyderabad
+ORD1040,Burger Town,American,11-06-2023,11:07,53,290.95,Debit Card,1.8,Mumbai
+ORD1041,Pizza Plaza,Mexican,12-06-2023,23:40,55,979.96,Credit Card,4.5,Hyderabad
+ORD1042,Burger Town,Indian,12-06-2023,10:17,49,1802.88,Cash,3.6,Chennai
+ORD1043,Pasta Paradise,Japanese,13-06-2023,22:35,45,1990.82,Debit Card,2.4,Chennai
+ORD1044,Spice Villa,Indian,13-06-2023,14:40,54,1190.11,Debit Card,3.3,Bangalore
+ORD1045,Burger Town,American,14-06-2023,14:55,19,1754.89,UPI,4.4,Hyderabad
+ORD1046,Spice Villa,Mexican,14-06-2023,20:04,21,265.33,Debit Card,2.6,Delhi
+ORD1047,Curry Delight,Italian,15-06-2023,19:27,25,634.64,Debit Card,1.7,Kolkata
+ORD1048,Sushi World,Mexican,15-06-2023,12:20,39,143.82,Cash,4.2,Kolkata
+ORD1049,Sushi World,Indian,16-06-2023,23:28,34,1765.09,UPI,1.1,Chennai
+ORD1050,Pizza Plaza,American,16-06-2023,14:07,31,407.63,UPI,4.8,Kolkata
+ORD1051,Pasta Paradise,Mexican,17-06-2023,23:41,17,1827.13,Credit Card,4.8,Hyderabad
+ORD1052,Sushi World,Mexican,17-06-2023,15:36,44,1522.18,Cash,3.4,Kolkata
+ORD1053,Curry Delight,Japanese,18-06-2023,10:00,33,1885.34,UPI,4.3,Bangalore
+ORD1054,Pizza Plaza,Mexican,18-06-2023,23:27,45,905.74,Wallet,3.7,Bangalore
+ORD1055,Sushi World,Italian,19-06-2023,15:13,58,458.69,UPI,4.5,Hyderabad
+ORD1056,Pizza Plaza,Japanese,19-06-2023,11:18,50,1449.52,Debit Card,1.8,Chennai
+ORD1057,Sushi World,Indian,20-06-2023,18:01,26,1530.66,Wallet,2.9,Kolkata
+ORD1058,Burger Town,Japanese,20-06-2023,14:54,44,1802.79,Cash,1.5,Mumbai
+ORD1059,Pizza Plaza,Japanese,21-06-2023,10:01,16,449.85,Wallet,3.8,Chennai
+ORD1060,Sushi World,Japanese,21-06-2023,15:01,41,1947.47,Cash,2.2,Hyderabad
+ORD1061,Sushi World,Mexican,22-06-2023,11:54,25,1351.51,Debit Card,2.9,Chennai
+ORD1062,Sushi World,Indian,22-06-2023,15:21,17,468.52,Cash,4.3,Chennai
+ORD1063,Curry Delight,American,23-06-2023,13:02,23,623.52,Debit Card,3.9,Bangalore
+ORD1064,Spice Villa,Chinese,23-06-2023,15:00,58,578.42,Wallet,4.1,Mumbai
+ORD1065,Burger Town,Chinese,24-06-2023,20:55,39,691.62,Wallet,3.8,Bangalore
+ORD1066,Pizza Plaza,Italian,24-06-2023,11:24,60,389.56,Wallet,2.6,Delhi
+ORD1067,Sushi World,American,25-06-2023,20:52,39,1531.35,Debit Card,4.7,Mumbai
+ORD1068,Burger Town,Japanese,25-06-2023,12:14,33,672.67,UPI,1.5,Kolkata
+ORD1069,Sushi World,Italian,26-06-2023,14:59,42,1764.67,Cash,1.8,Mumbai
+ORD1070,Burger Town,Chinese,26-06-2023,20:36,60,1473.98,Credit Card,2.4,Hyderabad
+ORD1071,Pizza Plaza,Italian,27-06-2023,12:32,53,1627.97,Credit Card,4.9,Kolkata
+ORD1072,Pasta Paradise,Italian,27-06-2023,16:00,29,938.13,Wallet,3.2,Delhi
+ORD1073,Pasta Paradise,Indian,28-06-2023,11:58,56,839.32,Credit Card,1.5,Mumbai
+ORD1074,Spice Villa,Indian,28-06-2023,20:23,47,1144.46,UPI,3.1,Mumbai
+ORD1075,Spice Villa,Chinese,29-06-2023,12:54,54,965.68,Credit Card,3.4,Bangalore
+ORD1076,Pasta Paradise,Italian,29-06-2023,15:25,49,1102.68,Debit Card,4.8,Hyderabad
+ORD1077,Pizza Plaza,Indian,30-06-2023,17:24,21,230.95,Debit Card,3.1,Bangalore
+ORD1078,Pizza Plaza,Mexican,30-06-2023,20:46,46,1600.48,UPI,3.2,Kolkata
+ORD1079,Pasta Paradise,Chinese,01-07-2023,23:55,55,157.41,Wallet,1.1,Mumbai
+ORD1080,Pizza Plaza,Chinese,01-07-2023,12:21,17,1486.27,Cash,3.5,Bangalore
+ORD1081,Sushi World,American,02-07-2023,20:52,30,578.01,UPI,4.5,Chennai
+ORD1082,Curry Delight,Italian,02-07-2023,19:32,55,1017.16,UPI,1.8,Mumbai
+ORD1083,Pizza Plaza,Mexican,03-07-2023,22:49,15,1216.66,Wallet,2.2,Bangalore
+ORD1084,Pizza Plaza,Chinese,03-07-2023,18:09,59,230.6,Cash,4.3,Bangalore
+ORD1085,Curry Delight,Mexican,04-07-2023,23:57,43,1525.69,Cash,3.9,Kolkata
+ORD1086,Sushi World,Indian,04-07-2023,17:04,23,834.91,Credit Card,1.8,Chennai
+ORD1087,Burger Town,Chinese,05-07-2023,19:32,17,1254.19,Credit Card,4.9,Mumbai
+ORD1088,Sushi World,Chinese,05-07-2023,14:18,49,1484.39,Credit Card,4.9,Chennai
+ORD1089,Sushi World,Italian,06-07-2023,17:14,55,274.16,Wallet,3,Chennai
+ORD1090,Pasta Paradise,Indian,06-07-2023,13:01,24,1623.86,Wallet,1.2,Chennai
+ORD1091,Pasta Paradise,Italian,07-07-2023,15:13,42,883.56,Wallet,4,Delhi
+ORD1092,Curry Delight,Mexican,07-07-2023,22:53,41,502.77,Debit Card,4.6,Mumbai
+ORD1093,Pasta Paradise,American,08-07-2023,13:07,23,1728.33,Cash,4.7,Kolkata
+ORD1094,Pizza Plaza,Chinese,08-07-2023,22:13,20,595.76,Credit Card,3,Kolkata
+ORD1095,Spice Villa,Indian,09-07-2023,20:36,44,693.53,Credit Card,2.8,Hyderabad
+ORD1096,Spice Villa,Japanese,09-07-2023,17:22,35,998.68,UPI,3.9,Delhi
+ORD1097,Pasta Paradise,Mexican,10-07-2023,22:44,59,1972.71,UPI,2.9,Mumbai
+ORD1098,Curry Delight,Chinese,10-07-2023,17:38,17,1267.61,Debit Card,3.9,Hyderabad
+ORD1099,Pasta Paradise,Mexican,11-07-2023,19:14,35,972.31,Cash,3.4,Delhi
+ORD1100,Spice Villa,Japanese,11-07-2023,19:05,58,1773.18,UPI,4.2,Kolkata
+ORD1101,Curry Delight,Mexican,12-07-2023,13:45,54,613.29,UPI,2.2,Hyderabad
+ORD1102,Spice Villa,Chinese,12-07-2023,11:37,25,1048.13,Cash,2.8,Bangalore
+ORD1103,Curry Delight,Japanese,13-07-2023,22:52,20,219.34,Debit Card,3.1,Hyderabad
+ORD1104,Pizza Plaza,Japanese,13-07-2023,22:58,58,947.5,Debit Card,2.9,Mumbai
+ORD1105,Burger Town,Italian,14-07-2023,23:29,37,112.88,Wallet,4,Bangalore
+ORD1106,Pizza Plaza,Italian,14-07-2023,16:50,55,525.72,UPI,1.3,Mumbai
+ORD1107,Burger Town,Mexican,15-07-2023,15:48,40,1044.01,Debit Card,3.8,Chennai
+ORD1108,Burger Town,Chinese,15-07-2023,19:12,17,1638.53,Debit Card,4.6,Chennai
+ORD1109,Curry Delight,Italian,16-07-2023,16:11,26,1183.12,Credit Card,4,Delhi
+ORD1110,Pizza Plaza,Italian,16-07-2023,16:23,47,1572.51,Cash,4.2,Bangalore
+ORD1111,Burger Town,American,17-07-2023,19:27,52,1302.47,Cash,1.5,Chennai
+ORD1112,Burger Town,Mexican,18-07-2023,17:22,47,1757.77,Credit Card,1.5,Chennai
+ORD1113,Sushi World,Chinese,18-07-2023,15:40,45,1760.34,Cash,4,Hyderabad
+ORD1114,Pasta Paradise,Japanese,19-07-2023,13:56,21,911.6,Credit Card,4.2,Chennai
+ORD1115,Spice Villa,Indian,19-07-2023,18:06,57,1982.76,Wallet,3.6,Hyderabad
+ORD1116,Pasta Paradise,Indian,20-07-2023,10:35,23,771.52,Cash,3.1,Mumbai
+ORD1117,Curry Delight,Mexican,20-07-2023,18:04,23,254.75,Wallet,3.9,Bangalore
+ORD1118,Burger Town,Japanese,21-07-2023,18:32,45,1693.43,Cash,1.6,Bangalore
+ORD1119,Pizza Plaza,Chinese,21-07-2023,16:08,25,1281.09,Debit Card,2,Kolkata
+ORD1120,Pasta Paradise,American,22-07-2023,20:39,44,1705.82,UPI,4.5,Delhi
+ORD1121,Curry Delight,Chinese,22-07-2023,12:53,58,406.28,UPI,4,Mumbai
+ORD1122,Spice Villa,Japanese,23-07-2023,16:31,15,1533.56,Wallet,3.9,Chennai
+ORD1123,Spice Villa,Italian,23-07-2023,18:24,58,492.42,UPI,3.2,Kolkata
+ORD1124,Curry Delight,Mexican,24-07-2023,23:12,53,284.02,Wallet,1.6,Mumbai
+ORD1125,Burger Town,Italian,24-07-2023,10:21,58,1228.36,Debit Card,4.8,Hyderabad
+ORD1126,Sushi World,Mexican,25-07-2023,23:16,16,682.27,Cash,1.5,Bangalore
+ORD1127,Sushi World,American,25-07-2023,18:17,24,546.51,Cash,2.6,Delhi
+ORD1128,Spice Villa,Indian,26-07-2023,16:07,43,1508.81,Credit Card,4.4,Hyderabad
+ORD1129,Pasta Paradise,Japanese,26-07-2023,16:58,59,1237.33,Wallet,3.9,Kolkata
+ORD1130,Burger Town,Chinese,27-07-2023,14:06,60,1362.56,Credit Card,3.4,Hyderabad
+ORD1131,Pasta Paradise,Chinese,27-07-2023,11:55,29,1257.79,Wallet,3.5,Hyderabad
+ORD1132,Burger Town,Japanese,28-07-2023,20:58,35,1873.64,Wallet,3.5,Chennai
+ORD1133,Burger Town,Italian,28-07-2023,23:49,56,155.28,Debit Card,4.3,Mumbai
+ORD1134,Spice Villa,Japanese,29-07-2023,21:10,18,484.83,Credit Card,4,Hyderabad
+ORD1135,Spice Villa,Mexican,29-07-2023,20:53,46,944.7,Cash,1.7,Mumbai
+ORD1136,Burger Town,Indian,30-07-2023,19:22,30,438.82,Cash,4.3,Bangalore
+ORD1137,Pasta Paradise,Japanese,30-07-2023,18:36,53,1515.89,Credit Card,3.9,Mumbai
+ORD1138,Curry Delight,American,31-07-2023,13:02,24,1959.35,Cash,1.6,Bangalore
+ORD1139,Pizza Plaza,Mexican,31-07-2023,19:48,23,1569.89,Debit Card,4.3,Chennai
+ORD1140,Spice Villa,Indian,01-08-2023,21:09,20,1780.68,UPI,3.1,Delhi
+ORD1141,Curry Delight,Italian,01-08-2023,19:06,57,1697.62,Debit Card,1.2,Kolkata
+ORD1142,Burger Town,Italian,02-08-2023,16:05,37,827.24,UPI,2.5,Chennai
+ORD1143,Sushi World,Chinese,02-08-2023,15:07,49,1384.66,Wallet,1.2,Bangalore
+ORD1144,Pizza Plaza,Japanese,03-08-2023,23:16,53,415.37,Cash,2.6,Mumbai
+ORD1145,Curry Delight,Chinese,03-08-2023,17:52,31,636.42,Wallet,4,Bangalore
+ORD1146,Curry Delight,Mexican,04-08-2023,18:10,27,492.48,Credit Card,2.4,Kolkata
+ORD1147,Pizza Plaza,Italian,04-08-2023,19:28,17,630.13,Credit Card,1.3,Delhi
+ORD1148,Spice Villa,Chinese,05-08-2023,16:08,42,1346.6,UPI,3.9,Delhi
+ORD1149,Sushi World,Mexican,05-08-2023,23:40,28,1137.12,Debit Card,3.6,Chennai
+ORD1150,Pizza Plaza,Italian,06-08-2023,14:46,29,146.99,Debit Card,3.8,Bangalore
+ORD1151,Sushi World,Mexican,06-08-2023,23:13,36,118.96,Wallet,1.2,Kolkata
+ORD1152,Burger Town,Chinese,07-08-2023,23:19,52,482.98,Credit Card,2.6,Kolkata
+ORD1153,Pasta Paradise,American,07-08-2023,12:29,56,134.51,Wallet,1.3,Hyderabad
+ORD1154,Curry Delight,Mexican,08-08-2023,11:14,49,417,Wallet,4.4,Chennai
+ORD1155,Burger Town,American,08-08-2023,17:20,18,1913.77,Wallet,2.7,Bangalore
+ORD1156,Sushi World,Mexican,09-08-2023,19:36,25,1790.21,Credit Card,2.6,Mumbai
+ORD1157,Pizza Plaza,Mexican,09-08-2023,23:20,27,1874.1,Credit Card,4.2,Bangalore
+ORD1158,Sushi World,Indian,10-08-2023,13:50,29,937.61,Cash,3.4,Mumbai
+ORD1159,Pasta Paradise,Japanese,10-08-2023,21:16,17,606.7,Wallet,2.1,Hyderabad
+ORD1160,Spice Villa,Indian,11-08-2023,23:26,22,1771.03,Credit Card,1.8,Delhi
+ORD1161,Pizza Plaza,Japanese,11-08-2023,11:29,30,216.39,Wallet,1.1,Delhi
+ORD1162,Sushi World,Japanese,12-08-2023,20:27,29,358.77,Debit Card,1.1,Bangalore
+ORD1163,Curry Delight,Mexican,12-08-2023,10:33,27,1800.45,Wallet,2.5,Hyderabad
+ORD1164,Spice Villa,Chinese,13-08-2023,11:32,15,594.48,Credit Card,2.7,Delhi
+ORD1165,Pizza Plaza,Mexican,13-08-2023,11:04,15,1516.42,Credit Card,4,Chennai
+ORD1166,Burger Town,Italian,14-08-2023,12:13,37,502.19,Debit Card,4.9,Kolkata
+ORD1167,Burger Town,Italian,14-08-2023,17:24,60,1720.29,UPI,2,Hyderabad
+ORD1168,Spice Villa,Japanese,15-08-2023,11:34,18,1704.91,Debit Card,1.8,Chennai
+ORD1169,Spice Villa,Indian,15-08-2023,19:13,41,1687.41,Cash,1.3,Kolkata
+ORD1170,Curry Delight,Mexican,16-08-2023,22:45,60,1782.89,Debit Card,3,Hyderabad
+ORD1171,Curry Delight,Indian,16-08-2023,19:22,35,1636.59,Debit Card,4.7,Mumbai
+ORD1172,Sushi World,Chinese,17-08-2023,14:33,27,477.15,Wallet,2.5,Chennai
+ORD1173,Spice Villa,Mexican,17-08-2023,23:01,22,1953.76,Cash,1.3,Bangalore
+ORD1174,Spice Villa,Italian,18-08-2023,17:14,28,1158.7,Credit Card,1.5,Kolkata
+ORD1175,Spice Villa,Mexican,18-08-2023,15:23,29,1955.82,Debit Card,4.7,Mumbai
+ORD1176,Pizza Plaza,Japanese,19-08-2023,15:11,29,855.09,UPI,3.4,Mumbai
+ORD1177,Pizza Plaza,Indian,19-08-2023,16:35,34,648.07,Credit Card,2.1,Bangalore
+ORD1178,Sushi World,Chinese,20-08-2023,23:57,21,1848.12,UPI,4.2,Chennai
+ORD1179,Pizza Plaza,Indian,20-08-2023,14:20,41,1312.76,Wallet,1.8,Bangalore
+ORD1180,Spice Villa,Mexican,21-08-2023,14:46,21,1245.67,UPI,3.4,Mumbai
+ORD1181,Burger Town,Mexican,21-08-2023,13:53,23,213.77,Cash,4.5,Kolkata
+ORD1182,Sushi World,Chinese,22-08-2023,18:39,44,322.09,UPI,2.3,Kolkata
+ORD1183,Sushi World,Japanese,22-08-2023,11:55,33,473.86,Debit Card,1.8,Bangalore
+ORD1184,Burger Town,Indian,23-08-2023,11:04,49,434.65,Cash,4.4,Kolkata
+ORD1185,Burger Town,Indian,23-08-2023,17:52,25,1849.6,UPI,3.5,Mumbai
+ORD1186,Spice Villa,Mexican,24-08-2023,20:53,34,1839.71,Wallet,4.4,Delhi
+ORD1187,Pizza Plaza,Chinese,25-08-2023,23:41,25,1760.68,Debit Card,4.3,Kolkata
+ORD1188,Spice Villa,Japanese,25-08-2023,14:40,60,212.71,Wallet,2.4,Mumbai
+ORD1189,Pasta Paradise,Chinese,26-08-2023,21:40,27,378.22,Debit Card,1.3,Bangalore
+ORD1190,Sushi World,American,26-08-2023,17:06,52,1314.76,Wallet,4.5,Kolkata
+ORD1191,Burger Town,American,27-08-2023,19:55,25,1598.42,Wallet,2.6,Kolkata
+ORD1192,Sushi World,Indian,27-08-2023,17:51,45,148.25,Cash,2.9,Mumbai
+ORD1193,Pasta Paradise,Chinese,28-08-2023,10:04,32,596.91,UPI,4.1,Bangalore
+ORD1194,Pasta Paradise,Chinese,28-08-2023,22:53,38,1137.92,Debit Card,3.4,Delhi
+ORD1195,Pizza Plaza,Chinese,29-08-2023,18:29,15,368.64,UPI,4.9,Delhi
+ORD1196,Pasta Paradise,American,29-08-2023,17:02,23,1297.41,Credit Card,4.2,Kolkata
+ORD1197,Burger Town,Italian,30-08-2023,15:05,52,1472.11,Debit Card,4.9,Hyderabad
+ORD1198,Pizza Plaza,Indian,30-08-2023,16:18,48,994.54,UPI,3.5,Hyderabad
+ORD1199,Spice Villa,Indian,31-08-2023,12:55,32,1517.81,Wallet,2.5,Chennai
+ORD1200,Spice Villa,Indian,31-08-2023,20:34,56,1617.99,Cash,4.7,Delhi
+ORD1201,Burger Town,American,01-09-2023,20:48,55,569.72,Cash,4.2,Delhi
+ORD1202,Spice Villa,Japanese,01-09-2023,21:31,46,1333.24,Cash,5,Kolkata
+ORD1203,Curry Delight,American,02-09-2023,15:43,26,1697.53,Cash,2.8,Hyderabad
+ORD1204,Pizza Plaza,Japanese,02-09-2023,18:06,60,1735.21,Cash,3.9,Bangalore
+ORD1205,Spice Villa,Italian,03-09-2023,10:35,38,1585.37,UPI,2.9,Hyderabad
+ORD1206,Burger Town,Indian,03-09-2023,19:07,16,1014.75,UPI,1.5,Hyderabad
+ORD1207,Curry Delight,Chinese,04-09-2023,14:29,18,769.42,Wallet,2.3,Chennai
+ORD1208,Burger Town,Chinese,04-09-2023,20:13,49,1606.79,Credit Card,1.8,Bangalore
+ORD1209,Spice Villa,Chinese,05-09-2023,14:31,60,1657.24,Credit Card,4,Hyderabad
+ORD1210,Curry Delight,Chinese,05-09-2023,19:47,50,1507.78,Debit Card,4.9,Mumbai
+ORD1211,Burger Town,American,06-09-2023,22:54,38,449.38,Cash,2.5,Delhi
+ORD1212,Curry Delight,American,06-09-2023,23:09,38,1048.19,Debit Card,5,Mumbai
+ORD1213,Sushi World,American,07-09-2023,23:44,15,504.5,Cash,1.3,Bangalore
+ORD1214,Pizza Plaza,Mexican,07-09-2023,11:24,41,122.95,Cash,2.1,Kolkata
+ORD1215,Pasta Paradise,American,08-09-2023,18:16,18,1860.5,Debit Card,2.8,Bangalore
+ORD1216,Spice Villa,Indian,08-09-2023,18:41,16,613.65,Debit Card,2.1,Chennai
+ORD1217,Spice Villa,Italian,09-09-2023,10:46,59,1560.84,Credit Card,1.5,Kolkata
+ORD1218,Sushi World,Mexican,09-09-2023,22:35,16,527.07,Debit Card,4.5,Kolkata
+ORD1219,Pizza Plaza,Chinese,10-09-2023,17:23,19,1634.77,Credit Card,3.6,Kolkata
+ORD1220,Curry Delight,Chinese,10-09-2023,12:15,18,642.22,Cash,4.5,Chennai
+ORD1221,Burger Town,Chinese,11-09-2023,11:24,54,1420.37,Cash,3.7,Hyderabad
+ORD1222,Pizza Plaza,Italian,11-09-2023,17:25,45,1080.31,UPI,1.2,Kolkata
+ORD1223,Pasta Paradise,Mexican,12-09-2023,19:53,25,163.12,Debit Card,4.3,Chennai
+ORD1224,Sushi World,American,12-09-2023,23:43,51,1655.64,Credit Card,4.7,Delhi
+ORD1225,Curry Delight,Japanese,13-09-2023,17:59,38,851.8,Wallet,2.3,Delhi
+ORD1226,Pasta Paradise,Chinese,13-09-2023,16:10,35,1779.36,Wallet,2.6,Mumbai
+ORD1227,Sushi World,Japanese,14-09-2023,15:05,25,479.72,Cash,4.9,Chennai
+ORD1228,Burger Town,Indian,14-09-2023,18:43,52,1024.67,Wallet,4.8,Kolkata
+ORD1229,Sushi World,Mexican,15-09-2023,15:03,23,1114.43,Debit Card,3.3,Delhi
+ORD1230,Spice Villa,Italian,15-09-2023,22:38,45,140.15,Debit Card,2.1,Mumbai
+ORD1231,Pizza Plaza,Chinese,16-09-2023,22:05,29,1764.64,Debit Card,2.9,Hyderabad
+ORD1232,Curry Delight,American,16-09-2023,15:10,39,1307.27,Cash,2.9,Kolkata
+ORD1233,Sushi World,Japanese,17-09-2023,14:46,60,692.64,Wallet,3.8,Hyderabad
+ORD1234,Burger Town,Indian,17-09-2023,16:06,44,268.29,Debit Card,3.6,Kolkata
+ORD1235,Curry Delight,American,18-09-2023,23:06,16,873.41,UPI,2.6,Delhi
+ORD1236,Curry Delight,Japanese,18-09-2023,22:33,32,616.03,Credit Card,2.6,Kolkata
+ORD1237,Pasta Paradise,Japanese,19-09-2023,13:58,17,644.86,UPI,3.7,Mumbai
+ORD1238,Spice Villa,American,19-09-2023,22:37,31,501.93,Wallet,2.4,Delhi
+ORD1239,Pizza Plaza,Chinese,20-09-2023,12:35,48,692.29,UPI,4.5,Delhi
+ORD1240,Curry Delight,Mexican,20-09-2023,15:35,44,1159.9,Credit Card,4.9,Delhi
+ORD1241,Pizza Plaza,Indian,21-09-2023,12:34,24,1455.77,Wallet,3.2,Delhi
+ORD1242,Sushi World,Japanese,21-09-2023,13:32,26,321.56,Debit Card,1.7,Chennai
+ORD1243,Sushi World,Indian,22-09-2023,18:59,17,1965.66,UPI,3.5,Kolkata
+ORD1244,Burger Town,Chinese,22-09-2023,12:15,46,1439.05,UPI,2.7,Hyderabad
+ORD1245,Burger Town,Indian,23-09-2023,12:27,30,203.72,UPI,3.8,Hyderabad
+ORD1246,Pasta Paradise,Italian,23-09-2023,17:00,29,1629.18,Cash,2.4,Bangalore
+ORD1247,Pasta Paradise,Japanese,24-09-2023,20:37,23,1525.71,Credit Card,2.1,Delhi
+ORD1248,Curry Delight,Mexican,24-09-2023,19:22,41,1218.43,UPI,3.9,Chennai
+ORD1249,Sushi World,Mexican,25-09-2023,20:13,33,790.88,Cash,1.8,Mumbai
+ORD1250,Burger Town,Japanese,25-09-2023,13:33,43,495.31,Wallet,3.9,Bangalore
+ORD1251,Curry Delight,Chinese,26-09-2023,19:05,51,1239.89,Wallet,4.7,Hyderabad
+ORD1252,Sushi World,Chinese,26-09-2023,19:38,43,333.17,Wallet,1.6,Bangalore
+ORD1253,Spice Villa,Indian,27-09-2023,20:27,43,971.64,Credit Card,2.1,Chennai
+ORD1254,Sushi World,Chinese,27-09-2023,20:32,52,1886.85,Cash,1.4,Mumbai
+ORD1255,Burger Town,Indian,28-09-2023,10:07,27,1391.04,Credit Card,1.8,Kolkata
+ORD1256,Burger Town,Italian,28-09-2023,22:18,47,576.06,Cash,1.6,Delhi
+ORD1257,Sushi World,Indian,29-09-2023,19:14,18,1964,Wallet,4.8,Mumbai
+ORD1258,Sushi World,Chinese,29-09-2023,18:39,19,1478.57,Wallet,4.8,Kolkata
+ORD1259,Sushi World,Chinese,30-09-2023,20:21,59,258.49,Debit Card,2.3,Mumbai
+ORD1260,Pasta Paradise,American,01-10-2023,21:16,26,1411.66,Wallet,3.8,Kolkata
+ORD1261,Sushi World,Chinese,01-10-2023,22:50,36,381.05,Cash,3.9,Mumbai
+ORD1262,Pizza Plaza,Japanese,02-10-2023,16:04,51,176.38,Debit Card,2.6,Chennai
+ORD1263,Curry Delight,Indian,02-10-2023,20:04,32,399.56,UPI,1.5,Hyderabad
+ORD1264,Spice Villa,American,03-10-2023,15:01,33,1331.9,UPI,4.6,Mumbai
+ORD1265,Pasta Paradise,Mexican,03-10-2023,23:22,46,921,Debit Card,2.7,Delhi
+ORD1266,Curry Delight,American,04-10-2023,11:31,56,934.21,Wallet,4.2,Bangalore
+ORD1267,Curry Delight,Italian,04-10-2023,22:36,34,209.55,Cash,1.5,Kolkata
+ORD1268,Curry Delight,American,05-10-2023,21:55,55,128.04,Debit Card,1.2,Mumbai
+ORD1269,Sushi World,Indian,05-10-2023,22:19,47,852.81,Debit Card,1.8,Chennai
+ORD1270,Pizza Plaza,Indian,06-10-2023,22:36,47,536.62,Cash,3,Chennai
+ORD1271,Sushi World,American,06-10-2023,10:11,28,1003.36,Cash,4.1,Bangalore
+ORD1272,Burger Town,Japanese,07-10-2023,10:19,35,1219.6,Wallet,4.6,Mumbai
+ORD1273,Curry Delight,Indian,07-10-2023,14:08,29,795.23,Debit Card,4.4,Delhi
+ORD1274,Burger Town,American,08-10-2023,15:26,20,172.7,Cash,4.2,Kolkata
+ORD1275,Pizza Plaza,Indian,08-10-2023,10:09,39,537.35,UPI,1.8,Hyderabad
+ORD1276,Burger Town,Chinese,09-10-2023,10:12,38,274.18,Wallet,2.9,Hyderabad
+ORD1277,Pizza Plaza,American,09-10-2023,15:47,35,196.43,Debit Card,1.8,Kolkata
+ORD1278,Burger Town,Chinese,10-10-2023,11:20,33,1126.89,Debit Card,4.5,Kolkata
+ORD1279,Sushi World,Mexican,10-10-2023,20:46,39,1099.79,Wallet,1.4,Mumbai
+ORD1280,Pizza Plaza,Chinese,11-10-2023,15:59,21,108.54,Credit Card,3,Kolkata
+ORD1281,Pasta Paradise,Japanese,11-10-2023,19:49,25,430.41,Cash,3.3,Mumbai
+ORD1282,Sushi World,Indian,12-10-2023,22:36,22,1986.04,UPI,3.4,Kolkata
+ORD1283,Sushi World,Chinese,12-10-2023,18:46,60,1336.1,Wallet,2.4,Mumbai
+ORD1284,Curry Delight,Indian,13-10-2023,23:36,54,1786.35,Credit Card,1.6,Mumbai
+ORD1285,Spice Villa,American,13-10-2023,22:32,32,835.67,UPI,3,Mumbai
+ORD1286,Spice Villa,Chinese,14-10-2023,13:04,41,725.45,UPI,2.3,Chennai
+ORD1287,Pasta Paradise,Italian,14-10-2023,11:05,32,451.59,Wallet,3.8,Delhi
+ORD1288,Spice Villa,Japanese,15-10-2023,22:01,46,128.37,Cash,4.2,Bangalore
+ORD1289,Burger Town,Chinese,15-10-2023,13:39,57,1930.15,Cash,3.6,Hyderabad
+ORD1290,Pizza Plaza,American,16-10-2023,23:22,18,926.44,UPI,4.5,Chennai
+ORD1291,Sushi World,Japanese,16-10-2023,18:32,29,929.52,Wallet,2,Delhi
+ORD1292,Sushi World,Chinese,17-10-2023,22:09,29,829.68,Cash,1.8,Mumbai
+ORD1293,Sushi World,Chinese,17-10-2023,12:42,60,439.14,Cash,2.8,Delhi
+ORD1294,Pasta Paradise,American,18-10-2023,13:47,55,704.15,Cash,1.4,Mumbai
+ORD1295,Spice Villa,Chinese,18-10-2023,20:42,57,1741.81,Cash,2.7,Bangalore
+ORD1296,Curry Delight,Italian,19-10-2023,10:45,35,1030.74,Debit Card,2.1,Chennai
+ORD1297,Pasta Paradise,Italian,19-10-2023,14:52,37,546.35,Wallet,4.1,Kolkata
+ORD1298,Burger Town,Italian,20-10-2023,13:21,37,1683.73,Wallet,1.1,Hyderabad
+ORD1299,Spice Villa,Indian,20-10-2023,19:30,33,1737.67,UPI,3.1,Bangalore
+ORD1300,Pizza Plaza,Italian,21-10-2023,16:45,37,653.77,Credit Card,1.1,Chennai
+ORD1301,Burger Town,Italian,21-10-2023,15:05,26,1724.18,Credit Card,4.1,Delhi
+ORD1302,Curry Delight,Italian,22-10-2023,11:19,50,200.81,UPI,1.9,Kolkata
+ORD1303,Pasta Paradise,Mexican,22-10-2023,20:10,34,120.85,Cash,4.3,Hyderabad
+ORD1304,Curry Delight,Mexican,23-10-2023,19:29,20,581.51,Debit Card,1.5,Bangalore
+ORD1305,Pasta Paradise,Italian,23-10-2023,20:22,23,211.32,Credit Card,2.2,Bangalore
+ORD1306,Pizza Plaza,Indian,24-10-2023,23:05,19,1840,Credit Card,2.6,Mumbai
+ORD1307,Pasta Paradise,Indian,24-10-2023,11:19,29,178.97,Debit Card,3.1,Mumbai
+ORD1308,Sushi World,Japanese,25-10-2023,12:12,57,260.02,Debit Card,2.2,Bangalore
+ORD1309,Burger Town,Indian,25-10-2023,10:50,55,235.88,UPI,3.8,Bangalore
+ORD1310,Pasta Paradise,Italian,26-10-2023,17:03,36,443.05,Wallet,4.6,Bangalore
+ORD1311,Sushi World,Chinese,26-10-2023,11:04,37,1372.44,UPI,3.4,Hyderabad
+ORD1312,Sushi World,Mexican,27-10-2023,12:18,58,634.16,Debit Card,1.5,Kolkata
+ORD1313,Sushi World,Mexican,27-10-2023,23:06,20,1691.83,Credit Card,1.4,Delhi
+ORD1314,Sushi World,Japanese,28-10-2023,18:32,40,1244.7,Wallet,3.7,Hyderabad
+ORD1315,Burger Town,Japanese,28-10-2023,11:35,20,857.52,Cash,3.6,Hyderabad
+ORD1316,Spice Villa,Mexican,29-10-2023,19:56,45,1824.22,Credit Card,2.3,Delhi
+ORD1317,Pizza Plaza,Indian,29-10-2023,20:56,25,975.55,Wallet,4.5,Kolkata
+ORD1318,Sushi World,Indian,30-10-2023,21:51,34,1669.12,Wallet,2.1,Mumbai
+ORD1319,Curry Delight,Mexican,30-10-2023,22:00,16,1396.41,Debit Card,2.2,Bangalore
+ORD1320,Burger Town,Chinese,31-10-2023,19:21,44,382.05,Wallet,3,Chennai
+ORD1321,Burger Town,Mexican,31-10-2023,13:12,25,1986.73,UPI,3.6,Bangalore
+ORD1322,Sushi World,Italian,01-11-2023,11:12,36,786.67,Debit Card,3.8,Chennai
+ORD1323,Burger Town,Italian,01-11-2023,21:06,56,1866.53,UPI,3.7,Delhi
+ORD1324,Burger Town,Chinese,02-11-2023,18:11,44,1390.66,Wallet,3.2,Kolkata
+ORD1325,Burger Town,Italian,02-11-2023,20:03,47,1673.74,Credit Card,2.9,Chennai
+ORD1326,Burger Town,Indian,03-11-2023,12:09,22,822.1,Cash,4.3,Mumbai
+ORD1327,Sushi World,Chinese,03-11-2023,21:43,55,196.2,Cash,3.6,Bangalore
+ORD1328,Pasta Paradise,Mexican,04-11-2023,21:53,33,1015.88,Wallet,3.2,Mumbai
+ORD1329,Sushi World,Mexican,04-11-2023,18:47,16,693,Wallet,1.6,Delhi
+ORD1330,Curry Delight,American,05-11-2023,23:43,45,377.52,UPI,2.4,Mumbai
+ORD1331,Curry Delight,Japanese,05-11-2023,16:40,54,1625.54,Cash,2.7,Kolkata
+ORD1332,Sushi World,American,06-11-2023,23:56,53,1134.44,Cash,1.2,Bangalore
+ORD1333,Pasta Paradise,Italian,06-11-2023,15:07,43,1239.8,Wallet,3.7,Chennai
+ORD1334,Sushi World,Italian,07-11-2023,19:04,56,250.91,Wallet,4.2,Chennai
+ORD1335,Pizza Plaza,American,08-11-2023,21:47,44,1774.13,Debit Card,2.4,Delhi
+ORD1336,Pasta Paradise,Mexican,08-11-2023,15:36,52,262.62,UPI,3.2,Mumbai
+ORD1337,Pizza Plaza,Chinese,09-11-2023,21:29,50,479.01,Cash,1.8,Chennai
+ORD1338,Spice Villa,Indian,09-11-2023,23:35,60,707.32,Cash,1.1,Chennai
+ORD1339,Spice Villa,Japanese,10-11-2023,10:12,47,1313.06,Cash,1.1,Delhi
+ORD1340,Pizza Plaza,American,10-11-2023,22:55,44,1657.51,Credit Card,1.1,Mumbai
+ORD1341,Burger Town,Japanese,11-11-2023,15:45,47,552.79,Credit Card,1.5,Bangalore
+ORD1342,Spice Villa,Chinese,11-11-2023,11:46,15,105.46,Cash,1.2,Kolkata
+ORD1343,Burger Town,Mexican,12-11-2023,18:12,29,1223.92,Cash,4.7,Mumbai
+ORD1344,Pasta Paradise,American,12-11-2023,13:21,16,876.19,Wallet,3.9,Hyderabad
+ORD1345,Sushi World,American,13-11-2023,17:51,24,619.37,Cash,1.1,Chennai
+ORD1346,Sushi World,Japanese,13-11-2023,16:36,55,1002.14,Wallet,3,Mumbai
+ORD1347,Pasta Paradise,Italian,14-11-2023,12:35,20,1693.83,Debit Card,4.1,Hyderabad
+ORD1348,Pizza Plaza,American,14-11-2023,10:56,51,205.8,Credit Card,3,Bangalore
+ORD1349,Burger Town,Indian,15-11-2023,13:55,50,1461.27,UPI,2.8,Chennai
+ORD1350,Sushi World,Indian,15-11-2023,18:14,50,1107.77,Debit Card,3.2,Delhi
+ORD1351,Sushi World,Indian,16-11-2023,13:43,36,1864.58,Credit Card,1.9,Mumbai
+ORD1352,Spice Villa,Italian,16-11-2023,19:30,21,1552.4,UPI,3.6,Chennai
+ORD1353,Spice Villa,American,17-11-2023,23:01,41,1622.93,UPI,4.8,Kolkata
+ORD1354,Sushi World,Mexican,17-11-2023,20:25,50,1227.46,UPI,3.6,Bangalore
+ORD1355,Burger Town,Mexican,18-11-2023,17:58,36,1686.78,Cash,4.7,Mumbai
+ORD1356,Pasta Paradise,Japanese,18-11-2023,22:41,27,425.85,Debit Card,1.1,Chennai
+ORD1357,Sushi World,Mexican,19-11-2023,10:58,34,1139.45,Credit Card,4.3,Mumbai
+ORD1358,Pasta Paradise,Indian,19-11-2023,23:33,33,1513.49,Debit Card,1.1,Kolkata
+ORD1359,Sushi World,Japanese,20-11-2023,17:23,21,529.47,Wallet,1.1,Kolkata
+ORD1360,Curry Delight,Chinese,20-11-2023,13:53,32,303.94,UPI,3.3,Delhi
+ORD1361,Burger Town,Japanese,21-11-2023,11:45,32,1470.68,Credit Card,3.9,Mumbai
+ORD1362,Spice Villa,Japanese,21-11-2023,19:41,45,310.41,Credit Card,1.8,Delhi
+ORD1363,Spice Villa,Indian,22-11-2023,12:44,52,1843.57,UPI,3.3,Hyderabad
+ORD1364,Burger Town,Mexican,22-11-2023,12:42,29,1201.66,Wallet,3.7,Bangalore
+ORD1365,Sushi World,Chinese,23-11-2023,19:11,32,800.04,Wallet,1.8,Hyderabad
+ORD1366,Spice Villa,American,23-11-2023,18:56,44,1850.08,Cash,4.9,Hyderabad
+ORD1367,Pasta Paradise,Mexican,24-11-2023,23:58,35,1999.79,UPI,2.8,Kolkata
+ORD1368,Sushi World,American,24-11-2023,22:19,44,1870.25,UPI,3.8,Mumbai
+ORD1369,Spice Villa,Indian,25-11-2023,12:03,25,644.02,Credit Card,3.9,Hyderabad
+ORD1370,Spice Villa,American,25-11-2023,16:51,22,1126.23,Wallet,4.4,Mumbai
+ORD1371,Spice Villa,Mexican,26-11-2023,18:05,52,1278.19,Debit Card,3.9,Kolkata
+ORD1372,Sushi World,Chinese,26-11-2023,18:50,28,757.8,Debit Card,3.6,Bangalore
+ORD1373,Spice Villa,Italian,27-11-2023,17:04,57,912.72,UPI,1.7,Kolkata
+ORD1374,Burger Town,Mexican,27-11-2023,11:18,58,613.14,UPI,2.4,Chennai
+ORD1375,Sushi World,American,28-11-2023,10:48,26,1347.89,Credit Card,3.5,Mumbai
+ORD1376,Spice Villa,Chinese,28-11-2023,20:23,16,587.53,Debit Card,1,Hyderabad
+ORD1377,Pasta Paradise,Chinese,29-11-2023,21:19,18,1065.08,Debit Card,2.9,Delhi
+ORD1378,Burger Town,Mexican,29-11-2023,17:48,46,1006.81,Wallet,2.7,Kolkata
+ORD1379,Pasta Paradise,Chinese,30-11-2023,18:33,18,256.94,UPI,4.6,Kolkata
+ORD1380,Burger Town,Japanese,30-11-2023,20:24,20,885.37,Cash,2.8,Chennai
+ORD1381,Pizza Plaza,American,01-12-2023,21:43,50,472.33,Credit Card,2.2,Mumbai
+ORD1382,Pizza Plaza,Italian,01-12-2023,19:16,36,1506.6,Debit Card,1.1,Hyderabad
+ORD1383,Pizza Plaza,American,02-12-2023,16:19,34,1469.47,Credit Card,3.6,Hyderabad
+ORD1384,Curry Delight,Indian,02-12-2023,12:00,19,1567.04,Wallet,1.9,Chennai
+ORD1385,Pasta Paradise,American,03-12-2023,16:29,21,919.53,Cash,2.4,Kolkata
+ORD1386,Curry Delight,Indian,03-12-2023,18:38,42,928.08,Wallet,3.3,Delhi
+ORD1387,Sushi World,Japanese,04-12-2023,11:28,52,1807.4,Cash,1.1,Delhi
+ORD1388,Pasta Paradise,Indian,04-12-2023,23:03,51,1447.6,Wallet,2.8,Bangalore
+ORD1389,Pizza Plaza,American,05-12-2023,20:16,59,1636.65,Debit Card,3.8,Delhi
+ORD1390,Sushi World,Indian,05-12-2023,21:27,35,1072.11,Debit Card,4.6,Chennai
+ORD1391,Pizza Plaza,Chinese,06-12-2023,10:38,49,1202.53,Debit Card,1.6,Bangalore
+ORD1392,Pizza Plaza,Italian,06-12-2023,19:11,42,782.3,Credit Card,3.9,Hyderabad
+ORD1393,Pasta Paradise,Mexican,07-12-2023,18:00,31,1552.93,Wallet,4.4,Mumbai
+ORD1394,Pasta Paradise,Italian,07-12-2023,15:32,34,1759.4,Wallet,4.3,Kolkata
+ORD1395,Burger Town,American,08-12-2023,17:50,49,1697.63,UPI,1.9,Mumbai
+ORD1396,Spice Villa,Italian,08-12-2023,11:32,47,760.87,Cash,2.3,Bangalore
+ORD1397,Pizza Plaza,Italian,09-12-2023,16:10,44,1233.02,Wallet,2.4,Chennai
+ORD1398,Spice Villa,American,09-12-2023,12:01,47,1117.72,Cash,1,Chennai
+ORD1399,Curry Delight,Japanese,10-12-2023,20:22,54,1781.91,Wallet,3.6,Chennai
+ORD1400,Curry Delight,Chinese,10-12-2023,16:21,38,436.99,Cash,3.7,Delhi
+ORD1401,Curry Delight,Italian,11-12-2023,18:04,47,1178.66,UPI,4,Mumbai
+ORD1402,Pasta Paradise,Italian,11-12-2023,19:29,26,848.67,Credit Card,1.3,Kolkata
+ORD1403,Spice Villa,American,12-12-2023,23:32,58,995.17,Debit Card,3.8,Mumbai
+ORD1404,Curry Delight,Mexican,12-12-2023,20:17,37,635.22,Credit Card,1.8,Kolkata
+ORD1405,Sushi World,Indian,13-12-2023,17:32,22,1563.14,Cash,1.4,Kolkata
+ORD1406,Pasta Paradise,Mexican,13-12-2023,10:01,51,244.42,Wallet,2.3,Bangalore
+ORD1407,Sushi World,Mexican,14-12-2023,23:17,16,930.22,Debit Card,1.4,Delhi
+ORD1408,Burger Town,American,15-12-2023,23:27,35,604.69,Cash,3.5,Delhi
+ORD1409,Pizza Plaza,Mexican,15-12-2023,20:32,58,1594.01,UPI,4.3,Hyderabad
+ORD1410,Curry Delight,Chinese,16-12-2023,20:31,36,451.08,Debit Card,3.7,Kolkata
+ORD1411,Pasta Paradise,Japanese,16-12-2023,19:11,53,659.12,Cash,3.5,Delhi
+ORD1412,Spice Villa,Chinese,17-12-2023,21:54,55,1338.79,Cash,2.5,Chennai
+ORD1413,Spice Villa,Chinese,17-12-2023,21:50,59,860.82,Debit Card,3,Delhi
+ORD1414,Curry Delight,Indian,18-12-2023,10:25,35,1957.07,Debit Card,1,Delhi
+ORD1415,Sushi World,Indian,18-12-2023,22:19,32,1215.85,UPI,3.3,Mumbai
+ORD1416,Sushi World,Chinese,19-12-2023,14:31,55,517.17,UPI,1.5,Hyderabad
+ORD1417,Burger Town,Indian,19-12-2023,11:08,39,961.83,Credit Card,4,Chennai
+ORD1418,Curry Delight,American,20-12-2023,19:34,29,181.05,Cash,4.2,Bangalore
+ORD1419,Pasta Paradise,Italian,20-12-2023,10:56,51,351.7,Debit Card,4.1,Mumbai
+ORD1420,Curry Delight,Indian,21-12-2023,20:37,54,1940.12,Debit Card,3.1,Mumbai
+ORD1421,Pasta Paradise,Indian,21-12-2023,14:38,57,996.02,Wallet,3.5,Delhi
+ORD1422,Sushi World,American,22-12-2023,17:03,25,1286.58,Cash,3.7,Delhi
+ORD1423,Spice Villa,Italian,22-12-2023,18:20,23,1653.21,Wallet,1.7,Chennai
+ORD1424,Spice Villa,Chinese,23-12-2023,11:57,52,1625.17,UPI,1.6,Kolkata
+ORD1425,Curry Delight,Italian,23-12-2023,13:15,15,1164.28,UPI,3.7,Chennai
+ORD1426,Pizza Plaza,Indian,24-12-2023,22:50,50,1180.44,UPI,2.7,Hyderabad
+ORD1427,Pizza Plaza,Italian,24-12-2023,14:29,47,655.05,Credit Card,4.7,Chennai
+ORD1428,Pasta Paradise,American,25-12-2023,19:34,21,357.2,UPI,1.6,Chennai
+ORD1429,Sushi World,Mexican,25-12-2023,20:59,38,759.21,Cash,3,Chennai
+ORD1430,Spice Villa,Indian,26-12-2023,11:14,37,754.37,Debit Card,2.1,Bangalore
+ORD1431,Pasta Paradise,American,26-12-2023,23:35,42,1102.98,Wallet,1,Delhi
+ORD1432,Spice Villa,Indian,27-12-2023,21:40,51,499.66,Debit Card,3.3,Hyderabad
+ORD1433,Spice Villa,Mexican,27-12-2023,16:32,44,1231.37,UPI,1.6,Kolkata
+ORD1434,Burger Town,Chinese,28-12-2023,19:00,56,1352.32,Debit Card,4.8,Chennai
+ORD1435,Burger Town,Italian,28-12-2023,16:03,38,1812.47,Cash,3.9,Kolkata
+ORD1436,Curry Delight,Chinese,29-12-2023,10:43,25,1786.98,Cash,2.1,Hyderabad
+ORD1437,Pizza Plaza,Italian,29-12-2023,13:44,35,273.77,Credit Card,4,Hyderabad
+ORD1438,Sushi World,Italian,30-12-2023,10:25,33,1881.95,Wallet,2.4,Chennai
+ORD1439,Curry Delight,Indian,30-12-2023,22:09,17,165.85,Wallet,2.9,Kolkata
+ORD1440,Pasta Paradise,Japanese,31-12-2023,15:42,28,986.51,Debit Card,3.8,Delhi
+ORD1441,Pizza Plaza,American,31-12-2023,18:04,60,557.01,Debit Card,2.4,Hyderabad
+ORD1442,Burger Town,Mexican,01-01-2024,19:18,17,981.02,Cash,4.5,Hyderabad
+ORD1443,Spice Villa,Chinese,01-01-2024,16:32,35,1719.07,Wallet,3.6,Kolkata
+ORD1444,Spice Villa,Japanese,02-01-2024,17:02,43,1853.01,Wallet,1.4,Delhi
+ORD1445,Curry Delight,American,02-01-2024,14:35,43,1359,Wallet,4.3,Bangalore
+ORD1446,Sushi World,Mexican,03-01-2024,13:53,41,1498,Cash,5,Delhi
+ORD1447,Sushi World,Italian,03-01-2024,15:28,57,629.63,UPI,1,Chennai
+ORD1448,Pasta Paradise,Mexican,04-01-2024,19:38,55,1586.83,Debit Card,4.1,Bangalore
+ORD1449,Pasta Paradise,Italian,04-01-2024,10:09,39,1450.02,Credit Card,1.6,Chennai
+ORD1450,Pizza Plaza,Japanese,05-01-2024,19:34,27,1717.43,Cash,2.9,Hyderabad
+ORD1451,Sushi World,American,05-01-2024,21:43,59,1670.06,Debit Card,2.9,Delhi
+ORD1452,Pizza Plaza,Mexican,06-01-2024,22:31,30,940.76,Cash,4.2,Hyderabad
+ORD1453,Pasta Paradise,American,06-01-2024,15:19,42,1838.76,Debit Card,2.1,Mumbai
+ORD1454,Spice Villa,Indian,07-01-2024,19:04,27,1937.67,Credit Card,3.9,Chennai
+ORD1455,Burger Town,Mexican,07-01-2024,23:14,58,1969.17,UPI,1.2,Kolkata
+ORD1456,Burger Town,Mexican,08-01-2024,11:20,35,1022.78,Cash,3.6,Hyderabad
+ORD1457,Sushi World,Indian,08-01-2024,16:56,34,1739.64,Debit Card,2.1,Chennai
+ORD1458,Pasta Paradise,Chinese,09-01-2024,22:37,47,557.61,Wallet,1.1,Kolkata
+ORD1459,Curry Delight,Mexican,09-01-2024,19:58,60,1559.99,Wallet,4.1,Hyderabad
+ORD1460,Sushi World,Japanese,10-01-2024,14:13,44,1257.33,Cash,1.7,Delhi
+ORD1461,Spice Villa,Italian,10-01-2024,17:13,48,859.99,UPI,4,Kolkata
+ORD1462,Pizza Plaza,Italian,11-01-2024,22:53,58,923.03,Credit Card,2.2,Delhi
+ORD1463,Burger Town,Italian,11-01-2024,17:29,50,1764.98,Credit Card,4.5,Delhi
+ORD1464,Burger Town,Chinese,12-01-2024,13:47,32,1597.48,Credit Card,1.4,Kolkata
+ORD1465,Curry Delight,Chinese,12-01-2024,15:47,23,1626.46,Debit Card,2.8,Delhi
+ORD1466,Burger Town,American,13-01-2024,23:51,19,1073.05,Debit Card,3.5,Delhi
+ORD1467,Curry Delight,Mexican,13-01-2024,23:16,58,613.94,UPI,4.5,Chennai
+ORD1468,Burger Town,Mexican,14-01-2024,12:36,39,1957.28,UPI,2.1,Delhi
+ORD1469,Burger Town,Italian,14-01-2024,14:31,52,1097.29,UPI,4.7,Kolkata
+ORD1470,Pasta Paradise,Japanese,15-01-2024,17:55,54,771.87,Credit Card,2.5,Bangalore
+ORD1471,Pasta Paradise,American,15-01-2024,15:09,40,1880.24,Credit Card,2.7,Delhi
+ORD1472,Sushi World,Mexican,16-01-2024,23:47,40,874.26,Credit Card,3.4,Chennai
+ORD1473,Pizza Plaza,Mexican,16-01-2024,22:06,20,1342.38,Credit Card,3.2,Kolkata
+ORD1474,Curry Delight,Chinese,17-01-2024,20:35,60,150.7,Credit Card,4,Mumbai
+ORD1475,Burger Town,American,17-01-2024,22:34,41,1022.81,Cash,4.3,Delhi
+ORD1476,Pizza Plaza,Japanese,18-01-2024,21:13,46,430.66,Debit Card,4.8,Bangalore
+ORD1477,Pasta Paradise,Mexican,18-01-2024,15:26,57,1772.32,Debit Card,4.1,Bangalore
+ORD1478,Pasta Paradise,Indian,19-01-2024,20:30,52,162.54,Debit Card,2.6,Hyderabad
+ORD1479,Curry Delight,Mexican,19-01-2024,14:00,37,853.14,Cash,1.2,Hyderabad
+ORD1480,Sushi World,Japanese,20-01-2024,16:50,31,860.65,Wallet,4.3,Kolkata
+ORD1481,Pizza Plaza,Indian,20-01-2024,11:08,56,158.65,UPI,4.4,Mumbai
+ORD1482,Pasta Paradise,Italian,21-01-2024,20:53,50,733.8,Debit Card,1.1,Delhi
+ORD1483,Pizza Plaza,American,22-01-2024,14:04,37,866.47,UPI,4.2,Delhi
+ORD1484,Burger Town,American,22-01-2024,12:16,55,819.8,Wallet,3,Mumbai
+ORD1485,Pasta Paradise,Japanese,23-01-2024,11:03,32,1496.65,UPI,2.2,Hyderabad
+ORD1486,Pizza Plaza,American,23-01-2024,14:29,49,733.89,Debit Card,4.2,Bangalore
+ORD1487,Sushi World,Chinese,24-01-2024,15:23,55,408.87,UPI,2.6,Delhi
+ORD1488,Burger Town,Japanese,24-01-2024,17:25,24,1374.27,UPI,4.1,Bangalore
+ORD1489,Pasta Paradise,Indian,25-01-2024,10:25,30,864.85,Debit Card,2.6,Chennai
+ORD1490,Pizza Plaza,Mexican,25-01-2024,10:33,35,1110.03,Debit Card,4,Mumbai
+ORD1491,Pasta Paradise,Chinese,26-01-2024,20:25,44,1599.29,Debit Card,2.4,Hyderabad
+ORD1492,Sushi World,Italian,26-01-2024,11:33,36,1015.39,Credit Card,1.4,Kolkata
+ORD1493,Spice Villa,Japanese,27-01-2024,10:12,54,856.79,Credit Card,4.7,Mumbai
+ORD1494,Spice Villa,Mexican,27-01-2024,13:13,57,1501.13,UPI,2.4,Delhi
+ORD1495,Sushi World,Italian,28-01-2024,20:21,33,1103.2,Cash,5,Delhi
+ORD1496,Sushi World,Indian,28-01-2024,11:02,42,1858.3,Credit Card,1.4,Kolkata
+ORD1497,Pasta Paradise,Chinese,29-01-2024,19:59,21,1564.88,Debit Card,3.9,Mumbai
+ORD1498,Curry Delight,Japanese,29-01-2024,19:00,25,134.46,Cash,1.8,Mumbai
+ORD1499,Burger Town,Indian,30-01-2024,20:00,20,1480.87,Cash,4.3,Chennai
+ORD1500,Pasta Paradise,Japanese,30-01-2024,16:21,48,1222.79,Wallet,4.3,Chennai
+ORD1501,Burger Town,Indian,31-01-2024,10:38,15,1445.01,UPI,2,Bangalore
+ORD1502,Pizza Plaza,Chinese,31-01-2024,12:00,35,1898.81,Cash,2.1,Mumbai
+ORD1503,Pizza Plaza,Italian,01-02-2024,19:24,15,495.55,Credit Card,2.4,Bangalore
+ORD1504,Pasta Paradise,Chinese,01-02-2024,10:59,23,423.64,Credit Card,4.3,Hyderabad
+ORD1505,Pasta Paradise,Mexican,02-02-2024,22:27,50,1449.45,UPI,2.5,Bangalore
+ORD1506,Pizza Plaza,Italian,02-02-2024,21:27,39,458.09,Wallet,4.6,Bangalore
+ORD1507,Curry Delight,Japanese,03-02-2024,20:49,27,1061.32,Credit Card,3.3,Bangalore
+ORD1508,Burger Town,Chinese,03-02-2024,23:17,58,691.97,Credit Card,1.4,Chennai
+ORD1509,Curry Delight,American,04-02-2024,21:24,34,1037.59,Cash,2.8,Delhi
+ORD1510,Sushi World,Indian,04-02-2024,18:57,59,1131.13,Debit Card,3.2,Bangalore
+ORD1511,Pizza Plaza,Mexican,05-02-2024,19:10,52,355.02,UPI,1.3,Mumbai
+ORD1512,Burger Town,Indian,05-02-2024,17:54,37,960.49,Wallet,5,Delhi
+ORD1513,Pizza Plaza,Chinese,06-02-2024,22:31,47,328.04,Cash,3.5,Kolkata
+ORD1514,Spice Villa,Indian,06-02-2024,21:22,41,949.04,Credit Card,3.9,Mumbai
+ORD1515,Sushi World,Chinese,07-02-2024,18:57,55,1955.14,Credit Card,4.4,Bangalore
+ORD1516,Spice Villa,Italian,07-02-2024,20:49,22,747.61,Cash,2.1,Hyderabad
+ORD1517,Sushi World,Indian,08-02-2024,21:53,59,291.19,Cash,4,Hyderabad
+ORD1518,Pizza Plaza,Italian,08-02-2024,15:34,48,1300.92,Wallet,2.7,Kolkata
+ORD1519,Sushi World,Indian,09-02-2024,18:45,18,741.71,Wallet,4.9,Mumbai
+ORD1520,Spice Villa,Chinese,09-02-2024,18:28,50,1888.85,Credit Card,1.8,Hyderabad
+ORD1521,Sushi World,Japanese,10-02-2024,17:50,30,585.07,UPI,4.6,Hyderabad
+ORD1522,Curry Delight,Mexican,10-02-2024,17:21,45,672.77,Debit Card,2.4,Bangalore
+ORD1523,Pasta Paradise,Indian,11-02-2024,22:35,38,856.75,Cash,2.1,Delhi
+ORD1524,Pizza Plaza,Japanese,11-02-2024,20:39,29,117.66,Wallet,1.3,Mumbai
+ORD1525,Curry Delight,Italian,12-02-2024,19:10,40,1390.64,Wallet,1.7,Mumbai
+ORD1526,Sushi World,American,12-02-2024,12:23,56,1141.63,UPI,4.9,Kolkata
+ORD1527,Pasta Paradise,Japanese,13-02-2024,23:33,32,511.91,Cash,4.3,Bangalore
+ORD1528,Curry Delight,Japanese,13-02-2024,16:44,42,1996.86,Cash,2.4,Hyderabad
+ORD1529,Pasta Paradise,Mexican,14-02-2024,16:39,54,1866.21,UPI,4.5,Kolkata
+ORD1530,Pizza Plaza,Mexican,14-02-2024,22:16,50,753.74,Wallet,4.5,Mumbai
+ORD1531,Pasta Paradise,Italian,15-02-2024,16:33,51,1066.17,Cash,4.7,Kolkata
+ORD1532,Pizza Plaza,Indian,15-02-2024,16:52,28,519.22,Credit Card,4.8,Chennai
+ORD1533,Pasta Paradise,Mexican,16-02-2024,16:16,20,545.07,UPI,3.9,Chennai
+ORD1534,Burger Town,Indian,16-02-2024,18:50,20,1149.4,Wallet,4.5,Hyderabad
+ORD1535,Pasta Paradise,Japanese,17-02-2024,11:24,46,439.22,Debit Card,1,Delhi
+ORD1536,Burger Town,American,17-02-2024,18:41,42,666.58,Credit Card,1.8,Bangalore
+ORD1537,Pasta Paradise,American,18-02-2024,10:31,20,165.72,Cash,1.1,Chennai
+ORD1538,Spice Villa,Chinese,18-02-2024,14:34,53,1364.75,Cash,1.2,Chennai
+ORD1539,Sushi World,Mexican,19-02-2024,20:30,27,1931.64,Cash,2.3,Chennai
+ORD1540,Pasta Paradise,Italian,19-02-2024,13:54,52,1196.79,Debit Card,1.2,Kolkata
+ORD1541,Burger Town,Mexican,20-02-2024,16:17,37,1663.88,Debit Card,2.1,Bangalore
+ORD1542,Curry Delight,Chinese,20-02-2024,18:59,16,190.04,Credit Card,4.1,Chennai
+ORD1543,Pasta Paradise,American,21-02-2024,23:47,24,882.59,Wallet,1.4,Bangalore
+ORD1544,Pizza Plaza,Indian,21-02-2024,16:24,34,1918.46,Credit Card,1.5,Chennai
+ORD1545,Pizza Plaza,Italian,22-02-2024,21:49,45,756.62,Cash,4.1,Hyderabad
+ORD1546,Burger Town,American,22-02-2024,16:43,46,446.13,Debit Card,1.4,Delhi
+ORD1547,Pasta Paradise,Mexican,23-02-2024,17:52,37,270.82,Credit Card,3.3,Chennai
+ORD1548,Spice Villa,Chinese,23-02-2024,14:13,48,720.62,Credit Card,4,Chennai
+ORD1549,Burger Town,Chinese,24-02-2024,11:56,35,1013.04,Cash,2.4,Mumbai
+ORD1550,Pasta Paradise,Indian,24-02-2024,16:06,24,1354.99,UPI,2,Chennai
+ORD1551,Pasta Paradise,Chinese,25-02-2024,18:20,26,1956.81,Debit Card,2.3,Chennai
+ORD1552,Spice Villa,Japanese,25-02-2024,15:56,46,508.73,Cash,2.5,Bangalore
+ORD1553,Sushi World,Italian,26-02-2024,16:06,33,1326.78,Debit Card,1.3,Kolkata
+ORD1554,Pasta Paradise,Mexican,26-02-2024,10:02,52,1228,UPI,2,Hyderabad
+ORD1555,Spice Villa,Indian,27-02-2024,14:34,49,1381.16,Credit Card,2.3,Mumbai
+ORD1556,Spice Villa,Indian,28-02-2024,14:45,28,730.45,Wallet,3,Bangalore
+ORD1557,Burger Town,Indian,28-02-2024,12:00,21,472.17,UPI,1.2,Hyderabad
+ORD1558,Sushi World,Mexican,29-02-2024,19:53,18,1259.6,UPI,4,Chennai
+ORD1559,Curry Delight,Indian,29-02-2024,21:48,36,357.64,Cash,3.4,Chennai
+ORD1560,Spice Villa,Mexican,01-03-2024,11:06,37,1662.41,Cash,1.9,Chennai
+ORD1561,Sushi World,Italian,01-03-2024,22:23,31,929.07,Wallet,1.6,Chennai
+ORD1562,Pizza Plaza,American,02-03-2024,15:08,30,608,Debit Card,4.7,Delhi
+ORD1563,Spice Villa,Mexican,02-03-2024,22:06,40,121.67,Cash,1.4,Bangalore
+ORD1564,Pasta Paradise,Mexican,03-03-2024,12:23,22,1911.76,Cash,2.6,Bangalore
+ORD1565,Spice Villa,Italian,03-03-2024,12:52,54,781.17,Wallet,2.1,Chennai
+ORD1566,Spice Villa,Japanese,04-03-2024,10:46,34,184.17,UPI,2.5,Bangalore
+ORD1567,Pizza Plaza,Indian,04-03-2024,11:59,56,1598.83,Credit Card,3.5,Mumbai
+ORD1568,Pasta Paradise,Mexican,05-03-2024,15:29,60,1205.46,Wallet,4.2,Bangalore
+ORD1569,Spice Villa,Mexican,05-03-2024,17:43,32,922.28,Cash,3.8,Hyderabad
+ORD1570,Burger Town,Chinese,06-03-2024,23:20,56,117.65,Wallet,3.1,Bangalore
+ORD1571,Spice Villa,Japanese,06-03-2024,20:37,60,1296.63,UPI,2.2,Bangalore
+ORD1572,Burger Town,Indian,07-03-2024,19:16,23,1121.3,Cash,2.9,Bangalore
+ORD1573,Curry Delight,American,07-03-2024,12:04,38,286.89,Cash,4,Kolkata
+ORD1574,Pizza Plaza,Chinese,08-03-2024,12:02,17,1113.9,UPI,4.3,Bangalore
+ORD1575,Sushi World,Indian,08-03-2024,19:21,29,609.37,Cash,2.3,Kolkata
+ORD1576,Sushi World,American,09-03-2024,13:55,53,156.04,Credit Card,4.8,Bangalore
+ORD1577,Pizza Plaza,Indian,09-03-2024,16:08,47,366.54,Cash,2.1,Chennai
+ORD1578,Pasta Paradise,American,10-03-2024,18:28,35,534.72,Credit Card,4.1,Delhi
+ORD1579,Burger Town,Mexican,10-03-2024,16:44,29,309.83,UPI,3.9,Bangalore
+ORD1580,Curry Delight,Italian,11-03-2024,13:13,42,1342.69,UPI,3.2,Chennai
+ORD1581,Sushi World,Indian,11-03-2024,22:53,43,446.44,Credit Card,2.8,Chennai
+ORD1582,Burger Town,American,12-03-2024,16:56,42,1113.48,Wallet,3.6,Chennai
+ORD1583,Pizza Plaza,Chinese,12-03-2024,16:34,28,208.11,Debit Card,3.9,Chennai
+ORD1584,Sushi World,Italian,13-03-2024,11:46,54,1856.11,Cash,3.8,Mumbai
+ORD1585,Burger Town,Chinese,13-03-2024,20:05,31,440.74,Credit Card,4.3,Bangalore
+ORD1586,Burger Town,Japanese,14-03-2024,10:14,37,1468.29,UPI,3.9,Kolkata
+ORD1587,Curry Delight,Chinese,14-03-2024,14:45,43,736.65,Wallet,1.7,Hyderabad
+ORD1588,Spice Villa,Mexican,15-03-2024,13:10,25,725.85,Cash,4.9,Hyderabad
+ORD1589,Spice Villa,American,15-03-2024,20:32,48,1503.88,UPI,2.1,Hyderabad
+ORD1590,Pizza Plaza,Chinese,16-03-2024,14:07,32,255.16,Wallet,2,Chennai
+ORD1591,Sushi World,Indian,16-03-2024,11:39,37,1792.78,Debit Card,4.2,Hyderabad
+ORD1592,Pizza Plaza,Italian,17-03-2024,22:49,40,267.62,Debit Card,2.3,Chennai
+ORD1593,Burger Town,Indian,17-03-2024,13:45,19,471.94,Debit Card,4.1,Mumbai
+ORD1594,Sushi World,Mexican,18-03-2024,16:53,53,1751.84,Wallet,1.9,Kolkata
+ORD1595,Pizza Plaza,American,18-03-2024,11:58,49,1800.71,UPI,3.3,Kolkata
+ORD1596,Curry Delight,Indian,19-03-2024,18:32,50,609.43,Debit Card,3.2,Bangalore
+ORD1597,Burger Town,Mexican,19-03-2024,14:48,36,1586.4,Credit Card,4.7,Chennai
+ORD1598,Burger Town,American,20-03-2024,16:09,17,439.24,UPI,4,Delhi
+ORD1599,Pizza Plaza,Mexican,20-03-2024,22:03,58,1238.65,Credit Card,1.5,Kolkata
+ORD1600,Spice Villa,Mexican,21-03-2024,11:37,58,663.03,Wallet,4.3,Hyderabad
+ORD1601,Spice Villa,Italian,21-03-2024,15:12,54,127.69,Debit Card,1.9,Bangalore
+ORD1602,Spice Villa,Japanese,22-03-2024,18:13,15,1441.83,Wallet,3.8,Chennai
+ORD1603,Pasta Paradise,Indian,22-03-2024,11:27,29,1468.37,Wallet,4.8,Chennai
+ORD1604,Spice Villa,Mexican,23-03-2024,23:14,32,878.07,Cash,2.4,Mumbai
+ORD1605,Sushi World,Japanese,23-03-2024,22:23,42,502.46,Wallet,2.8,Delhi
+ORD1606,Curry Delight,Japanese,24-03-2024,10:37,52,1840.82,Cash,1.4,Delhi
+ORD1607,Burger Town,Indian,24-03-2024,10:49,49,112.19,Credit Card,2.6,Bangalore
+ORD1608,Curry Delight,Italian,25-03-2024,10:46,38,1183.53,UPI,3,Kolkata
+ORD1609,Sushi World,Italian,25-03-2024,16:19,21,680.42,Wallet,2.1,Mumbai
+ORD1610,Pasta Paradise,American,26-03-2024,14:24,18,1972.52,Wallet,2.5,Delhi
+ORD1611,Pizza Plaza,Chinese,26-03-2024,20:58,45,1985.04,Credit Card,1.7,Chennai
+ORD1612,Burger Town,Italian,27-03-2024,23:28,58,224.43,Credit Card,2.7,Kolkata
+ORD1613,Curry Delight,Italian,27-03-2024,16:43,56,107.9,Credit Card,4.3,Kolkata
+ORD1614,Sushi World,American,28-03-2024,23:40,46,1269.15,Cash,2,Hyderabad
+ORD1615,Pizza Plaza,American,28-03-2024,16:28,54,511.81,Cash,3.7,Mumbai
+ORD1616,Spice Villa,Italian,29-03-2024,14:25,43,1096.1,UPI,4.4,Kolkata
+ORD1617,Sushi World,Chinese,29-03-2024,15:44,32,1651.98,UPI,2.5,Mumbai
+ORD1618,Burger Town,American,30-03-2024,14:11,51,1871.86,Credit Card,1.5,Mumbai
+ORD1619,Curry Delight,Italian,30-03-2024,16:01,52,1656.22,Cash,1.6,Hyderabad
+ORD1620,Pasta Paradise,Indian,31-03-2024,15:39,57,420.14,UPI,1.7,Mumbai
+ORD1621,Sushi World,Indian,31-03-2024,15:09,47,1994.78,Debit Card,3.1,Bangalore
+ORD1622,Sushi World,Indian,01-04-2024,12:55,24,287.58,Wallet,2.4,Mumbai
+ORD1623,Spice Villa,Japanese,01-04-2024,10:53,26,1656.82,UPI,1,Mumbai
+ORD1624,Curry Delight,Italian,02-04-2024,12:32,35,322.4,UPI,4.4,Kolkata
+ORD1625,Pizza Plaza,Japanese,02-04-2024,19:28,30,1124.25,Wallet,3.9,Kolkata
+ORD1626,Sushi World,Italian,03-04-2024,20:53,43,1125.65,Credit Card,1.8,Mumbai
+ORD1627,Sushi World,Indian,03-04-2024,19:30,37,199.19,Cash,2.9,Chennai
+ORD1628,Curry Delight,Italian,04-04-2024,19:53,17,1851.16,Cash,3.1,Kolkata
+ORD1629,Pasta Paradise,American,04-04-2024,11:10,33,514.44,UPI,4.1,Chennai
+ORD1630,Spice Villa,Indian,05-04-2024,21:32,40,558.19,Cash,4.3,Mumbai
+ORD1631,Pasta Paradise,Chinese,06-04-2024,16:41,49,805.5,Credit Card,3.9,Kolkata
+ORD1632,Curry Delight,American,06-04-2024,23:39,38,758.44,Credit Card,3.4,Mumbai
+ORD1633,Curry Delight,Chinese,07-04-2024,23:16,23,192.23,Cash,2.9,Delhi
+ORD1634,Burger Town,Mexican,07-04-2024,17:57,44,274.49,Cash,1.2,Delhi
+ORD1635,Curry Delight,Mexican,08-04-2024,21:29,15,828.82,UPI,1.8,Hyderabad
+ORD1636,Curry Delight,Chinese,08-04-2024,12:39,25,1799.72,Wallet,2.5,Chennai
+ORD1637,Pasta Paradise,Mexican,09-04-2024,21:08,58,1411.21,Debit Card,1.4,Bangalore
+ORD1638,Curry Delight,Indian,09-04-2024,11:07,56,1642.76,Debit Card,2,Mumbai
+ORD1639,Curry Delight,Mexican,10-04-2024,14:21,29,1696.28,UPI,2.2,Delhi
+ORD1640,Pizza Plaza,Chinese,10-04-2024,17:19,21,225.46,Debit Card,3,Kolkata
+ORD1641,Sushi World,Japanese,11-04-2024,12:51,21,1127.33,Wallet,2.8,Delhi
+ORD1642,Sushi World,Japanese,11-04-2024,14:41,33,1182.1,Credit Card,3,Bangalore
+ORD1643,Pasta Paradise,Italian,12-04-2024,16:10,29,1148.24,Wallet,2.8,Mumbai
+ORD1644,Pasta Paradise,American,12-04-2024,23:20,30,150.46,Wallet,2.5,Mumbai
+ORD1645,Pizza Plaza,Indian,13-04-2024,20:31,49,236.85,UPI,3.5,Mumbai
+ORD1646,Burger Town,Japanese,13-04-2024,12:16,26,1897.95,Cash,5,Hyderabad
+ORD1647,Pizza Plaza,Indian,14-04-2024,10:20,58,254.27,UPI,4.7,Delhi
+ORD1648,Burger Town,American,14-04-2024,20:38,58,1680.27,Wallet,2.3,Chennai
+ORD1649,Curry Delight,American,15-04-2024,19:59,21,1135.45,Cash,1.6,Hyderabad
+ORD1650,Curry Delight,American,15-04-2024,12:19,18,660.96,Cash,4.2,Bangalore
+ORD1651,Sushi World,Mexican,16-04-2024,18:36,41,1034.18,UPI,4.8,Delhi
+ORD1652,Pasta Paradise,Japanese,16-04-2024,14:30,58,134.09,UPI,2.4,Delhi
+ORD1653,Burger Town,Japanese,17-04-2024,12:56,30,1695.64,Cash,2.5,Chennai
+ORD1654,Pizza Plaza,Mexican,17-04-2024,22:24,32,1153.11,UPI,2.2,Delhi
+ORD1655,Spice Villa,Mexican,18-04-2024,23:47,59,1562.19,Cash,4.4,Bangalore
+ORD1656,Curry Delight,Japanese,18-04-2024,14:03,35,759.75,Credit Card,4,Bangalore
+ORD1657,Burger Town,Chinese,19-04-2024,13:54,46,130.31,Credit Card,2.2,Chennai
+ORD1658,Sushi World,Indian,19-04-2024,18:27,20,574.15,Cash,4.3,Mumbai
+ORD1659,Sushi World,Mexican,20-04-2024,21:26,53,1324.99,Cash,3.4,Delhi
+ORD1660,Pasta Paradise,Italian,20-04-2024,13:06,39,1096.03,Cash,4.7,Delhi
+ORD1661,Pizza Plaza,Indian,21-04-2024,11:17,36,997.86,Credit Card,3.5,Mumbai
+ORD1662,Sushi World,Indian,21-04-2024,10:10,43,1338.22,Wallet,2.8,Bangalore
+ORD1663,Sushi World,Italian,22-04-2024,16:43,55,1507.08,Wallet,4.4,Hyderabad
+ORD1664,Curry Delight,American,22-04-2024,17:33,56,1946.21,Cash,4.4,Chennai
+ORD1665,Curry Delight,Chinese,23-04-2024,12:56,58,961.89,Cash,4.6,Hyderabad
+ORD1666,Spice Villa,Italian,23-04-2024,14:31,44,1065.48,Cash,2.1,Hyderabad
+ORD1667,Spice Villa,Chinese,24-04-2024,17:08,18,1291.68,UPI,4.4,Kolkata
+ORD1668,Spice Villa,Indian,24-04-2024,23:53,49,1967.34,Credit Card,4.1,Delhi
+ORD1669,Sushi World,Japanese,25-04-2024,16:06,54,678.15,Wallet,4.8,Chennai
+ORD1670,Pizza Plaza,Mexican,25-04-2024,19:29,53,1135.53,Cash,4.8,Mumbai
+ORD1671,Pasta Paradise,American,26-04-2024,12:00,17,1529.75,UPI,3.3,Chennai
+ORD1672,Spice Villa,Japanese,26-04-2024,12:43,21,126.1,Wallet,4,Chennai
+ORD1673,Spice Villa,Mexican,27-04-2024,16:01,41,426.64,UPI,2.9,Mumbai
+ORD1674,Spice Villa,Chinese,27-04-2024,21:55,47,831.48,Debit Card,1.2,Kolkata
+ORD1675,Burger Town,Chinese,28-04-2024,20:51,47,691.94,Credit Card,2.9,Hyderabad
+ORD1676,Curry Delight,Japanese,28-04-2024,15:50,42,225.81,Wallet,4.6,Chennai
+ORD1677,Pasta Paradise,American,29-04-2024,16:24,21,172.89,Debit Card,3.8,Bangalore
+ORD1678,Burger Town,Indian,29-04-2024,18:41,16,1705.11,Credit Card,4.3,Hyderabad
+ORD1679,Pasta Paradise,Indian,30-04-2024,14:27,27,407.09,Cash,2.6,Bangalore
+ORD1680,Sushi World,Mexican,30-04-2024,16:12,22,553.1,Credit Card,2.7,Kolkata
+ORD1681,Pasta Paradise,American,01-05-2024,12:43,46,611.5,Wallet,1.1,Mumbai
+ORD1682,Curry Delight,Chinese,01-05-2024,19:08,24,333.96,UPI,3.4,Bangalore
+ORD1683,Sushi World,Mexican,02-05-2024,23:41,44,1952.17,Credit Card,3.2,Bangalore
+ORD1684,Spice Villa,Mexican,02-05-2024,10:55,24,942.52,Credit Card,4.6,Mumbai
+ORD1685,Sushi World,Japanese,03-05-2024,10:10,25,1806.46,Credit Card,2.1,Chennai
+ORD1686,Pizza Plaza,Chinese,03-05-2024,11:44,30,1321.61,Wallet,1.2,Bangalore
+ORD1687,Spice Villa,American,04-05-2024,23:03,34,1715.24,Credit Card,3.4,Kolkata
+ORD1688,Pizza Plaza,American,04-05-2024,18:00,45,876.08,Debit Card,2.8,Chennai
+ORD1689,Spice Villa,American,05-05-2024,23:53,21,255.91,Credit Card,3.7,Mumbai
+ORD1690,Pasta Paradise,Japanese,05-05-2024,18:04,50,1981.64,Wallet,4.4,Mumbai
+ORD1691,Curry Delight,Italian,06-05-2024,17:04,44,1921.06,Wallet,1.1,Chennai
+ORD1692,Pasta Paradise,Japanese,06-05-2024,10:11,20,230.84,Cash,4.7,Chennai
+ORD1693,Pizza Plaza,Chinese,07-05-2024,12:42,32,1562.34,Credit Card,1.3,Kolkata
+ORD1694,Sushi World,Italian,07-05-2024,14:42,29,594.31,Cash,4.8,Chennai
+ORD1695,Curry Delight,Mexican,08-05-2024,11:09,29,614.49,Wallet,5,Delhi
+ORD1696,Spice Villa,American,08-05-2024,11:24,60,818.38,UPI,2.1,Kolkata
+ORD1697,Pasta Paradise,Mexican,09-05-2024,22:54,55,122.12,UPI,2.4,Hyderabad
+ORD1698,Sushi World,Japanese,09-05-2024,17:12,20,1561.9,Debit Card,4.3,Chennai
+ORD1699,Sushi World,Indian,10-05-2024,21:52,21,109.54,Debit Card,1.5,Delhi
+ORD1700,Sushi World,Mexican,10-05-2024,11:31,60,524.5,Credit Card,2.8,Bangalore
+ORD1701,Spice Villa,Chinese,11-05-2024,13:23,38,1560.17,Credit Card,3.2,Bangalore
+ORD1702,Pasta Paradise,Indian,11-05-2024,13:02,25,1853.06,Debit Card,1.3,Hyderabad
+ORD1703,Sushi World,Chinese,12-05-2024,14:43,57,1299.79,Credit Card,2.3,Hyderabad
+ORD1704,Pizza Plaza,Mexican,13-05-2024,16:07,44,1148.47,Cash,4.4,Bangalore
+ORD1705,Sushi World,Italian,13-05-2024,12:26,47,131.62,Wallet,4,Chennai
+ORD1706,Sushi World,Indian,14-05-2024,14:09,42,862.41,Wallet,1.9,Delhi
+ORD1707,Pizza Plaza,American,14-05-2024,15:55,39,952.41,Debit Card,4.4,Chennai
+ORD1708,Burger Town,Italian,15-05-2024,15:50,49,501.89,UPI,1.2,Mumbai
+ORD1709,Pasta Paradise,Italian,15-05-2024,12:15,34,1761.67,Cash,4.1,Delhi
+ORD1710,Pasta Paradise,Mexican,16-05-2024,22:14,34,114.04,Credit Card,2,Hyderabad
+ORD1711,Sushi World,American,16-05-2024,14:00,46,1978.62,Credit Card,1.2,Mumbai
+ORD1712,Pizza Plaza,Mexican,17-05-2024,15:02,19,197.56,UPI,4.6,Chennai
+ORD1713,Pasta Paradise,Chinese,17-05-2024,15:16,50,1827.39,UPI,4.4,Mumbai
+ORD1714,Spice Villa,Mexican,18-05-2024,22:23,53,1930.96,UPI,1.2,Chennai
+ORD1715,Pasta Paradise,Chinese,18-05-2024,16:30,30,957.98,UPI,3.5,Delhi
+ORD1716,Pizza Plaza,Indian,19-05-2024,14:00,57,194.32,Cash,2.7,Chennai
+ORD1717,Pizza Plaza,Indian,19-05-2024,13:54,34,729.19,UPI,4.7,Mumbai
+ORD1718,Burger Town,Italian,20-05-2024,19:28,51,273.14,UPI,4.2,Kolkata
+ORD1719,Pizza Plaza,American,20-05-2024,10:22,44,1371.07,UPI,2.8,Delhi
+ORD1720,Sushi World,Mexican,21-05-2024,22:34,42,856.31,Wallet,2.4,Bangalore
+ORD1721,Spice Villa,Chinese,21-05-2024,11:52,58,1184.99,Wallet,1.2,Hyderabad
+ORD1722,Curry Delight,Chinese,22-05-2024,14:35,56,634.4,Wallet,3.4,Mumbai
+ORD1723,Pizza Plaza,Mexican,22-05-2024,19:15,58,146.56,Cash,3.5,Bangalore
+ORD1724,Pasta Paradise,Indian,23-05-2024,14:54,57,1830.45,Cash,2.5,Mumbai
+ORD1725,Spice Villa,American,23-05-2024,17:54,23,1309.42,Debit Card,1.8,Bangalore
+ORD1726,Pasta Paradise,Japanese,24-05-2024,15:41,33,917.77,Wallet,4.2,Mumbai
+ORD1727,Sushi World,Chinese,24-05-2024,16:16,27,1820.56,Cash,2.4,Kolkata
+ORD1728,Burger Town,Chinese,25-05-2024,12:47,27,1632.8,Wallet,3.5,Hyderabad
+ORD1729,Sushi World,Mexican,25-05-2024,14:01,43,1501.54,Credit Card,1.7,Mumbai
+ORD1730,Pasta Paradise,Italian,26-05-2024,23:32,26,1069.41,Credit Card,3.4,Mumbai
+ORD1731,Pizza Plaza,Chinese,26-05-2024,12:31,47,1898.2,Wallet,1.3,Delhi
+ORD1732,Burger Town,Italian,27-05-2024,10:29,41,779.38,Debit Card,2,Mumbai
+ORD1733,Spice Villa,Japanese,27-05-2024,21:01,25,1593.74,Credit Card,1.1,Hyderabad
+ORD1734,Sushi World,Mexican,28-05-2024,22:57,34,1643.23,Wallet,4.1,Chennai
+ORD1735,Pizza Plaza,Chinese,28-05-2024,12:08,33,1477.86,Cash,4,Bangalore
+ORD1736,Spice Villa,Italian,29-05-2024,14:59,51,693.88,Cash,2.1,Bangalore
+ORD1737,Sushi World,Chinese,29-05-2024,22:00,30,627.11,Wallet,2.7,Bangalore
+ORD1738,Curry Delight,Japanese,30-05-2024,21:23,57,572.16,Credit Card,3.2,Chennai
+ORD1739,Pizza Plaza,Indian,30-05-2024,21:27,27,294.22,Wallet,1.7,Kolkata
+ORD1740,Curry Delight,Indian,31-05-2024,11:40,35,614.24,Wallet,4.6,Bangalore
+ORD1741,Spice Villa,Italian,31-05-2024,14:41,54,263.33,Debit Card,4.6,Chennai
+ORD1742,Pizza Plaza,Chinese,01-06-2024,22:27,50,938.83,UPI,3.4,Delhi
+ORD1743,Curry Delight,Chinese,01-06-2024,21:10,18,1217.12,Debit Card,4,Bangalore
+ORD1744,Pasta Paradise,Mexican,02-06-2024,23:26,26,1696.07,Wallet,2.9,Mumbai
+ORD1745,Pizza Plaza,Mexican,02-06-2024,11:03,30,712.42,Cash,2.8,Kolkata
+ORD1746,Spice Villa,Italian,03-06-2024,20:51,20,1189.24,Debit Card,1.2,Delhi
+ORD1747,Pasta Paradise,Italian,03-06-2024,21:29,33,1383.87,Credit Card,3,Chennai
+ORD1748,Pasta Paradise,American,04-06-2024,20:21,58,145.27,Cash,3.6,Hyderabad
+ORD1749,Sushi World,American,04-06-2024,19:38,55,818.93,Credit Card,2.2,Hyderabad
+ORD1750,Sushi World,Indian,05-06-2024,11:44,33,717,Wallet,1.3,Mumbai
+ORD1751,Sushi World,Italian,05-06-2024,19:21,53,598.98,Wallet,4.5,Hyderabad
+ORD1752,Sushi World,Chinese,06-06-2024,13:04,19,1298.31,Credit Card,3.5,Chennai
+ORD1753,Pizza Plaza,Chinese,06-06-2024,15:28,32,226.1,UPI,2.4,Mumbai
+ORD1754,Burger Town,American,07-06-2024,13:21,56,777.46,Cash,1.2,Chennai
+ORD1755,Burger Town,Indian,07-06-2024,16:47,35,1852.71,Wallet,1.3,Chennai
+ORD1756,Sushi World,Indian,08-06-2024,15:47,38,1959.76,Cash,3.6,Hyderabad
+ORD1757,Sushi World,Japanese,08-06-2024,19:14,49,193.22,Credit Card,1.8,Kolkata
+ORD1758,Burger Town,Chinese,09-06-2024,10:24,26,411.84,UPI,2,Delhi
+ORD1759,Pizza Plaza,Indian,09-06-2024,12:36,41,1147.74,Cash,1.3,Bangalore
+ORD1760,Pizza Plaza,Chinese,10-06-2024,22:43,47,224.11,Debit Card,4.7,Delhi
+ORD1761,Spice Villa,Japanese,10-06-2024,14:52,21,171.17,UPI,1.7,Chennai
+ORD1762,Burger Town,Chinese,11-06-2024,13:53,16,1671.85,UPI,4,Chennai
+ORD1763,Curry Delight,Mexican,11-06-2024,12:24,21,1244.33,Wallet,4.2,Chennai
+ORD1764,Spice Villa,Japanese,12-06-2024,23:31,34,201.08,Wallet,1.3,Hyderabad
+ORD1765,Curry Delight,Italian,12-06-2024,16:37,31,535.83,Debit Card,3.1,Chennai
+ORD1766,Burger Town,Indian,13-06-2024,13:54,28,1310.31,UPI,3.8,Bangalore
+ORD1767,Pizza Plaza,Mexican,13-06-2024,19:42,54,313.4,Cash,1.1,Bangalore
+ORD1768,Pasta Paradise,Indian,14-06-2024,13:50,35,695.29,UPI,2.6,Mumbai
+ORD1769,Spice Villa,American,14-06-2024,12:54,54,574.06,Wallet,4.8,Bangalore
+ORD1770,Spice Villa,Chinese,15-06-2024,12:43,60,1840.93,Debit Card,1.7,Mumbai
+ORD1771,Curry Delight,Indian,15-06-2024,17:28,16,765.44,Cash,3,Delhi
+ORD1772,Pasta Paradise,Indian,16-06-2024,11:09,48,882.95,Debit Card,2.1,Delhi
+ORD1773,Sushi World,American,16-06-2024,16:42,49,1421.83,UPI,2.3,Hyderabad
+ORD1774,Pizza Plaza,Chinese,17-06-2024,23:49,34,1339.55,Credit Card,1.3,Delhi
+ORD1775,Burger Town,Italian,17-06-2024,14:57,17,289.96,Debit Card,1.8,Bangalore
+ORD1776,Burger Town,American,18-06-2024,16:54,47,1419.72,Debit Card,4.7,Bangalore
+ORD1777,Pizza Plaza,Indian,18-06-2024,22:57,27,1377.77,UPI,4.4,Delhi
+ORD1778,Curry Delight,Italian,19-06-2024,13:15,27,1577.07,UPI,2.1,Hyderabad
+ORD1779,Pasta Paradise,Indian,20-06-2024,13:52,46,380.58,UPI,3.2,Mumbai
+ORD1780,Curry Delight,American,20-06-2024,15:56,60,717.49,Credit Card,4.5,Chennai
+ORD1781,Curry Delight,Mexican,21-06-2024,13:10,26,1595.06,Credit Card,4,Kolkata
+ORD1782,Burger Town,Mexican,21-06-2024,17:33,24,908.81,Wallet,4.8,Kolkata
+ORD1783,Pasta Paradise,Japanese,22-06-2024,19:41,34,327.14,Debit Card,4.9,Mumbai
+ORD1784,Burger Town,Japanese,22-06-2024,13:36,34,137.33,Wallet,1.9,Mumbai
+ORD1785,Sushi World,Italian,23-06-2024,19:10,20,503.32,Debit Card,3.5,Chennai
+ORD1786,Burger Town,Italian,23-06-2024,16:16,52,380.25,Wallet,1.8,Kolkata
+ORD1787,Pasta Paradise,Italian,24-06-2024,16:27,24,627.36,Debit Card,2.8,Chennai
+ORD1788,Sushi World,Italian,24-06-2024,21:37,16,602.45,UPI,3,Delhi
+ORD1789,Burger Town,Italian,25-06-2024,19:45,25,593.64,UPI,1.1,Bangalore
+ORD1790,Pizza Plaza,Japanese,25-06-2024,20:27,28,882.84,UPI,4.7,Mumbai
+ORD1791,Pizza Plaza,Mexican,26-06-2024,21:34,17,257.55,Credit Card,4.4,Delhi
+ORD1792,Curry Delight,Mexican,26-06-2024,16:00,59,1969.43,UPI,2.4,Kolkata
+ORD1793,Pizza Plaza,Japanese,27-06-2024,19:40,33,1081.3,UPI,2.9,Hyderabad
+ORD1794,Curry Delight,Chinese,27-06-2024,17:25,53,1764.55,UPI,4.7,Hyderabad
+ORD1795,Spice Villa,American,28-06-2024,17:21,18,375.69,Cash,3.8,Chennai
+ORD1796,Pizza Plaza,Italian,28-06-2024,21:33,27,219.76,Cash,3.1,Chennai
+ORD1797,Pizza Plaza,Japanese,29-06-2024,19:20,21,952.97,Cash,1.1,Kolkata
+ORD1798,Pizza Plaza,Italian,29-06-2024,15:11,53,1608.2,Debit Card,4.5,Kolkata
+ORD1799,Spice Villa,American,30-06-2024,23:29,17,1136.68,Credit Card,2.8,Mumbai
+ORD1800,Burger Town,American,30-06-2024,15:47,27,1631.13,Debit Card,4.7,Delhi
+ORD1801,Curry Delight,Chinese,01-07-2024,17:09,29,1963.2,Cash,4.8,Delhi
+ORD1802,Spice Villa,Mexican,01-07-2024,20:43,59,1141.88,Credit Card,1.9,Kolkata
+ORD1803,Pasta Paradise,American,02-07-2024,10:32,29,204.64,Cash,4.3,Mumbai
+ORD1804,Pasta Paradise,Japanese,02-07-2024,14:53,39,1454.86,Debit Card,3.7,Delhi
+ORD1805,Spice Villa,Italian,03-07-2024,14:40,50,1636.84,Cash,4.3,Hyderabad
+ORD1806,Curry Delight,Italian,03-07-2024,16:19,21,1992.51,Credit Card,2,Kolkata
+ORD1807,Spice Villa,Indian,04-07-2024,16:57,46,134.79,Cash,2.3,Delhi
+ORD1808,Curry Delight,Indian,04-07-2024,17:03,25,433.86,Wallet,4.4,Kolkata
+ORD1809,Spice Villa,Italian,05-07-2024,20:04,28,1193.27,UPI,3.5,Chennai
+ORD1810,Pasta Paradise,Italian,05-07-2024,14:48,40,1248.29,Cash,2.4,Hyderabad
+ORD1811,Curry Delight,Chinese,06-07-2024,11:48,19,1817.37,UPI,4.9,Mumbai
+ORD1812,Pizza Plaza,Italian,06-07-2024,20:49,53,1233.58,Wallet,4.5,Mumbai
+ORD1813,Spice Villa,Japanese,07-07-2024,12:47,24,323.98,UPI,3.2,Bangalore
+ORD1814,Sushi World,Indian,07-07-2024,17:33,15,655.31,Debit Card,2.2,Hyderabad
+ORD1815,Pasta Paradise,Japanese,08-07-2024,21:47,44,855.11,UPI,4.9,Mumbai
+ORD1816,Curry Delight,Indian,08-07-2024,17:04,26,1994.7,Cash,1.8,Mumbai
+ORD1817,Curry Delight,Chinese,09-07-2024,18:38,40,911.34,Credit Card,1.7,Delhi
+ORD1818,Burger Town,Chinese,09-07-2024,17:58,32,1946.92,Wallet,3.6,Delhi
+ORD1819,Sushi World,Chinese,10-07-2024,10:18,51,1403.98,Credit Card,4.5,Hyderabad
+ORD1820,Spice Villa,Indian,10-07-2024,13:49,52,1738.99,UPI,1.8,Hyderabad
+ORD1821,Sushi World,Mexican,11-07-2024,17:12,41,1990.87,Wallet,4.3,Mumbai
+ORD1822,Burger Town,Japanese,11-07-2024,11:21,20,426.96,Cash,4.2,Hyderabad
+ORD1823,Sushi World,American,12-07-2024,20:16,17,318.01,Debit Card,1.2,Hyderabad
+ORD1824,Burger Town,Indian,12-07-2024,19:25,27,1962.69,Wallet,3.2,Kolkata
+ORD1825,Curry Delight,Chinese,13-07-2024,19:30,31,1543.31,Cash,3.4,Delhi
+ORD1826,Pizza Plaza,Chinese,13-07-2024,14:49,38,346.76,Debit Card,4.1,Delhi
+ORD1827,Pizza Plaza,Indian,14-07-2024,11:31,33,1352.04,Wallet,4.2,Chennai
+ORD1828,Burger Town,Japanese,14-07-2024,20:44,42,455.48,Wallet,1.2,Kolkata
+ORD1829,Curry Delight,Indian,15-07-2024,21:55,36,576.71,UPI,4.1,Mumbai
+ORD1830,Burger Town,American,15-07-2024,20:38,19,213.94,UPI,4,Bangalore
+ORD1831,Curry Delight,Chinese,16-07-2024,13:23,29,1418.4,Debit Card,2.3,Chennai
+ORD1832,Curry Delight,Mexican,16-07-2024,13:44,49,1395.43,Debit Card,2.9,Kolkata
+ORD1833,Pasta Paradise,Indian,17-07-2024,23:19,35,1269.42,Wallet,4.9,Kolkata
+ORD1834,Pizza Plaza,Mexican,17-07-2024,20:57,55,439.64,UPI,1.3,Bangalore
+ORD1835,Sushi World,Italian,18-07-2024,14:44,44,1818.27,Debit Card,3.9,Hyderabad
+ORD1836,Pizza Plaza,Mexican,18-07-2024,15:50,51,600.79,UPI,3.1,Mumbai
+ORD1837,Sushi World,American,19-07-2024,17:43,15,640.38,Wallet,1.3,Chennai
+ORD1838,Curry Delight,Mexican,19-07-2024,16:44,15,796.98,Debit Card,1.1,Bangalore
+ORD1839,Pasta Paradise,American,20-07-2024,15:25,42,644.35,Debit Card,4.1,Chennai
+ORD1840,Burger Town,Indian,20-07-2024,23:43,23,1233.1,UPI,3.5,Kolkata
+ORD1841,Pizza Plaza,Chinese,21-07-2024,20:15,59,1452.14,Credit Card,2,Hyderabad
+ORD1842,Pasta Paradise,Mexican,21-07-2024,21:59,34,973.72,Cash,2.4,Hyderabad
+ORD1843,Spice Villa,American,22-07-2024,10:43,54,1636.6,Debit Card,4.4,Kolkata
+ORD1844,Curry Delight,Italian,22-07-2024,10:38,19,529.37,Credit Card,4.9,Kolkata
+ORD1845,Curry Delight,Indian,23-07-2024,20:43,24,1424.01,Debit Card,2,Chennai
+ORD1846,Sushi World,Indian,23-07-2024,22:09,50,1295.38,Credit Card,1.3,Hyderabad
+ORD1847,Pasta Paradise,Indian,24-07-2024,14:55,43,776.57,Cash,1,Bangalore
+ORD1848,Pizza Plaza,Japanese,24-07-2024,11:42,38,185.24,Wallet,1.2,Chennai
+ORD1849,Pizza Plaza,American,25-07-2024,14:44,59,1456.68,UPI,2.3,Mumbai
+ORD1850,Sushi World,Chinese,25-07-2024,22:05,21,1679.57,Credit Card,2.6,Hyderabad
+ORD1851,Spice Villa,Indian,26-07-2024,12:56,15,995.46,Debit Card,2.5,Kolkata
+ORD1852,Curry Delight,Mexican,27-07-2024,16:48,60,759.01,Cash,4.7,Hyderabad
+ORD1853,Pizza Plaza,American,27-07-2024,13:09,16,250.46,Credit Card,4.2,Delhi
+ORD1854,Sushi World,Chinese,28-07-2024,10:02,44,1642.32,Credit Card,2.5,Hyderabad
+ORD1855,Pizza Plaza,Japanese,28-07-2024,21:04,30,1297.53,Cash,2.9,Bangalore
+ORD1856,Burger Town,Chinese,29-07-2024,13:37,20,756.35,Cash,1.1,Bangalore
+ORD1857,Pizza Plaza,Mexican,29-07-2024,15:24,55,1722.22,UPI,2.1,Chennai
+ORD1858,Spice Villa,Japanese,30-07-2024,17:36,47,1823.7,Wallet,3,Chennai
+ORD1859,Spice Villa,Mexican,30-07-2024,12:22,49,1357.96,Cash,3.9,Hyderabad
+ORD1860,Sushi World,Indian,31-07-2024,17:12,47,759.07,UPI,2.9,Mumbai
+ORD1861,Spice Villa,Italian,31-07-2024,16:49,55,588.62,Debit Card,2.5,Mumbai
+ORD1862,Burger Town,Mexican,01-08-2024,22:31,51,1824.82,Cash,4.2,Hyderabad
+ORD1863,Pasta Paradise,Mexican,01-08-2024,14:14,33,1789.57,Wallet,2.4,Hyderabad
+ORD1864,Sushi World,American,02-08-2024,12:04,25,698.37,Wallet,1.3,Mumbai
+ORD1865,Sushi World,American,02-08-2024,22:52,46,1773.07,Credit Card,3.1,Hyderabad
+ORD1866,Burger Town,Japanese,03-08-2024,10:04,33,532.03,Debit Card,2.5,Delhi
+ORD1867,Sushi World,American,03-08-2024,19:51,24,999.41,Wallet,3.5,Hyderabad
+ORD1868,Curry Delight,Japanese,04-08-2024,12:52,50,1140.27,Wallet,2.5,Chennai
+ORD1869,Curry Delight,Japanese,04-08-2024,21:06,40,1878.43,Credit Card,1.9,Mumbai
+ORD1870,Curry Delight,Chinese,05-08-2024,13:21,23,1335.99,Credit Card,2.6,Hyderabad
+ORD1871,Burger Town,Mexican,05-08-2024,10:57,59,127.01,Cash,1.5,Bangalore
+ORD1872,Pasta Paradise,Chinese,06-08-2024,11:02,17,546.64,Debit Card,2.6,Kolkata
+ORD1873,Burger Town,Mexican,06-08-2024,19:07,21,1288.04,Cash,2.5,Mumbai
+ORD1874,Curry Delight,American,07-08-2024,17:13,20,252.58,Credit Card,1.4,Delhi
+ORD1875,Spice Villa,Japanese,07-08-2024,14:51,33,1722.28,Debit Card,3,Kolkata
+ORD1876,Pasta Paradise,Japanese,08-08-2024,10:28,57,1542.1,Debit Card,3.8,Mumbai
+ORD1877,Pizza Plaza,Chinese,08-08-2024,13:59,54,1941.92,Debit Card,4,Delhi
+ORD1878,Sushi World,Italian,09-08-2024,17:48,57,905.4,Cash,3,Delhi
+ORD1879,Curry Delight,Chinese,09-08-2024,17:11,53,266.81,Credit Card,2.1,Hyderabad
+ORD1880,Burger Town,Indian,10-08-2024,11:50,19,314.95,Credit Card,3.5,Mumbai
+ORD1881,Burger Town,Japanese,10-08-2024,20:06,31,648.08,Debit Card,3,Kolkata
+ORD1882,Pasta Paradise,American,11-08-2024,11:11,31,660.06,Credit Card,3.3,Kolkata
+ORD1883,Pasta Paradise,Italian,11-08-2024,22:07,27,1515.57,UPI,3.2,Hyderabad
+ORD1884,Spice Villa,American,12-08-2024,18:43,46,769.57,Credit Card,2.6,Chennai
+ORD1885,Spice Villa,Chinese,12-08-2024,22:29,53,1409.57,Cash,3.5,Chennai
+ORD1886,Pasta Paradise,Japanese,13-08-2024,19:50,17,275.97,Cash,3.7,Bangalore
+ORD1887,Spice Villa,American,13-08-2024,19:18,32,135.71,Credit Card,4.2,Hyderabad
+ORD1888,Pasta Paradise,American,14-08-2024,22:25,57,1986.51,Wallet,3.7,Bangalore
+ORD1889,Sushi World,Japanese,14-08-2024,22:05,49,1526.11,Cash,4,Hyderabad
+ORD1890,Pasta Paradise,Chinese,15-08-2024,17:22,30,1797,Cash,4.2,Hyderabad
+ORD1891,Spice Villa,Indian,15-08-2024,11:40,56,229.52,Wallet,2.1,Kolkata
+ORD1892,Pizza Plaza,Mexican,16-08-2024,22:00,46,1776.19,Wallet,4.4,Delhi
+ORD1893,Sushi World,American,16-08-2024,23:48,60,1901.19,Credit Card,3.5,Chennai
+ORD1894,Burger Town,Japanese,17-08-2024,15:48,29,375.56,Cash,3.6,Delhi
+ORD1895,Burger Town,American,17-08-2024,23:23,57,1875.4,UPI,1.5,Delhi
+ORD1896,Pizza Plaza,Japanese,18-08-2024,16:07,21,1068.36,UPI,2.9,Delhi
+ORD1897,Sushi World,Italian,18-08-2024,17:55,49,213.46,Cash,2.1,Delhi
+ORD1898,Pasta Paradise,Indian,19-08-2024,22:44,38,1140.32,Credit Card,4.5,Chennai
+ORD1899,Burger Town,Chinese,19-08-2024,18:31,33,517.1,Cash,3.7,Mumbai
+ORD1900,Sushi World,Japanese,20-08-2024,10:10,22,1571.28,Wallet,1.4,Delhi
+ORD1901,Curry Delight,American,20-08-2024,18:57,45,1496.97,UPI,4.6,Hyderabad
+ORD1902,Pasta Paradise,Mexican,21-08-2024,13:03,59,1234.75,UPI,4.4,Kolkata
+ORD1903,Curry Delight,Mexican,21-08-2024,22:07,39,947.84,Debit Card,2.5,Kolkata
+ORD1904,Pasta Paradise,Indian,22-08-2024,14:25,17,553.82,Debit Card,1.3,Bangalore
+ORD1905,Burger Town,Indian,22-08-2024,23:59,21,1366.29,Credit Card,2.6,Bangalore
+ORD1906,Curry Delight,Japanese,23-08-2024,12:44,19,769.72,UPI,2.3,Chennai
+ORD1907,Curry Delight,Italian,23-08-2024,23:14,28,326.11,UPI,2.1,Mumbai
+ORD1908,Sushi World,Chinese,24-08-2024,10:19,27,1252.52,Debit Card,2.1,Delhi
+ORD1909,Burger Town,Indian,24-08-2024,21:01,48,1135.53,Cash,4.7,Delhi
+ORD1910,Sushi World,American,25-08-2024,18:33,46,1076.1,Debit Card,4.8,Mumbai
+ORD1911,Burger Town,Japanese,25-08-2024,19:08,45,601.3,Credit Card,2.7,Hyderabad
+ORD1912,Curry Delight,Italian,26-08-2024,23:11,35,1188.11,Credit Card,2.9,Hyderabad
+ORD1913,Curry Delight,Italian,26-08-2024,22:32,29,1943.89,Cash,2,Bangalore
+ORD1914,Pizza Plaza,Indian,27-08-2024,11:16,16,1307.2,Cash,1.2,Bangalore
+ORD1915,Curry Delight,Italian,27-08-2024,22:40,17,458.9,Wallet,1.7,Mumbai
+ORD1916,Pizza Plaza,Indian,28-08-2024,18:49,37,729.6,UPI,1.6,Kolkata
+ORD1917,Curry Delight,Chinese,28-08-2024,20:29,40,939.14,UPI,3.6,Kolkata
+ORD1918,Curry Delight,Japanese,29-08-2024,22:14,59,1857.59,Cash,1.4,Bangalore
+ORD1919,Burger Town,Indian,29-08-2024,17:59,26,283.07,Wallet,1.5,Bangalore
+ORD1920,Burger Town,Mexican,30-08-2024,16:31,43,348.36,UPI,2.6,Delhi
+ORD1921,Pasta Paradise,Mexican,30-08-2024,23:26,40,1944.54,Debit Card,1,Bangalore
+ORD1922,Pizza Plaza,American,31-08-2024,19:04,41,1166.91,Cash,4.2,Delhi
+ORD1923,Burger Town,Italian,31-08-2024,17:18,56,666.75,Debit Card,2.9,Hyderabad
+ORD1924,Pizza Plaza,Indian,01-09-2024,13:32,18,1101.86,Cash,2.5,Hyderabad
+ORD1925,Sushi World,American,01-09-2024,11:21,38,1515.85,Cash,2.3,Hyderabad
+ORD1926,Spice Villa,Japanese,02-09-2024,19:46,33,740.42,UPI,3,Chennai
+ORD1927,Curry Delight,Italian,03-09-2024,20:48,58,1849.64,Cash,1.3,Hyderabad
+ORD1928,Sushi World,Japanese,03-09-2024,22:35,19,1670.55,Credit Card,1.4,Chennai
+ORD1929,Pasta Paradise,Indian,04-09-2024,15:33,29,205.23,Credit Card,3.5,Bangalore
+ORD1930,Pizza Plaza,American,04-09-2024,12:05,18,1662.38,Debit Card,4.1,Delhi
+ORD1931,Curry Delight,Indian,05-09-2024,19:43,49,1791.25,Debit Card,2.5,Delhi
+ORD1932,Spice Villa,Mexican,05-09-2024,18:06,40,1321.22,Debit Card,3.6,Kolkata
+ORD1933,Spice Villa,Japanese,06-09-2024,20:53,42,604.14,Cash,3.1,Mumbai
+ORD1934,Curry Delight,Indian,06-09-2024,13:34,22,619.67,UPI,1.1,Mumbai
+ORD1935,Curry Delight,Italian,07-09-2024,20:15,20,234.85,Wallet,3.4,Hyderabad
+ORD1936,Pasta Paradise,Indian,07-09-2024,14:23,31,936.38,Credit Card,4.1,Mumbai
+ORD1937,Spice Villa,Japanese,08-09-2024,12:27,40,519.17,Cash,4.3,Kolkata
+ORD1938,Spice Villa,Japanese,08-09-2024,16:39,36,402.46,Cash,3.6,Delhi
+ORD1939,Curry Delight,Mexican,09-09-2024,13:09,15,464.63,Credit Card,2.6,Kolkata
+ORD1940,Sushi World,Italian,09-09-2024,22:52,17,1625.26,Debit Card,2.4,Chennai
+ORD1941,Curry Delight,Indian,10-09-2024,18:28,42,140.59,UPI,3.7,Chennai
+ORD1942,Pasta Paradise,Indian,10-09-2024,18:00,51,1834.55,Debit Card,2.5,Kolkata
+ORD1943,Sushi World,Chinese,11-09-2024,20:02,50,815.88,Wallet,3.9,Mumbai
+ORD1944,Spice Villa,American,11-09-2024,13:51,35,224.14,Credit Card,2.8,Hyderabad
+ORD1945,Curry Delight,Indian,12-09-2024,14:19,16,914.91,UPI,1.3,Delhi
+ORD1946,Pizza Plaza,American,12-09-2024,21:27,48,1449.9,UPI,1.5,Bangalore
+ORD1947,Curry Delight,American,13-09-2024,20:21,27,1022.59,UPI,4.6,Chennai
+ORD1948,Curry Delight,American,13-09-2024,11:48,54,262.97,Wallet,4,Mumbai
+ORD1949,Pizza Plaza,Japanese,14-09-2024,13:50,56,430.18,Debit Card,4.7,Hyderabad
+ORD1950,Pasta Paradise,Japanese,14-09-2024,18:40,29,1732.39,Wallet,1.9,Bangalore
+ORD1951,Burger Town,Italian,15-09-2024,18:25,55,1684.88,Credit Card,2.6,Mumbai
+ORD1952,Sushi World,Italian,15-09-2024,20:20,31,1654.82,Debit Card,3.2,Chennai
+ORD1953,Pizza Plaza,American,16-09-2024,13:27,17,736.76,Wallet,1.5,Mumbai
+ORD1954,Sushi World,Mexican,16-09-2024,16:56,37,1419.82,Credit Card,1.5,Delhi
+ORD1955,Burger Town,Italian,17-09-2024,23:00,24,279.31,Credit Card,3.6,Mumbai
+ORD1956,Sushi World,American,17-09-2024,15:56,49,1353.35,UPI,4.1,Kolkata
+ORD1957,Curry Delight,Japanese,18-09-2024,16:56,27,1617.84,Wallet,1.7,Delhi
+ORD1958,Burger Town,Italian,18-09-2024,19:54,26,1221.52,Debit Card,4.3,Delhi
+ORD1959,Spice Villa,Indian,19-09-2024,11:19,32,912.77,Credit Card,4.4,Kolkata
+ORD1960,Burger Town,Italian,19-09-2024,22:27,58,740.42,Credit Card,2.4,Chennai
+ORD1961,Spice Villa,Chinese,20-09-2024,21:44,46,123.98,Credit Card,1.2,Hyderabad
+ORD1962,Burger Town,American,20-09-2024,11:34,56,1731.57,Credit Card,1.1,Delhi
+ORD1963,Burger Town,Mexican,21-09-2024,22:29,36,1995.95,Credit Card,4.7,Hyderabad
+ORD1964,Spice Villa,Italian,21-09-2024,18:25,20,1894.03,UPI,1.6,Kolkata
+ORD1965,Burger Town,Indian,22-09-2024,23:05,36,347.98,Cash,4.3,Hyderabad
+ORD1966,Pizza Plaza,Japanese,22-09-2024,17:59,34,1230.3,Credit Card,1.2,Mumbai
+ORD1967,Pizza Plaza,Italian,23-09-2024,22:37,38,1147.67,UPI,1.1,Bangalore
+ORD1968,Spice Villa,Indian,23-09-2024,13:30,56,1990.46,Credit Card,4.1,Bangalore
+ORD1969,Pizza Plaza,American,24-09-2024,17:08,23,1417,Cash,4.8,Mumbai
+ORD1970,Sushi World,Indian,24-09-2024,11:48,53,1901.84,UPI,4.8,Bangalore
+ORD1971,Pizza Plaza,Italian,25-09-2024,16:24,46,470.49,Wallet,4.1,Kolkata
+ORD1972,Spice Villa,Japanese,25-09-2024,23:51,24,1095.24,Wallet,4.3,Chennai
+ORD1973,Curry Delight,Mexican,26-09-2024,14:17,56,126.11,Credit Card,4.2,Delhi
+ORD1974,Sushi World,Chinese,26-09-2024,20:03,51,1608.87,Cash,4.7,Delhi
+ORD1975,Pizza Plaza,American,27-09-2024,23:10,28,1574.11,Wallet,3.7,Hyderabad
+ORD1976,Pizza Plaza,Indian,27-09-2024,12:56,36,1569.46,Cash,4.9,Bangalore
+ORD1977,Sushi World,Mexican,28-09-2024,14:00,34,1334.09,Wallet,3.7,Hyderabad
+ORD1978,Spice Villa,Indian,28-09-2024,12:08,15,1765.02,Debit Card,4.3,Mumbai
+ORD1979,Spice Villa,Mexican,29-09-2024,10:14,34,1633.11,UPI,3.3,Mumbai
+ORD1980,Pasta Paradise,Indian,29-09-2024,14:46,16,294.04,Wallet,1.7,Delhi
+ORD1981,Pasta Paradise,Japanese,30-09-2024,18:39,57,1695.19,UPI,1.7,Bangalore
+ORD1982,Pasta Paradise,Chinese,30-09-2024,14:00,58,246.74,Debit Card,4.7,Kolkata
+ORD1983,Curry Delight,Indian,01-10-2024,16:05,48,293.75,Debit Card,3,Bangalore
+ORD1984,Pizza Plaza,Italian,01-10-2024,23:22,27,521.83,Cash,2.5,Chennai
+ORD1985,Curry Delight,Chinese,02-10-2024,22:10,42,1402.6,Credit Card,3.4,Kolkata
+ORD1986,Pizza Plaza,Indian,02-10-2024,10:06,42,1690.3,Debit Card,3.4,Hyderabad
+ORD1987,Pizza Plaza,Italian,03-10-2024,14:11,44,1628.91,Cash,2.9,Delhi
+ORD1988,Curry Delight,Japanese,03-10-2024,14:03,35,1917.47,Wallet,3.8,Delhi
+ORD1989,Pizza Plaza,Italian,04-10-2024,21:43,18,859.63,Debit Card,2.4,Hyderabad
+ORD1990,Curry Delight,Mexican,04-10-2024,22:45,28,173.2,Credit Card,4.8,Chennai
+ORD1991,Curry Delight,American,05-10-2024,17:07,15,989.65,Credit Card,2.5,Bangalore
+ORD1992,Pizza Plaza,American,05-10-2024,16:16,28,1232.3,UPI,4.9,Hyderabad
+ORD1993,Burger Town,Italian,06-10-2024,19:17,15,1488.24,Debit Card,1.5,Kolkata
+ORD1994,Curry Delight,Mexican,06-10-2024,20:25,24,442.7,Credit Card,1.8,Delhi
+ORD1995,Sushi World,Mexican,07-10-2024,22:02,34,621.99,Wallet,2.6,Hyderabad
+ORD1996,Pizza Plaza,Mexican,07-10-2024,13:35,26,1253.55,Wallet,1.4,Chennai
+ORD1997,Sushi World,Mexican,08-10-2024,18:33,48,881.78,UPI,2.5,Mumbai
+ORD1998,Spice Villa,Japanese,08-10-2024,21:16,28,1556.71,Cash,4.4,Kolkata
+ORD1999,Burger Town,Italian,09-10-2024,19:16,45,1038.77,Wallet,1.8,Bangalore
+ORD2000,Burger Town,Chinese,10-10-2024,22:37,15,1249.61,Debit Card,1.7,Bangalore
